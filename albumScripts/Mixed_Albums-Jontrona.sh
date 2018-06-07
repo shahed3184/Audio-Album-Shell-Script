@@ -20,25 +20,25 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Ondho%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Ondho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Natok%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Natok%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Shadh%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Shadh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Guru%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Guru%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Brishti%20Bhejha%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Brishti%20Bhejha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Bidrohi%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Bidrohi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Jodi%20Bhul%20Kore%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Jodi%20Bhul%20Kore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Mrittu%20Kabbo%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Mrittu%20Kabbo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Noshtalgia%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/James%20-%20Noshtalgia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Kobita%20Sukh%20Urao%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Jontrona/Ayub%20Bachchu%20-%20Kobita%20Sukh%20Urao%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

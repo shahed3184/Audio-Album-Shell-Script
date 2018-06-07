@@ -20,7 +20,7 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/Z/Zefyr/Zefyr%20-%20Desh%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/Z/Zefyr/Zefyr%20-%20Desh%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

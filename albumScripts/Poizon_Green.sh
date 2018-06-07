@@ -20,9 +20,9 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/P/Poizon%20Green/Artonad%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/P/Poizon%20Green/Artonad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon%20Green/Ekhanei%20Mrittu%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/P/Poizon%20Green/Ekhanei%20Mrittu%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

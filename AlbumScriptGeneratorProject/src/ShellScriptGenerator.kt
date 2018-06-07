@@ -14,21 +14,17 @@ const val scriptDirectoryName = "../albumScripts"
 
 fun main(args : Array<String>) {
 
-    val musicList = mutableListOf<Music>()
+    freshCreateScriptDir()
 
-
-    //Generate from music.com.bd
-    println("Generating form music.com.bd")
     val url = "http://download.music.com.bd/sitemap.xml"
-    getList(url).lines().forEach {
-        analyzeMusicBdLine(it, musicList)
+    getResponseFromUrl(url).lines().forEach {
+        writeToFIle(getMusicFromLine(it));
     }
-//    musicList.forEach{
-////        println(">  " + it.fileName + " "+it.downloadScript)
-//        writeToFIle(it)
-//    }
 
+    addFooterToBashScript()
+}
 
+private fun addFooterToBashScript(){
     //Add footer to all files
     val dirctory = File(scriptDirectoryName);
     dirctory.listFiles().forEach {
@@ -37,17 +33,23 @@ fun main(args : Array<String>) {
                 "    cd ..\n" +
                 "done \n")
     }
-
-
 }
 
-private fun analyzeMusicBdLine(tmpString: String, musicList: MutableList<Music>) {
+private fun freshCreateScriptDir(){
+    //Create dir
+    val dirctory = File(scriptDirectoryName)
+    dirctory.listFiles().forEach {
+        it.delete()
+    }
+    dirctory.mkdir()
+}
 
+private fun getMusicFromLine(tmpString: String) : Music {
     var it  = tmpString
     if (it.contains(".mp3.html")){
         it = it.replace("<url><loc>http://download.music.com.bd", ".").replace(".html</loc></url>", "")
     } else {
-        return
+        return Music("", "");
     }
 
     var shellScriptName = "";
@@ -67,22 +69,17 @@ private fun analyzeMusicBdLine(tmpString: String, musicList: MutableList<Music>)
     val musicUrl = lastPartOfUrl.replace(" ", "%20").replace("./Music/", "http://download.music.com.bd/Music/", false)
 
     println(musicUrl)
-    writeToFIle(Music(shellScriptName, "wget \""+musicUrl+"\""))
+    return Music(shellScriptName, "wget -N \""+musicUrl+"\"")
 
-//    if (pingURL(musicUrl, 200)) {
-////        musicList.add(Music(shellScriptName, "wget \""+musicUrl+"\""))
-//        println("Url is reachable")
-//    }else
-//        println("Url is unreachable")
 }
 
 
 
 fun writeToFIle(music: Music){
 
-    //Create dir
-    val dirctory = File(scriptDirectoryName);
-    dirctory.mkdir()
+    if (music.fileName.equals("")){
+        return
+    }
 
     var myFile = File(scriptDirectoryName+"/"+music.fileName)
 
@@ -117,11 +114,12 @@ fun writeToFIle(music: Music){
 
 
     println(music.fileName + " : "+music.downloadScript)
+
     myFile.appendText(music.downloadScript+"\n")
 }
 
 
-private fun getList(url: String) : String {
+private fun getResponseFromUrl(url: String) : String {
     val obj = URL(url)
 
     var finalResponse  = ""
