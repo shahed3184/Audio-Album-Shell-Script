@@ -20,37 +20,109 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/05 - Kumar Bishwajit - Je Betha Dia Gele Upohar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/15%20-%20Kumar%20Bishwajit%20-%20Prem%20To%20Chorer%20Jomi%20Noy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/11 - Kumar Bishwajit - Chondona Go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/11%20-%20Kumar%20Bishwajit%20-%20Chondona%20Go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/16 - Kumar Bishwajit - Kotha Tomar Jonne Ei Nirobota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/05%20-%20Kumar%20Bishwajit%20-%20Je%20Betha%20Dia%20Gele%20Upohar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/02 - Kumar Bishwajit - Boshonto Chuyeche (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/01%20-%20Kumar%20Bishwajit%20-%20Je%20Shikari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/08 - Kumar Bishwajit - Amar Chokher Dekha Bhul Holo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/06%20-%20Kumar%20Bishwajit%20-%20Jormoile%20Morite%20Hoibe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/06 - Kumar Bishwajit - Jormoile Morite Hoibe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/09%20-%20Kumar%20Bishwajit%20-%20Tumi%20Roj%20Bikele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/03 - Kumar Bishwajit - Tomar Shithir Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/07%20-%20Kumar%20Bishwajit%20-%20Ami%20Bhalo%20Thakar%20Kotha%20Shune%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/04 - Kumar Bishwajit - Ami Nirbashone Jabo Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/02%20-%20Kumar%20Bishwajit%20-%20Boshonto%20Chuyeche%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/13 - Kumar Bishwajit - Prohori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/04%20-%20Kumar%20Bishwajit%20-%20Ami%20Nirbashone%20Jabo%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/10 - Kumar Bishwajit - Ek Poshla Brishti Te (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/08%20-%20Kumar%20Bishwajit%20-%20Amar%20Chokher%20Dekha%20Bhul%20Holo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/12 - Kumar Bishwajit - O Docktar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/13%20-%20Kumar%20Bishwajit%20-%20Prohori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/07 - Kumar Bishwajit - Ami Bhalo Thakar Kotha Shune (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/03%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shithir%20Moto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/15 - Kumar Bishwajit - Prem To Chorer Jomi Noy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/16%20-%20Kumar%20Bishwajit%20-%20Kotha%20Tomar%20Jonne%20Ei%20Nirobota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/01 - Kumar Bishwajit - Je Shikari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/14%20-%20Kumar%20Bishwajit%20-%20Ektara%20Bajaio%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/14 - Kumar Bishwajit - Ektara Bajaio Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/10%20-%20Kumar%20Bishwajit%20-%20Ek%20Poshla%20Brishti%20Te%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Shikari/09 - Kumar Bishwajit - Tumi Roj Bikele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/12%20-%20Kumar%20Bishwajit%20-%20O%20Docktar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/15%20-%20Kumar%20Bishwajit%20-%20Prem%20To%20Chorer%20Jomi%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/11%20-%20Kumar%20Bishwajit%20-%20Chondona%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/05%20-%20Kumar%20Bishwajit%20-%20Je%20Betha%20Dia%20Gele%20Upohar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/01%20-%20Kumar%20Bishwajit%20-%20Je%20Shikari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/06%20-%20Kumar%20Bishwajit%20-%20Jormoile%20Morite%20Hoibe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/09%20-%20Kumar%20Bishwajit%20-%20Tumi%20Roj%20Bikele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/07%20-%20Kumar%20Bishwajit%20-%20Ami%20Bhalo%20Thakar%20Kotha%20Shune%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/02%20-%20Kumar%20Bishwajit%20-%20Boshonto%20Chuyeche%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/04%20-%20Kumar%20Bishwajit%20-%20Ami%20Nirbashone%20Jabo%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/08%20-%20Kumar%20Bishwajit%20-%20Amar%20Chokher%20Dekha%20Bhul%20Holo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/13%20-%20Kumar%20Bishwajit%20-%20Prohori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/03%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shithir%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/16%20-%20Kumar%20Bishwajit%20-%20Kotha%20Tomar%20Jonne%20Ei%20Nirobota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/14%20-%20Kumar%20Bishwajit%20-%20Ektara%20Bajaio%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/10%20-%20Kumar%20Bishwajit%20-%20Ek%20Poshla%20Brishti%20Te%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/12%20-%20Kumar%20Bishwajit%20-%20O%20Docktar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/15%20-%20Kumar%20Bishwajit%20-%20Prem%20To%20Chorer%20Jomi%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/11%20-%20Kumar%20Bishwajit%20-%20Chondona%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/05%20-%20Kumar%20Bishwajit%20-%20Je%20Betha%20Dia%20Gele%20Upohar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/01%20-%20Kumar%20Bishwajit%20-%20Je%20Shikari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/06%20-%20Kumar%20Bishwajit%20-%20Jormoile%20Morite%20Hoibe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/09%20-%20Kumar%20Bishwajit%20-%20Tumi%20Roj%20Bikele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/07%20-%20Kumar%20Bishwajit%20-%20Ami%20Bhalo%20Thakar%20Kotha%20Shune%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/02%20-%20Kumar%20Bishwajit%20-%20Boshonto%20Chuyeche%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/04%20-%20Kumar%20Bishwajit%20-%20Ami%20Nirbashone%20Jabo%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/08%20-%20Kumar%20Bishwajit%20-%20Amar%20Chokher%20Dekha%20Bhul%20Holo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/13%20-%20Kumar%20Bishwajit%20-%20Prohori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/03%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shithir%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/16%20-%20Kumar%20Bishwajit%20-%20Kotha%20Tomar%20Jonne%20Ei%20Nirobota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/14%20-%20Kumar%20Bishwajit%20-%20Ektara%20Bajaio%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/10%20-%20Kumar%20Bishwajit%20-%20Ek%20Poshla%20Brishti%20Te%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Shikari/12%20-%20Kumar%20Bishwajit%20-%20O%20Docktar%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

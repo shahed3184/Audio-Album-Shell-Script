@@ -20,33 +20,97 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - The Epitome (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Chow Mei Fun (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Badman%20Returns%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Deceptive Measures (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20The%20Epitome%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Party%20at%20Piano%20House%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Bloopers (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Chow%20Mei%20Fun%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Prem Mrittur Por (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Prem%20Mrittur%20Por%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Party at Piano House (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Mayabi%20Chokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Sheshbaarer Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Sheshbaarer%20Moto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Eto Raag (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Bloopers%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Mayabi Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Deceptive%20Measures%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Intro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Intro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Aabar Jigay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Roktim%20Singhashon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Roktim Singhashon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Eto%20Raag%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Light Years Ahead/Stoic Bliss - Badman Returns (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Aabar%20Jigay%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Badman%20Returns%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20The%20Epitome%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Party%20at%20Piano%20House%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Chow%20Mei%20Fun%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Prem%20Mrittur%20Por%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Mayabi%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Sheshbaarer%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Bloopers%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Deceptive%20Measures%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Roktim%20Singhashon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Eto%20Raag%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Aabar%20Jigay%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Badman%20Returns%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20The%20Epitome%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Party%20at%20Piano%20House%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Chow%20Mei%20Fun%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Prem%20Mrittur%20Por%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Mayabi%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Sheshbaarer%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Bloopers%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Deceptive%20Measures%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Roktim%20Singhashon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Eto%20Raag%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Light%20Years%20Ahead/Stoic%20Bliss%20-%20Aabar%20Jigay%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

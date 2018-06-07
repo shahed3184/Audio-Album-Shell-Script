@@ -20,21 +20,61 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Bhalo Lagey Josna Raate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Akasher%20Haathe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Shorbo Shadhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Jantam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Akasher Haathe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shorbo%20Shadhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Ami Jantam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Amar%20Mon%20Matano%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Holudia Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Bhalo%20Lagey%20Josna%20Raate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Amar Mon Matano (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Boshe%20Achi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Shadhur Charan Dhuli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Beauty/Beauty - Ami Boshe Achi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Akasher%20Haathe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Jantam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shorbo%20Shadhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Amar%20Mon%20Matano%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Bhalo%20Lagey%20Josna%20Raate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Boshe%20Achi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Akasher%20Haathe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Jantam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shorbo%20Shadhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Amar%20Mon%20Matano%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Bhalo%20Lagey%20Josna%20Raate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Boshe%20Achi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

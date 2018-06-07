@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Prohoshon Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Prohoshon%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Alo Adhare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Kichu%20Kichu%20Kotha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Eari Majhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Chayer%20Kape%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Nishongota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Alo%20Adhare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Chayer Kape (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nirobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Kichu Kichu Kotha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishartho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Nishartho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Bastota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Nishchup Majhraate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Asanto%20Hridoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Nirobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishchup%20Majhraate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Bastota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Anuvoti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Asanto Hridoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishongota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Anuvoti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Eari%20Majhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Ajj Din Katuk Gaane/Souls - Ajj Din Katuk Gaane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Ajj%20Din%20Katuk%20Gaane%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Prohoshon%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Kichu%20Kichu%20Kotha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Chayer%20Kape%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Alo%20Adhare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nirobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishartho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Bastota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Asanto%20Hridoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishchup%20Majhraate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Anuvoti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishongota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Eari%20Majhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Ajj%20Din%20Katuk%20Gaane%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Prohoshon%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Kichu%20Kichu%20Kotha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Chayer%20Kape%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Alo%20Adhare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nirobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishartho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Bastota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Asanto%20Hridoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishchup%20Majhraate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Anuvoti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishongota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Eari%20Majhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Ajj%20Din%20Katuk%20Gaane%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

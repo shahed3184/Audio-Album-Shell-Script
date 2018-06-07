@@ -20,13 +20,37 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Nodir Buke Chaad 1/Ayub Bachchu - Nodir Bukey Chad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Tomar%20Chokhe%20Dekhle%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Nodir Buke Chaad 1/Ayub Bachchu - O Amar Shokhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20O%20Amar%20Shokhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Nodir Buke Chaad 1/Ayub Bachchu - Ek Akasher Tara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Nodir%20Bukey%20Chad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Nodir Buke Chaad 1/Ayub Bachchu - Tomar Chokhe Dekhle (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Ek%20Akasher%20Tara%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Tomar%20Chokhe%20Dekhle%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20O%20Amar%20Shokhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Nodir%20Bukey%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Ek%20Akasher%20Tara%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Tomar%20Chokhe%20Dekhle%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20O%20Amar%20Shokhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Nodir%20Bukey%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Nodir%20Buke%20Chaad%201/Ayub%20Bachchu%20-%20Ek%20Akasher%20Tara%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

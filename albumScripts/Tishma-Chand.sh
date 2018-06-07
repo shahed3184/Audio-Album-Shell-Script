@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Chand (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Tumi%20Esho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Chander Gaate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Anondo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Bashoriya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Railgari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Tumi Esho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Chander%20Gaate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Tui Sara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Bashoriya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Thaak Thaak (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Moyna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Railgari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Tui%20Sara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Fair (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Fair%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Moyna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Chand%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma - Anondo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Thaak%20Thaak%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Tumi%20Esho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Anondo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Railgari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Chander%20Gaate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Bashoriya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Moyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Tui%20Sara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Fair%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Chand%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Thaak%20Thaak%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Tumi%20Esho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Anondo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Railgari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Chander%20Gaate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Bashoriya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Moyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Tui%20Sara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Fair%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Chand%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Chand/Tishma%20-%20Thaak%20Thaak%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Iccher Palok (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Dhakar%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Jail Theke Bolchi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Jail%20Theke%20Bolchi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Peshadar Khuni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Iccher%20Palok%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Jhorer Raatey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Jhorer%20Raatey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Bhabna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Tomake%20Khuje%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Redoyer Akla Prantorey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Josey%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Tomake Khuje (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Peshadar%20Khuni%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Josey Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Bhabna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Neel Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Amar%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Praner Shohor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Redoyer%20Akla%20Prantorey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Dhakar Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Neel%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jail Theke Bolchi/James - Amar Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Praner%20Shohor%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Dhakar%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Jail%20Theke%20Bolchi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Iccher%20Palok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Jhorer%20Raatey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Tomake%20Khuje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Josey%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Peshadar%20Khuni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Bhabna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Amar%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Redoyer%20Akla%20Prantorey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Neel%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Praner%20Shohor%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Dhakar%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Jail%20Theke%20Bolchi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Iccher%20Palok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Jhorer%20Raatey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Tomake%20Khuje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Josey%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Peshadar%20Khuni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Bhabna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Amar%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Redoyer%20Akla%20Prantorey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Neel%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jail%20Theke%20Bolchi/James%20-%20Praner%20Shohor%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

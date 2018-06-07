@@ -20,33 +20,97 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/07 - Hason Raja - Matiro Pinjire Majhey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/08%20-%20Hason%20Raja%20-%20Sona%20Bondhey%20Amarey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/03 - Hason Raja - Agun Lagaiya Dilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/11%20-%20Hason%20Raja%20-%20Aharey%20Sonali%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/02 - Hason Raja - Ami Jaimurey Jaimu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/13%20-%20Hason%20Raja%20-%20Ami%20Kariey%20Mana%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/11 - Hason Raja - Aharey Sonali Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/02%20-%20Hason%20Raja%20-%20Ami%20Jaimurey%20Jaimu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/04 - Hason Raja - Akdin Tore Hoibore Moron (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/07%20-%20Hason%20Raja%20-%20Matiro%20Pinjire%20Majhey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/01 - Hason Raja - Lokey Baley Balerey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/06%20-%20Hason%20Raja%20-%20Baula%20Key%20Banailorey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/13 - Hason Raja - Ami Kariey Mana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/01%20-%20Hason%20Raja%20-%20Lokey%20Baley%20Balerey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/10 - Hason Raja - Hason Raja Koy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/09%20-%20Hason%20Raja%20-%20Kanai%20Tumi%20Kheir%20Khelao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/06 - Hason Raja - Baula Key Banailorey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/12%20-%20Hason%20Raja%20-%20Ronger%20Baroi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/09 - Hason Raja - Kanai Tumi Kheir Khelao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/14%20-%20Hason%20Raja%20-%20Hason%20Raja%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/14 - Hason Raja - Hason Raja (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/05%20-%20Hason%20Raja%20-%20Nisha%20Lagilo%20Rey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/12 - Hason Raja - Ronger Baroi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/04%20-%20Hason%20Raja%20-%20Akdin%20Tore%20Hoibore%20Moron%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/08 - Hason Raja - Sona Bondhey Amarey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/03%20-%20Hason%20Raja%20-%20Agun%20Lagaiya%20Dilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hason Raja/Akdin Tor Haiborey Maran/05 - Hason Raja - Nisha Lagilo Rey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/10%20-%20Hason%20Raja%20-%20Hason%20Raja%20Koy%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/08%20-%20Hason%20Raja%20-%20Sona%20Bondhey%20Amarey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/11%20-%20Hason%20Raja%20-%20Aharey%20Sonali%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/13%20-%20Hason%20Raja%20-%20Ami%20Kariey%20Mana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/02%20-%20Hason%20Raja%20-%20Ami%20Jaimurey%20Jaimu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/07%20-%20Hason%20Raja%20-%20Matiro%20Pinjire%20Majhey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/06%20-%20Hason%20Raja%20-%20Baula%20Key%20Banailorey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/01%20-%20Hason%20Raja%20-%20Lokey%20Baley%20Balerey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/09%20-%20Hason%20Raja%20-%20Kanai%20Tumi%20Kheir%20Khelao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/12%20-%20Hason%20Raja%20-%20Ronger%20Baroi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/14%20-%20Hason%20Raja%20-%20Hason%20Raja%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/05%20-%20Hason%20Raja%20-%20Nisha%20Lagilo%20Rey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/04%20-%20Hason%20Raja%20-%20Akdin%20Tore%20Hoibore%20Moron%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/03%20-%20Hason%20Raja%20-%20Agun%20Lagaiya%20Dilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/10%20-%20Hason%20Raja%20-%20Hason%20Raja%20Koy%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/08%20-%20Hason%20Raja%20-%20Sona%20Bondhey%20Amarey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/11%20-%20Hason%20Raja%20-%20Aharey%20Sonali%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/13%20-%20Hason%20Raja%20-%20Ami%20Kariey%20Mana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/02%20-%20Hason%20Raja%20-%20Ami%20Jaimurey%20Jaimu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/07%20-%20Hason%20Raja%20-%20Matiro%20Pinjire%20Majhey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/06%20-%20Hason%20Raja%20-%20Baula%20Key%20Banailorey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/01%20-%20Hason%20Raja%20-%20Lokey%20Baley%20Balerey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/09%20-%20Hason%20Raja%20-%20Kanai%20Tumi%20Kheir%20Khelao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/12%20-%20Hason%20Raja%20-%20Ronger%20Baroi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/14%20-%20Hason%20Raja%20-%20Hason%20Raja%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/05%20-%20Hason%20Raja%20-%20Nisha%20Lagilo%20Rey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/04%20-%20Hason%20Raja%20-%20Akdin%20Tore%20Hoibore%20Moron%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/03%20-%20Hason%20Raja%20-%20Agun%20Lagaiya%20Dilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hason%20Raja/Akdin%20Tor%20Haiborey%20Maran/10%20-%20Hason%20Raja%20-%20Hason%20Raja%20Koy%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

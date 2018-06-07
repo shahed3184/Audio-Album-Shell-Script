@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Shadhin Bangla Betar Kendro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Sreshtho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Voboghure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Voboghure%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Protibadh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Protibadh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Dhulikona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Lobher%20Agun%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Protibadh 1 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Protibadh%201%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Dreamsayar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Dreamsayar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Shet Shuvro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Shadhin%20Bangla%20Betar%20Kendro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Sesh Train (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Sesh%20Train%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Lobher Agun (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Dhulikona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Cryptic Fate/Sreshto/Cryptic Fate - Sreshtho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Shet%20Shuvro%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Sreshtho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Voboghure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Protibadh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Lobher%20Agun%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Protibadh%201%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Dreamsayar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Shadhin%20Bangla%20Betar%20Kendro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Sesh%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Dhulikona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Shet%20Shuvro%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Sreshtho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Voboghure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Protibadh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Lobher%20Agun%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Protibadh%201%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Dreamsayar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Shadhin%20Bangla%20Betar%20Kendro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Sesh%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Dhulikona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Cryptic%20Fate/Sreshto/Cryptic%20Fate%20-%20Shet%20Shuvro%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Purush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Chakuri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Khujbona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Khujbona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Purush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Chakuri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Shopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Dhakaiya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Dhakaiya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Premik Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Nari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Nari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Borsha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Kichukkhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Kichukkhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hyder Husyn/Shopno/Hyder Husyn - Borsha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Premik%20Mon%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Chakuri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Khujbona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Purush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Dhakaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Nari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Borsha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Kichukkhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Premik%20Mon%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Chakuri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Khujbona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Purush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Dhakaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Nari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Borsha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Kichukkhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hyder%20Husyn/Shopno/Hyder%20Husyn%20-%20Premik%20Mon%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

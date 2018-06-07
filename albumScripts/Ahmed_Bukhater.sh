@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Al Qodso Tonadeena (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Al%20Qodso%20Tonadeena%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Fartaqi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Ramadan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - World Of Pride (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Ya%20Eid%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Ramadan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Fartaqi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Ya Eid (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Quiteness%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Last Breath (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Last%20Breath%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Taweelo Al Shawq (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Mother%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Mother (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Taweelo%20Al%20Shawq%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Zayed Alwafaa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20World%20Of%20Pride%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Hijaab (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Zayed%20Alwafaa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ahmed Bukhater/Ahmed Bukhater - Quiteness (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Hijaab%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Al%20Qodso%20Tonadeena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Ramadan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Ya%20Eid%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Fartaqi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Quiteness%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Last%20Breath%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Mother%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Taweelo%20Al%20Shawq%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20World%20Of%20Pride%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Zayed%20Alwafaa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Hijaab%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Al%20Qodso%20Tonadeena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Ramadan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Ya%20Eid%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Fartaqi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Quiteness%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Last%20Breath%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Mother%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Taweelo%20Al%20Shawq%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20World%20Of%20Pride%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Zayed%20Alwafaa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ahmed%20Bukhater/Ahmed%20Bukhater%20-%20Hijaab%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

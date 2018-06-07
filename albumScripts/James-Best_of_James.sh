@@ -20,11 +20,31 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Best of James/James - Bhalobeshe Chole Jeona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Poddo%20Patar%20Jol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Best of James/James - Borsha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Bhalobeshe%20Chole%20Jeona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Best of James/James - Poddo Patar Jol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Borsha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Poddo%20Patar%20Jol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Bhalobeshe%20Chole%20Jeona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Borsha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Poddo%20Patar%20Jol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Bhalobeshe%20Chole%20Jeona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Best%20of%20James/James%20-%20Borsha%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

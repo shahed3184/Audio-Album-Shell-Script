@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/02 - Mila feat Ali - Chera Paal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/03%20-%20Mila%20-%20Mela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/04 - Mila - Fele Asha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/07%20-%20Mila%20-%20Bhul%20Kore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/06 - Mila - Raag (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/10%20-%20Mila%20-%2069%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/03 - Mila - Mela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/01%20-%20Mila%20feat.%20Balam%20feat.%20Ali%20-%20Nirjon%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/01 - Mila feat. Balam feat. Ali - Nirjon Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/12%20-%20Mila%20feat%20Ali%20-%20Chera%20Paal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/11 - Mila - Helpless (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/05%20-%20Mila%20-%20Pora%20Bashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/10 - Mila - 69 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/08%20-%20Mila%20-%20Frndz%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/07 - Mila - Bhul Kore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/04%20-%20Mila%20-%20Fele%20Asha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/12 - Mila feat Ali - Chera Paal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/02%20-%20Mila%20feat%20Ali%20-%20Chera%20Paal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/08 - Mila - Frndz (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/11%20-%20Mila%20-%20Helpless%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/09 - Mila - Tumi Jano Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/09%20-%20Mila%20-%20Tumi%20Jano%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mila/Fele Asha/05 - Mila - Pora Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/06%20-%20Mila%20-%20Raag%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/03%20-%20Mila%20-%20Mela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/07%20-%20Mila%20-%20Bhul%20Kore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/10%20-%20Mila%20-%2069%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/01%20-%20Mila%20feat.%20Balam%20feat.%20Ali%20-%20Nirjon%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/12%20-%20Mila%20feat%20Ali%20-%20Chera%20Paal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/05%20-%20Mila%20-%20Pora%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/08%20-%20Mila%20-%20Frndz%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/04%20-%20Mila%20-%20Fele%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/02%20-%20Mila%20feat%20Ali%20-%20Chera%20Paal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/11%20-%20Mila%20-%20Helpless%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/09%20-%20Mila%20-%20Tumi%20Jano%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/06%20-%20Mila%20-%20Raag%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/03%20-%20Mila%20-%20Mela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/07%20-%20Mila%20-%20Bhul%20Kore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/10%20-%20Mila%20-%2069%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/01%20-%20Mila%20feat.%20Balam%20feat.%20Ali%20-%20Nirjon%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/12%20-%20Mila%20feat%20Ali%20-%20Chera%20Paal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/05%20-%20Mila%20-%20Pora%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/08%20-%20Mila%20-%20Frndz%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/04%20-%20Mila%20-%20Fele%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/02%20-%20Mila%20feat%20Ali%20-%20Chera%20Paal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/11%20-%20Mila%20-%20Helpless%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/09%20-%20Mila%20-%20Tumi%20Jano%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mila/Fele%20Asha/06%20-%20Mila%20-%20Raag%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Ager Jonom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Ager%20Jonom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Janina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Aiona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Sudhu Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Makorsha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Shopno Loker Chobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sritir%20Diary%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Kokhono Kokhono (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Janina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Kotha Ekhono Likhini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Shopno%20Loker%20Chobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Sritir Diary (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Kokhono%20Kokhono%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Sondeho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Kotha%20Ekhono%20Likhini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Makorsha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sudhu%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Souls - Aiona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sondeho%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Ager%20Jonom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Aiona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Makorsha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sritir%20Diary%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Janina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Shopno%20Loker%20Chobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Kokhono%20Kokhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Kotha%20Ekhono%20Likhini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sudhu%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sondeho%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Ager%20Jonom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Aiona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Makorsha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sritir%20Diary%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Janina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Shopno%20Loker%20Chobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Kokhono%20Kokhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Kotha%20Ekhono%20Likhini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sudhu%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Souls%20-%20Sondeho%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

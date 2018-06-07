@@ -20,37 +20,109 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/04 - Indrani Sen - Tabo Gaaner Bhasay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/03%20-%20Indrani%20Sen%20-%20Gother%20Raakhal%20Bole%20De%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/02 - Indrani Sen - Oi Rangamathir Pothe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/14%20-%20Indrani%20Sen%20-%20Tumi%20Amer%20Sokhal%20Belar%20Pakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/10 - Indrani Sen - Sedino Bolechhile (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/04%20-%20Indrani%20Sen%20-%20Tabo%20Gaaner%20Bhasay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/03 - Indrani Sen - Gother Raakhal Bole De (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/15%20-%20Indrani%20Sen%20-%20Rum%20Jhum%20Jhum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/12 - Indrani Sen - Ekhono Otheni Chand (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/07%20-%20Indrani%20Sen%20-%20Bulbuli%20Nirob%20Nargis%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/07 - Indrani Sen - Bulbuli Nirob Nargis (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/06%20-%20Indrani%20Sen%20-%20Sukno%20Pater%20Nupur%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/11 - Indrani Sen - Bhoriya Paran Sunitechhi Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/11%20-%20Indrani%20Sen%20-%20Bhoriya%20Paran%20Sunitechhi%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/16 - Indrani Sen - Bhorer Haoay Ele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/01%20-%20Indrani%20Sen%20-%20Bhor%20Holo%20Dor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/08 - Indrani Sen - Pathohara Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/10%20-%20Indrani%20Sen%20-%20Sedino%20Bolechhile%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/15 - Indrani Sen - Rum Jhum Jhum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/16%20-%20Indrani%20Sen%20-%20Bhorer%20Haoay%20Ele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/05 - Indrani Sen - Gagane Krishina Megh Doly (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/05%20-%20Indrani%20Sen%20-%20Gagane%20Krishina%20Megh%20Doly%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/09 - Indrani Sen - Basata Mukhar Aaji (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/13%20-%20Indrani%20Sen%20-%20Mor%20Na%20Mitelo%20Asha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/13 - Indrani Sen - Mor Na Mitelo Asha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/02%20-%20Indrani%20Sen%20-%20Oi%20Rangamathir%20Pothe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/06 - Indrani Sen - Sukno Pater Nupur (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/12%20-%20Indrani%20Sen%20-%20Ekhono%20Otheni%20Chand%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/01 - Indrani Sen - Bhor Holo Dor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/09%20-%20Indrani%20Sen%20-%20Basata%20Mukhar%20Aaji%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Jhanker/14 - Indrani Sen - Tumi Amer Sokhal Belar Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/08%20-%20Indrani%20Sen%20-%20Pathohara%20Pakhi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/03%20-%20Indrani%20Sen%20-%20Gother%20Raakhal%20Bole%20De%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/14%20-%20Indrani%20Sen%20-%20Tumi%20Amer%20Sokhal%20Belar%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/04%20-%20Indrani%20Sen%20-%20Tabo%20Gaaner%20Bhasay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/15%20-%20Indrani%20Sen%20-%20Rum%20Jhum%20Jhum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/07%20-%20Indrani%20Sen%20-%20Bulbuli%20Nirob%20Nargis%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/06%20-%20Indrani%20Sen%20-%20Sukno%20Pater%20Nupur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/11%20-%20Indrani%20Sen%20-%20Bhoriya%20Paran%20Sunitechhi%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/01%20-%20Indrani%20Sen%20-%20Bhor%20Holo%20Dor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/10%20-%20Indrani%20Sen%20-%20Sedino%20Bolechhile%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/16%20-%20Indrani%20Sen%20-%20Bhorer%20Haoay%20Ele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/05%20-%20Indrani%20Sen%20-%20Gagane%20Krishina%20Megh%20Doly%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/13%20-%20Indrani%20Sen%20-%20Mor%20Na%20Mitelo%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/02%20-%20Indrani%20Sen%20-%20Oi%20Rangamathir%20Pothe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/12%20-%20Indrani%20Sen%20-%20Ekhono%20Otheni%20Chand%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/09%20-%20Indrani%20Sen%20-%20Basata%20Mukhar%20Aaji%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/08%20-%20Indrani%20Sen%20-%20Pathohara%20Pakhi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/03%20-%20Indrani%20Sen%20-%20Gother%20Raakhal%20Bole%20De%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/14%20-%20Indrani%20Sen%20-%20Tumi%20Amer%20Sokhal%20Belar%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/04%20-%20Indrani%20Sen%20-%20Tabo%20Gaaner%20Bhasay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/15%20-%20Indrani%20Sen%20-%20Rum%20Jhum%20Jhum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/07%20-%20Indrani%20Sen%20-%20Bulbuli%20Nirob%20Nargis%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/06%20-%20Indrani%20Sen%20-%20Sukno%20Pater%20Nupur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/11%20-%20Indrani%20Sen%20-%20Bhoriya%20Paran%20Sunitechhi%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/01%20-%20Indrani%20Sen%20-%20Bhor%20Holo%20Dor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/10%20-%20Indrani%20Sen%20-%20Sedino%20Bolechhile%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/16%20-%20Indrani%20Sen%20-%20Bhorer%20Haoay%20Ele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/05%20-%20Indrani%20Sen%20-%20Gagane%20Krishina%20Megh%20Doly%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/13%20-%20Indrani%20Sen%20-%20Mor%20Na%20Mitelo%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/02%20-%20Indrani%20Sen%20-%20Oi%20Rangamathir%20Pothe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/12%20-%20Indrani%20Sen%20-%20Ekhono%20Otheni%20Chand%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/09%20-%20Indrani%20Sen%20-%20Basata%20Mukhar%20Aaji%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Jhanker/08%20-%20Indrani%20Sen%20-%20Pathohara%20Pakhi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

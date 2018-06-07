@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Moner Dohon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Abar Dekha Hobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Nodire%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Ai Prithibite (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Prem%20Premer%20Moto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Prem Premer Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Ferari%20Pakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Kal%20Chilo%20Borshakal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Ferari Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Ai%20Prithibite%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Kal Chilo Borshakal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Jajabor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Jajabor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Moner%20Dohon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Nodire (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Abar%20Dekha%20Hobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Prem Premer Moto/Ayub Bachchu - Dukhini Ma (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Bondhu%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Nodire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Prem%20Premer%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Ferari%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Kal%20Chilo%20Borshakal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Ai%20Prithibite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Jajabor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Moner%20Dohon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Abar%20Dekha%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Bondhu%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Nodire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Prem%20Premer%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Ferari%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Kal%20Chilo%20Borshakal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Ai%20Prithibite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Jajabor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Moner%20Dohon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Abar%20Dekha%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Prem%20Premer%20Moto/Ayub%20Bachchu%20-%20Bondhu%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

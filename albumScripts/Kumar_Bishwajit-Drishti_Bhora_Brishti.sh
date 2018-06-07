@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/05 - Kumar Bishwajit - Lojjar Nodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/08%20-%20Kumar%20Bishwajit%20-%20Meghla%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/08 - Kumar Bishwajit - Meghla Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/02%20-%20Kumar%20Bishwajit%20-%20Jojon%20Jojon%20Dur%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/02 - Kumar Bishwajit - Jojon Jojon Dur (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/10%20-%20Kumar%20Bishwajit%20-%20Hobena%20Aar%20Dekha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/03 - Kumar Bishwajit - Khubi Chotto Ei Kothati (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/03%20-%20Kumar%20Bishwajit%20-%20Khubi%20Chotto%20Ei%20Kothati%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/09 - Kumar Bishwajit - Abaro Krishno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/04%20-%20Kumar%20Bishwajit%20-%20Jodi%20Chole%20Jai%20_Best%20Song_%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/04 - Kumar Bishwajit - Jodi Chole Jai _Best Song_ (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/06%20-%20Kumar%20Bishwajit%20-%20Choy%20Beharar%20Palki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/06 - Kumar Bishwajit - Choy Beharar Palki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/11%20-%20Kumar%20Bishwajit%20-%20Obhinoyer%20Mukhosh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/11 - Kumar Bishwajit - Obhinoyer Mukhosh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/01%20-%20Kumar%20Bishwajit%20-%20Drishti%20Bhora%20Brishti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/10 - Kumar Bishwajit - Hobena Aar Dekha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/05%20-%20Kumar%20Bishwajit%20-%20Lojjar%20Nodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Drishti Bhora Brishti/01 - Kumar Bishwajit - Drishti Bhora Brishti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/09%20-%20Kumar%20Bishwajit%20-%20Abaro%20Krishno%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/08%20-%20Kumar%20Bishwajit%20-%20Meghla%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/02%20-%20Kumar%20Bishwajit%20-%20Jojon%20Jojon%20Dur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/10%20-%20Kumar%20Bishwajit%20-%20Hobena%20Aar%20Dekha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/03%20-%20Kumar%20Bishwajit%20-%20Khubi%20Chotto%20Ei%20Kothati%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/04%20-%20Kumar%20Bishwajit%20-%20Jodi%20Chole%20Jai%20_Best%20Song_%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/06%20-%20Kumar%20Bishwajit%20-%20Choy%20Beharar%20Palki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/11%20-%20Kumar%20Bishwajit%20-%20Obhinoyer%20Mukhosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/01%20-%20Kumar%20Bishwajit%20-%20Drishti%20Bhora%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/05%20-%20Kumar%20Bishwajit%20-%20Lojjar%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/09%20-%20Kumar%20Bishwajit%20-%20Abaro%20Krishno%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/08%20-%20Kumar%20Bishwajit%20-%20Meghla%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/02%20-%20Kumar%20Bishwajit%20-%20Jojon%20Jojon%20Dur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/10%20-%20Kumar%20Bishwajit%20-%20Hobena%20Aar%20Dekha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/03%20-%20Kumar%20Bishwajit%20-%20Khubi%20Chotto%20Ei%20Kothati%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/04%20-%20Kumar%20Bishwajit%20-%20Jodi%20Chole%20Jai%20_Best%20Song_%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/06%20-%20Kumar%20Bishwajit%20-%20Choy%20Beharar%20Palki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/11%20-%20Kumar%20Bishwajit%20-%20Obhinoyer%20Mukhosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/01%20-%20Kumar%20Bishwajit%20-%20Drishti%20Bhora%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/05%20-%20Kumar%20Bishwajit%20-%20Lojjar%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Drishti%20Bhora%20Brishti/09%20-%20Kumar%20Bishwajit%20-%20Abaro%20Krishno%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

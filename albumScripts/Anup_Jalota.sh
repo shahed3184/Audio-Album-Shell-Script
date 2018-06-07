@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/01. Mon Job Nam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/04.%20Khelechi%20A%20Bisho%20Loye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/11. Azi Mone Mone Lage (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/05.%20Ridpidhe%20Choron%20Rakho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/09. He Gobindho Rakho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/07.%20Poro%20Poro%20Choitali%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/04. Khelechi A Bisho Loye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/01.%20Mon%20Job%20Nam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/07. Poro Poro Choitali (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/08.%20Alo%20Nondher%20Nondhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/03. Arun Kanti Ke Go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/03.%20Arun%20Kanti%20Ke%20Go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/10. Shokhi She Heri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/12.%20Timir%20Bidari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/05. Ridpidhe Choron Rakho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/11.%20Azi%20Mone%20Mone%20Lage%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/06. Payea Abohela Ghotale (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/06.%20Payea%20Abohela%20Ghotale%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/08. Alo Nondher Nondhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/10.%20Shokhi%20She%20Heri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/02. Tum Jhum Nupur (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/09.%20He%20Gobindho%20Rakho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Anup Jalota/12. Timir Bidari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/02.%20Tum%20Jhum%20Nupur%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/04.%20Khelechi%20A%20Bisho%20Loye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/05.%20Ridpidhe%20Choron%20Rakho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/07.%20Poro%20Poro%20Choitali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/01.%20Mon%20Job%20Nam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/08.%20Alo%20Nondher%20Nondhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/03.%20Arun%20Kanti%20Ke%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/12.%20Timir%20Bidari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/11.%20Azi%20Mone%20Mone%20Lage%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/06.%20Payea%20Abohela%20Ghotale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/10.%20Shokhi%20She%20Heri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/09.%20He%20Gobindho%20Rakho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/02.%20Tum%20Jhum%20Nupur%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/04.%20Khelechi%20A%20Bisho%20Loye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/05.%20Ridpidhe%20Choron%20Rakho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/07.%20Poro%20Poro%20Choitali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/01.%20Mon%20Job%20Nam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/08.%20Alo%20Nondher%20Nondhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/03.%20Arun%20Kanti%20Ke%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/12.%20Timir%20Bidari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/11.%20Azi%20Mone%20Mone%20Lage%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/06.%20Payea%20Abohela%20Ghotale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/10.%20Shokhi%20She%20Heri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/09.%20He%20Gobindho%20Rakho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Anup%20Jalota/02.%20Tum%20Jhum%20Nupur%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

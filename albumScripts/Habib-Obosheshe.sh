@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/2 - Habib Wahid and Ferdous Wahid - Cholte Cholte Dekha Holo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/9%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Keno%20Emon%20Hoy%20(Instrumantal)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/4 - Habib Wahid and Ferdous Wahid - Dukkho Chuayee Dekho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/8%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Chokhe%20Chokhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/5 - Habib Wahid and Ferdous Wahid - Feery Aasho Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/7%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Valo%20Lage%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/9 - Habib Wahid and Ferdous Wahid - Keno Emon Hoy (Instrumantal) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/2%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Cholte%20Cholte%20Dekha%20Holo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/8 - Habib Wahid and Ferdous Wahid - Chokhe Chokhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/3%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Neel%20Jochona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/1 - Habib Wahid and Ferdous Wahid - Keno Emon Hoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/1%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Keno%20Emon%20Hoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/6 - Habib Wahid and Ferdous Wahid - Katena Mayabi Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/6%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Katena%20Mayabi%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/3 - Habib Wahid and Ferdous Wahid - Neel Jochona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/5%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Feery%20Aasho%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/7 - Habib Wahid and Ferdous Wahid - Valo Lage (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/4%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Dukkho%20Chuayee%20Dekho%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/9%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Keno%20Emon%20Hoy%20(Instrumantal)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/8%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Chokhe%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/7%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Valo%20Lage%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/2%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Cholte%20Cholte%20Dekha%20Holo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/3%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Neel%20Jochona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/1%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Keno%20Emon%20Hoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/6%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Katena%20Mayabi%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/5%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Feery%20Aasho%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/4%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Dukkho%20Chuayee%20Dekho%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/9%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Keno%20Emon%20Hoy%20(Instrumantal)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/8%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Chokhe%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/7%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Valo%20Lage%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/2%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Cholte%20Cholte%20Dekha%20Holo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/3%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Neel%20Jochona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/1%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Keno%20Emon%20Hoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/6%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Katena%20Mayabi%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/5%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Feery%20Aasho%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Obosheshe/4%20-%20Habib%20Wahid%20and%20Ferdous%20Wahid%20-%20Dukkho%20Chuayee%20Dekho%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

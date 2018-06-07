@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Bedonar Chorabali (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Somoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Adbhut Sei Cheleti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Chole%20Gele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Somoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Megher%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Chole Gele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Sosta%20Shpno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Sosta Shpno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Bedonar%20Chorabali%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Trimatric (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Guti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Bhabche See (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Amar%20Na%20Bola%20Kotha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Guti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Trimatric%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Amar Na Bola Kotha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Bhabche%20See%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Tepantrer Math (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Tepantrer%20Math%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Dur Theke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Adbhut%20Sei%20Cheleti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin - Megher Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Dur%20Theke%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Chole%20Gele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Megher%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Sosta%20Shpno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Bedonar%20Chorabali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Guti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Amar%20Na%20Bola%20Kotha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Trimatric%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Bhabche%20See%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Tepantrer%20Math%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Adbhut%20Sei%20Cheleti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Dur%20Theke%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Chole%20Gele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Megher%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Sosta%20Shpno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Bedonar%20Chorabali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Guti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Amar%20Na%20Bola%20Kotha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Trimatric%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Bhabche%20See%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Tepantrer%20Math%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Adbhut%20Sei%20Cheleti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Trimatrik/Aurthohin%20-%20Dur%20Theke%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

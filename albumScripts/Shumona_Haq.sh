@@ -20,17 +20,49 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Shumona Haq/Shumona Huq - Mayabee Ei Rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Mayabee%20Ei%20Rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shumona Haq/Shumona Huq - Ken Emon Koira (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Tumi%20Aaj%20Koto%20Dur%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shumona Haq/Shumona Huq - Neel Aakash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Neel%20Aakash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shumona Haq/Shumona Huq - Tomate Mon Harye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Tomate%20Mon%20Harye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shumona Haq/Shumona Huq - Tumi Aaj Koto Dur (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Sundor%20Tumi%20Eshecho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shumona Haq/Shumona Huq - Sundor Tumi Eshecho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Ken%20Emon%20Koira%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Mayabee%20Ei%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Tumi%20Aaj%20Koto%20Dur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Neel%20Aakash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Tomate%20Mon%20Harye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Sundor%20Tumi%20Eshecho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Ken%20Emon%20Koira%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Mayabee%20Ei%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Tumi%20Aaj%20Koto%20Dur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Neel%20Aakash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Tomate%20Mon%20Harye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Sundor%20Tumi%20Eshecho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shumona%20Haq/Shumona%20Huq%20-%20Ken%20Emon%20Koira%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

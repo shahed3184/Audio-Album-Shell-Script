@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/03 - Souls - Tomar Jonno Oronno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/06%20-%20Souls%20-%20Nei%20Tumi%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/02 - Souls - Separation (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/03%20-%20Souls%20-%20Tomar%20Jonno%20Oronno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/01 - Souls - Jhut Jhamela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/02%20-%20Souls%20-%20Separation%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/05 - Souls - Brishti Eai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/04%20-%20Souls%20-%20Oviman%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/09 - Souls - Shopno Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/10%20-%20Souls%20-%20Nirmol%20Jochonai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/07 - Souls - E Kemon Niyom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/01%20-%20Souls%20-%20Jhut%20Jhamela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/04 - Souls - Oviman (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/08%20-%20Souls%20-%20Mon%20Polashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/06 - Souls - Nei Tumi Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/07%20-%20Souls%20-%20E%20Kemon%20Niyom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/10 - Souls - Nirmol Jochonai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/05%20-%20Souls%20-%20Brishti%20Eai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Souls/Jhut Jhamela/08 - Souls - Mon Polashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/09%20-%20Souls%20-%20Shopno%20Bashi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/06%20-%20Souls%20-%20Nei%20Tumi%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/03%20-%20Souls%20-%20Tomar%20Jonno%20Oronno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/02%20-%20Souls%20-%20Separation%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/04%20-%20Souls%20-%20Oviman%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/10%20-%20Souls%20-%20Nirmol%20Jochonai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/01%20-%20Souls%20-%20Jhut%20Jhamela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/08%20-%20Souls%20-%20Mon%20Polashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/07%20-%20Souls%20-%20E%20Kemon%20Niyom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/05%20-%20Souls%20-%20Brishti%20Eai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/09%20-%20Souls%20-%20Shopno%20Bashi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/06%20-%20Souls%20-%20Nei%20Tumi%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/03%20-%20Souls%20-%20Tomar%20Jonno%20Oronno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/02%20-%20Souls%20-%20Separation%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/04%20-%20Souls%20-%20Oviman%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/10%20-%20Souls%20-%20Nirmol%20Jochonai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/01%20-%20Souls%20-%20Jhut%20Jhamela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/08%20-%20Souls%20-%20Mon%20Polashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/07%20-%20Souls%20-%20E%20Kemon%20Niyom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/05%20-%20Souls%20-%20Brishti%20Eai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Souls/Jhut%20Jhamela/09%20-%20Souls%20-%20Shopno%20Bashi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

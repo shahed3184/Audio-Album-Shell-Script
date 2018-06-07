@@ -20,11 +20,31 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/F/Fakir Alamgir/allah_megh_de_pani_de (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/mon_amar_deho_ghori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fakir Alamgir/o_shakhina_gechhosh_kina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/o_shakhina_gechhosh_kina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fakir Alamgir/mon_amar_deho_ghori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/allah_megh_de_pani_de%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/mon_amar_deho_ghori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/o_shakhina_gechhosh_kina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/allah_megh_de_pani_de%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/mon_amar_deho_ghori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/o_shakhina_gechhosh_kina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fakir%20Alamgir/allah_megh_de_pani_de%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

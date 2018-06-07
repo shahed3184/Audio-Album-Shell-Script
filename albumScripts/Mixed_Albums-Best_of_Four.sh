@@ -20,35 +20,103 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Partho - Shey Kobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Tara%20Bhora%20Rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Khalid - Kono Karone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Allah%20Nabiji%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Partho - Shushmita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Kotha%20Dao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Partho - Hridoyhina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Bhule%20Gachi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Hassan - Allah Nabiji (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Tomaai%20Moto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Hassan - Prosna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shey%20Kobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Hassan - Bhule Gachi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Prosna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Partho - Shomay Katena (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shushmita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Hassan - Tomaai Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Anmona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Khalid - Nil Tip (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Bacchu - Anmona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Nil%20Tip%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Bacchu - Nilanjina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Bachao%20Bidhata%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Bacchu - Bachao Bidhata (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Hridoyhina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Bacchu - Tara Bhora Rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shomay%20Katena%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Best of Four/Khalid - Kotha Dao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Nilanjina%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Tara%20Bhora%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Allah%20Nabiji%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Kotha%20Dao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Bhule%20Gachi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Tomaai%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shey%20Kobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Prosna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shushmita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Anmona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Nil%20Tip%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Bachao%20Bidhata%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Hridoyhina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shomay%20Katena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Nilanjina%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Tara%20Bhora%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Allah%20Nabiji%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Kotha%20Dao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Bhule%20Gachi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Tomaai%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shey%20Kobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Hassan%20-%20Prosna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shushmita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Anmona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Khalid%20-%20Nil%20Tip%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Bachao%20Bidhata%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Hridoyhina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shomay%20Katena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Nilanjina%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

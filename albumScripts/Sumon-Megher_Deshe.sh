@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Tomar Jonno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Metho%20Poth%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Nil Akasher Pothe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Hoitoba%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Ei Guitar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Tomar%20Jonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Shopner Deshe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Ei%20Guitar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Metho Poth (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Amar%20Bagan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Hoitoba Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Kobita,%20Parthona%20o%20Protigga%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Kobita, Parthona o Protigga (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Shopner%20Deshe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Amar Bagan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Bohudurey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon/Megher Deshe/Sumon - Bohudurey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Nil%20Akasher%20Pothe%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Metho%20Poth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Hoitoba%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Tomar%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Ei%20Guitar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Amar%20Bagan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Kobita,%20Parthona%20o%20Protigga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Shopner%20Deshe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Bohudurey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Nil%20Akasher%20Pothe%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Metho%20Poth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Hoitoba%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Tomar%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Ei%20Guitar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Amar%20Bagan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Kobita,%20Parthona%20o%20Protigga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Shopner%20Deshe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Bohudurey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon/Megher%20Deshe/Sumon%20-%20Nil%20Akasher%20Pothe%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

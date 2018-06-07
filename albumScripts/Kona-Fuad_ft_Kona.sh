@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/07 - Kona - Shuvro Proshno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/03%20-%20Kona%20-%20Bhranti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/04 - Kona - Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/04%20-%20Kona%20-%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/01 - Kona - Borosha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/05%20-%20Kona%20-%20Shopno%20Bari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/02 - Kona - Ekhoni Somoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/09%20-%20Kona%20-%20Sujon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/03 - Kona - Bhranti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/08%20-%20Kona%20-%20Kotha%20Chilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/06 - Kona - Abuj Proshno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/02%20-%20Kona%20-%20Ekhoni%20Somoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/08 - Kona - Kotha Chilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/06%20-%20Kona%20-%20Abuj%20Proshno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/05 - Kona - Shopno Bari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/07%20-%20Kona%20-%20Shuvro%20Proshno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kona/Fuad ft Kona/09 - Kona - Sujon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/01%20-%20Kona%20-%20Borosha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/03%20-%20Kona%20-%20Bhranti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/04%20-%20Kona%20-%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/05%20-%20Kona%20-%20Shopno%20Bari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/09%20-%20Kona%20-%20Sujon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/08%20-%20Kona%20-%20Kotha%20Chilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/02%20-%20Kona%20-%20Ekhoni%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/06%20-%20Kona%20-%20Abuj%20Proshno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/07%20-%20Kona%20-%20Shuvro%20Proshno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/01%20-%20Kona%20-%20Borosha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/03%20-%20Kona%20-%20Bhranti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/04%20-%20Kona%20-%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/05%20-%20Kona%20-%20Shopno%20Bari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/09%20-%20Kona%20-%20Sujon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/08%20-%20Kona%20-%20Kotha%20Chilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/02%20-%20Kona%20-%20Ekhoni%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/06%20-%20Kona%20-%20Abuj%20Proshno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/07%20-%20Kona%20-%20Shuvro%20Proshno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kona/Fuad%20ft%20Kona/01%20-%20Kona%20-%20Borosha%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

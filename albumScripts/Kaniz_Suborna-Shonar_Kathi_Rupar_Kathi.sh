@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/02 - Kaniz Suborna - Shonar Kathi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/01%20-%20Kaniz%20Suborna%20-%20Himel%20Haowa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/05 - Kaniz Suborna - Moner Bhitore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/02%20-%20Kaniz%20Suborna%20-%20Shonar%20Kathi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/10 - Kaniz Suborna - Ichchhe Kore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/06%20-%20Kaniz%20Suborna%20-%20Megh%20Je%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/01 - Kaniz Suborna - Himel Haowa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/10%20-%20Kaniz%20Suborna%20-%20Ichchhe%20Kore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/04 - Kaniz Suborna - Pichhonay Takiye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/05%20-%20Kaniz%20Suborna%20-%20Moner%20Bhitore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/03 - Kaniz Suborna - Jochhonar Chhowate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/04%20-%20Kaniz%20Suborna%20-%20Pichhonay%20Takiye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/09 - Kaniz Suborna - Tumi To Tokhon Bolte (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/08%20-%20Kaniz%20Suborna%20-%20Jodi%20Uray%20Jetam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/06 - Kaniz Suborna - Megh Je Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/03%20-%20Kaniz%20Suborna%20-%20Jochhonar%20Chhowate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/07 - Kaniz Suborna - Ki Kore Valobashbo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/09%20-%20Kaniz%20Suborna%20-%20Tumi%20To%20Tokhon%20Bolte%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Shonar Kathi Rupar Kathi/08 - Kaniz Suborna - Jodi Uray Jetam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/07%20-%20Kaniz%20Suborna%20-%20Ki%20Kore%20Valobashbo%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/01%20-%20Kaniz%20Suborna%20-%20Himel%20Haowa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/02%20-%20Kaniz%20Suborna%20-%20Shonar%20Kathi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/06%20-%20Kaniz%20Suborna%20-%20Megh%20Je%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/10%20-%20Kaniz%20Suborna%20-%20Ichchhe%20Kore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/05%20-%20Kaniz%20Suborna%20-%20Moner%20Bhitore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/04%20-%20Kaniz%20Suborna%20-%20Pichhonay%20Takiye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/08%20-%20Kaniz%20Suborna%20-%20Jodi%20Uray%20Jetam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/03%20-%20Kaniz%20Suborna%20-%20Jochhonar%20Chhowate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/09%20-%20Kaniz%20Suborna%20-%20Tumi%20To%20Tokhon%20Bolte%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/07%20-%20Kaniz%20Suborna%20-%20Ki%20Kore%20Valobashbo%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/01%20-%20Kaniz%20Suborna%20-%20Himel%20Haowa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/02%20-%20Kaniz%20Suborna%20-%20Shonar%20Kathi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/06%20-%20Kaniz%20Suborna%20-%20Megh%20Je%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/10%20-%20Kaniz%20Suborna%20-%20Ichchhe%20Kore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/05%20-%20Kaniz%20Suborna%20-%20Moner%20Bhitore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/04%20-%20Kaniz%20Suborna%20-%20Pichhonay%20Takiye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/08%20-%20Kaniz%20Suborna%20-%20Jodi%20Uray%20Jetam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/03%20-%20Kaniz%20Suborna%20-%20Jochhonar%20Chhowate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/09%20-%20Kaniz%20Suborna%20-%20Tumi%20To%20Tokhon%20Bolte%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Shonar%20Kathi%20Rupar%20Kathi/07%20-%20Kaniz%20Suborna%20-%20Ki%20Kore%20Valobashbo%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

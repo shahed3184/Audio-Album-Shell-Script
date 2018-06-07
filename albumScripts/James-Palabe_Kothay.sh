@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Prio Akashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Sharey%20Tin%20Haat%20Bhumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Sharey Tin Haat Bhumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Jobab%20Chai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Palabe Kothai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Heremer%20Bondini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Shada Ostru (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Shada%20Ostru%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Jobab Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Prio%20Akashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Bhulbo Kamon Kore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Palabe%20Kothai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Heremer Bondini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Bhalobashar%20Khamar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Bhalobashar Khamar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Purnimar%20Nritto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Najayej (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Najayej%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Palabe Kothay/James - Purnimar Nritto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Bhulbo%20Kamon%20Kore%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Sharey%20Tin%20Haat%20Bhumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Jobab%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Heremer%20Bondini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Shada%20Ostru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Prio%20Akashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Palabe%20Kothai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Bhalobashar%20Khamar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Purnimar%20Nritto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Najayej%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Bhulbo%20Kamon%20Kore%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Sharey%20Tin%20Haat%20Bhumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Jobab%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Heremer%20Bondini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Shada%20Ostru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Prio%20Akashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Palabe%20Kothai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Bhalobashar%20Khamar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Purnimar%20Nritto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Najayej%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Palabe%20Kothay/James%20-%20Bhulbo%20Kamon%20Kore%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

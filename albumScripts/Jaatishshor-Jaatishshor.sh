@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/08 - Jaatishshor - Khacher Bhitor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/01%20-%20Jaatishshor%20-%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/02 - Jaatishshor - Jaat Gelo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/06%20-%20Jaatishshor%20-%20Megher%20Dine%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/01 - Jaatishshor - Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/08%20-%20Jaatishshor%20-%20Khacher%20Bhitor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/03 - Jaatishshor - Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/07%20-%20Jaatishshor%20-%20Tomar%20Du%20Chokhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/07 - Jaatishshor - Tomar Du Chokhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/03%20-%20Jaatishshor%20-%20Shopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/10 - Jaatishshor - Jaatishshor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/10%20-%20Jaatishshor%20-%20Jaatishshor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/06 - Jaatishshor - Megher Dine (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/04%20-%20Jaatishshor%20-%20Nishite%20Jaiyo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/05 - Jaatishshor - Dhol Baje (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/02%20-%20Jaatishshor%20-%20Jaat%20Gelo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/04 - Jaatishshor - Nishite Jaiyo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/05%20-%20Jaatishshor%20-%20Dhol%20Baje%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/09 - Jaatishshor - Bilap (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/09%20-%20Jaatishshor%20-%20Bilap%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/01%20-%20Jaatishshor%20-%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/06%20-%20Jaatishshor%20-%20Megher%20Dine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/08%20-%20Jaatishshor%20-%20Khacher%20Bhitor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/07%20-%20Jaatishshor%20-%20Tomar%20Du%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/03%20-%20Jaatishshor%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/10%20-%20Jaatishshor%20-%20Jaatishshor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/04%20-%20Jaatishshor%20-%20Nishite%20Jaiyo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/02%20-%20Jaatishshor%20-%20Jaat%20Gelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/05%20-%20Jaatishshor%20-%20Dhol%20Baje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/09%20-%20Jaatishshor%20-%20Bilap%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/01%20-%20Jaatishshor%20-%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/06%20-%20Jaatishshor%20-%20Megher%20Dine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/08%20-%20Jaatishshor%20-%20Khacher%20Bhitor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/07%20-%20Jaatishshor%20-%20Tomar%20Du%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/03%20-%20Jaatishshor%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/10%20-%20Jaatishshor%20-%20Jaatishshor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/04%20-%20Jaatishshor%20-%20Nishite%20Jaiyo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/02%20-%20Jaatishshor%20-%20Jaat%20Gelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/05%20-%20Jaatishshor%20-%20Dhol%20Baje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/09%20-%20Jaatishshor%20-%20Bilap%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

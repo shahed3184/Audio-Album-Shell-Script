@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/03 - Raaga - Aasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/04%20-%20Raaga%20-%20Jorota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/08 - Raaga - Ekhono (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/05%20-%20Raaga%20-%20Smirty%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/07 - Raaga - Alo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/09%20-%20Raaga%20-%20Ahobaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/06 - Raaga - Nil Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/03%20-%20Raaga%20-%20Aasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/02 - Raaga - Kothay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/01%20-%20Raaga%20-%20Brishti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/05 - Raaga - Smirty (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/07%20-%20Raaga%20-%20Alo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/01 - Raaga - Brishti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/08%20-%20Raaga%20-%20Ekhono%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/09 - Raaga - Ahobaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/02%20-%20Raaga%20-%20Kothay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/04 - Raaga - Jorota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/06%20-%20Raaga%20-%20Nil%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/R/Raaga/Raaga/10 - Raaga - Poth (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/10%20-%20Raaga%20-%20Poth%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/04%20-%20Raaga%20-%20Jorota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/05%20-%20Raaga%20-%20Smirty%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/09%20-%20Raaga%20-%20Ahobaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/03%20-%20Raaga%20-%20Aasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/01%20-%20Raaga%20-%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/07%20-%20Raaga%20-%20Alo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/08%20-%20Raaga%20-%20Ekhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/02%20-%20Raaga%20-%20Kothay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/06%20-%20Raaga%20-%20Nil%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/10%20-%20Raaga%20-%20Poth%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/04%20-%20Raaga%20-%20Jorota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/05%20-%20Raaga%20-%20Smirty%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/09%20-%20Raaga%20-%20Ahobaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/03%20-%20Raaga%20-%20Aasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/01%20-%20Raaga%20-%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/07%20-%20Raaga%20-%20Alo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/08%20-%20Raaga%20-%20Ekhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/02%20-%20Raaga%20-%20Kothay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/06%20-%20Raaga%20-%20Nil%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/R/Raaga/Raaga/10%20-%20Raaga%20-%20Poth%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

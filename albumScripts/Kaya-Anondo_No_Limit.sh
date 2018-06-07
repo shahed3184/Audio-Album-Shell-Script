@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/03. Kaya - Notun Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/04.%20Kaya%20-%20Gramer%20Noujowan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/10. Kaya - Bosonto Batashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/09.%20Kaya%20-%20Shamer%20Bashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/04. Kaya - Gramer Noujowan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/07.%20Kaya%20-%20Bondhu%20Tor%20Laiga%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/02. Kaya - Bosonto Batashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/06.%20Kaya%20-%20Ronger%20Duniya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/09. Kaya - Shamer Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/03.%20Kaya%20-%20Notun%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/01. Kaya - Anondo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/08.%20Kaya%20-%20Amar%20Ontore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/06. Kaya - Ronger Duniya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/01.%20Kaya%20-%20Anondo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/05. Kaya - Shamer Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/10.%20Kaya%20-%20Bosonto%20Batashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/08. Kaya - Amar Ontore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/02.%20Kaya%20-%20Bosonto%20Batashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaya/Anondo No Limit/07. Kaya - Bondhu Tor Laiga (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/05.%20Kaya%20-%20Shamer%20Bashi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/04.%20Kaya%20-%20Gramer%20Noujowan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/09.%20Kaya%20-%20Shamer%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/07.%20Kaya%20-%20Bondhu%20Tor%20Laiga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/06.%20Kaya%20-%20Ronger%20Duniya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/03.%20Kaya%20-%20Notun%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/08.%20Kaya%20-%20Amar%20Ontore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/01.%20Kaya%20-%20Anondo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/10.%20Kaya%20-%20Bosonto%20Batashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/02.%20Kaya%20-%20Bosonto%20Batashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/05.%20Kaya%20-%20Shamer%20Bashi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/04.%20Kaya%20-%20Gramer%20Noujowan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/09.%20Kaya%20-%20Shamer%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/07.%20Kaya%20-%20Bondhu%20Tor%20Laiga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/06.%20Kaya%20-%20Ronger%20Duniya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/03.%20Kaya%20-%20Notun%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/08.%20Kaya%20-%20Amar%20Ontore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/01.%20Kaya%20-%20Anondo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/10.%20Kaya%20-%20Bosonto%20Batashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/02.%20Kaya%20-%20Bosonto%20Batashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaya/Anondo%20No%20Limit/05.%20Kaya%20-%20Shamer%20Bashi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

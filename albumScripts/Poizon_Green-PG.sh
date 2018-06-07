@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/07 - Poizon Green - Manobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/04%20-%20Poizon%20Green%20-%20Yabayey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/06 - Poizon Green - Lash Kata Ghor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/01%20-%20Poizon%20Green%20-%20Rip%20Veronica%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/09 - Poizon Green - Alada (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/06%20-%20Poizon%20Green%20-%20Lash%20Kata%20Ghor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/03 - Poizon Green - Bhokti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/05%20-%20Poizon%20Green%20-%20Adhar%20Nari%20Shomipe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/05 - Poizon Green - Adhar Nari Shomipe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/02%20-%20Poizon%20Green%20-%20Oshustho%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/01 - Poizon Green - Rip Veronica (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/09%20-%20Poizon%20Green%20-%20Alada%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/04 - Poizon Green - Yabayey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/08%20-%20Poizon%20Green%20-%20Kafon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/02 - Poizon Green - Oshustho Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/07%20-%20Poizon%20Green%20-%20Manobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Poizon Green/PG/08 - Poizon Green - Kafon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/03%20-%20Poizon%20Green%20-%20Bhokti%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/04%20-%20Poizon%20Green%20-%20Yabayey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/01%20-%20Poizon%20Green%20-%20Rip%20Veronica%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/06%20-%20Poizon%20Green%20-%20Lash%20Kata%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/05%20-%20Poizon%20Green%20-%20Adhar%20Nari%20Shomipe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/02%20-%20Poizon%20Green%20-%20Oshustho%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/09%20-%20Poizon%20Green%20-%20Alada%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/08%20-%20Poizon%20Green%20-%20Kafon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/07%20-%20Poizon%20Green%20-%20Manobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/03%20-%20Poizon%20Green%20-%20Bhokti%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/04%20-%20Poizon%20Green%20-%20Yabayey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/01%20-%20Poizon%20Green%20-%20Rip%20Veronica%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/06%20-%20Poizon%20Green%20-%20Lash%20Kata%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/05%20-%20Poizon%20Green%20-%20Adhar%20Nari%20Shomipe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/02%20-%20Poizon%20Green%20-%20Oshustho%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/09%20-%20Poizon%20Green%20-%20Alada%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/08%20-%20Poizon%20Green%20-%20Kafon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/07%20-%20Poizon%20Green%20-%20Manobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Poizon%20Green/PG/03%20-%20Poizon%20Green%20-%20Bhokti%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

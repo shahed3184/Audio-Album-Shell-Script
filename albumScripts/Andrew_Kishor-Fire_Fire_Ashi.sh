@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Kare Dekhabo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Shara%20Deho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Jiboner Golpo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Jiboner%20Golpo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Amar Shara Deho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Babar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Haire Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ogo%20Bideshini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Ami Chirokal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Bhengeche%20Pinjor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Amar Buker (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Haire%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Dak Diyechen (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Buker%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Ogo Bideshini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Shobai%20To%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Shobai To (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Dak%20Diyechen%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Bhengeche Pinjor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Kare%20Dekhabo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Andrew Kishor/Fire Fire Ashi/Andrew Kishor - Amar Babar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ami%20Chirokal%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Shara%20Deho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Jiboner%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Babar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ogo%20Bideshini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Bhengeche%20Pinjor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Haire%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Buker%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Shobai%20To%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Dak%20Diyechen%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Kare%20Dekhabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ami%20Chirokal%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Shara%20Deho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Jiboner%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Babar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ogo%20Bideshini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Bhengeche%20Pinjor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Haire%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Amar%20Buker%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Shobai%20To%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Dak%20Diyechen%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Kare%20Dekhabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ami%20Chirokal%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

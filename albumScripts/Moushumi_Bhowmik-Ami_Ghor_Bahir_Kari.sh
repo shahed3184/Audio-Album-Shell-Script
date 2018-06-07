@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/04 - Moushumi Bhowmik - Tori Jonno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/07%20-%20Moushumi%20Bhowmik%20-%20Amar%20Mon%20Pakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/06 - Moushumi Bhowmik - Doya Koro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/09%20-%20Moushumi%20Bhowmik%20-%20Daak%20Ashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/08 - Moushumi Bhowmik - Hoito Hoito Hoito (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/02%20-%20Moushumi%20Bhowmik%20-%20Shorir%20Tari%20Bhitore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/03 - Moushumi Bhowmik - Brishti Pore Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/06%20-%20Moushumi%20Bhowmik%20-%20Doya%20Koro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/05 - Moushumi Bhowmik - Aie Adhora Shohorta (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/08%20-%20Moushumi%20Bhowmik%20-%20Hoito%20Hoito%20Hoito%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/02 - Moushumi Bhowmik - Shorir Tari Bhitore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/10%20-%20Moushumi%20Bhowmik%20-%20Amar%20Ghorer%20Pashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/01 - Moushumi Bhowmik - Jokhoni Ektu Chuti Pai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/01%20-%20Moushumi%20Bhowmik%20-%20Jokhoni%20Ektu%20Chuti%20Pai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/10 - Moushumi Bhowmik - Amar Ghorer Pashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/04%20-%20Moushumi%20Bhowmik%20-%20Tori%20Jonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/07 - Moushumi Bhowmik - Amar Mon Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/05%20-%20Moushumi%20Bhowmik%20-%20Aie%20Adhora%20Shohorta%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Moushumi Bhowmik/Ami Ghor Bahir Kari/09 - Moushumi Bhowmik - Daak Ashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/03%20-%20Moushumi%20Bhowmik%20-%20Brishti%20Pore%20Re%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/07%20-%20Moushumi%20Bhowmik%20-%20Amar%20Mon%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/09%20-%20Moushumi%20Bhowmik%20-%20Daak%20Ashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/02%20-%20Moushumi%20Bhowmik%20-%20Shorir%20Tari%20Bhitore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/06%20-%20Moushumi%20Bhowmik%20-%20Doya%20Koro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/08%20-%20Moushumi%20Bhowmik%20-%20Hoito%20Hoito%20Hoito%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/10%20-%20Moushumi%20Bhowmik%20-%20Amar%20Ghorer%20Pashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/01%20-%20Moushumi%20Bhowmik%20-%20Jokhoni%20Ektu%20Chuti%20Pai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/04%20-%20Moushumi%20Bhowmik%20-%20Tori%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/05%20-%20Moushumi%20Bhowmik%20-%20Aie%20Adhora%20Shohorta%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/03%20-%20Moushumi%20Bhowmik%20-%20Brishti%20Pore%20Re%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/07%20-%20Moushumi%20Bhowmik%20-%20Amar%20Mon%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/09%20-%20Moushumi%20Bhowmik%20-%20Daak%20Ashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/02%20-%20Moushumi%20Bhowmik%20-%20Shorir%20Tari%20Bhitore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/06%20-%20Moushumi%20Bhowmik%20-%20Doya%20Koro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/08%20-%20Moushumi%20Bhowmik%20-%20Hoito%20Hoito%20Hoito%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/10%20-%20Moushumi%20Bhowmik%20-%20Amar%20Ghorer%20Pashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/01%20-%20Moushumi%20Bhowmik%20-%20Jokhoni%20Ektu%20Chuti%20Pai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/04%20-%20Moushumi%20Bhowmik%20-%20Tori%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/05%20-%20Moushumi%20Bhowmik%20-%20Aie%20Adhora%20Shohorta%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Moushumi%20Bhowmik/Ami%20Ghor%20Bahir%20Kari/03%20-%20Moushumi%20Bhowmik%20-%20Brishti%20Pore%20Re%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

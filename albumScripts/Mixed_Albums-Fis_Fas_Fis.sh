@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/08 - Pantha Kanai - Bonvojon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/10%20-%20Pantha%20Kanai%20-%20Ahladi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/01 - Ayub Bachchu - Fis Fas Fis (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/11%20-%20Asif%20-%20Eity%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/06 - Pantha Kanai - Ekdin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/09%20-%20Asif%20-%20Mil%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/11 - Asif - Eity (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/08%20-%20Pantha%20Kanai%20-%20Bonvojon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/04 - Ayub Bachchu - Bisesh Dine Bisesh Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/06%20-%20Pantha%20Kanai%20-%20Ekdin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/09 - Asif - Mil (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/03%20-%20Pantha%20Kanai%20-%20Dom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/07 - Ayub Bachchu - Kleopetra (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/01%20-%20Ayub%20Bachchu%20-%20Fis%20Fas%20Fis%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/05 - Asif - Jolkonna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/07%20-%20Ayub%20Bachchu%20-%20Kleopetra%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/10 - Pantha Kanai - Ahladi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/05%20-%20Asif%20-%20Jolkonna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/02 - Asif - Nari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/04%20-%20Ayub%20Bachchu%20-%20Bisesh%20Dine%20Bisesh%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Fis Fas Fis/03 - Pantha Kanai - Dom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/02%20-%20Asif%20-%20Nari%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/10%20-%20Pantha%20Kanai%20-%20Ahladi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/11%20-%20Asif%20-%20Eity%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/09%20-%20Asif%20-%20Mil%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/08%20-%20Pantha%20Kanai%20-%20Bonvojon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/06%20-%20Pantha%20Kanai%20-%20Ekdin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/03%20-%20Pantha%20Kanai%20-%20Dom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/01%20-%20Ayub%20Bachchu%20-%20Fis%20Fas%20Fis%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/07%20-%20Ayub%20Bachchu%20-%20Kleopetra%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/05%20-%20Asif%20-%20Jolkonna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/04%20-%20Ayub%20Bachchu%20-%20Bisesh%20Dine%20Bisesh%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/02%20-%20Asif%20-%20Nari%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/10%20-%20Pantha%20Kanai%20-%20Ahladi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/11%20-%20Asif%20-%20Eity%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/09%20-%20Asif%20-%20Mil%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/08%20-%20Pantha%20Kanai%20-%20Bonvojon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/06%20-%20Pantha%20Kanai%20-%20Ekdin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/03%20-%20Pantha%20Kanai%20-%20Dom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/01%20-%20Ayub%20Bachchu%20-%20Fis%20Fas%20Fis%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/07%20-%20Ayub%20Bachchu%20-%20Kleopetra%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/05%20-%20Asif%20-%20Jolkonna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/04%20-%20Ayub%20Bachchu%20-%20Bisesh%20Dine%20Bisesh%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/02%20-%20Asif%20-%20Nari%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

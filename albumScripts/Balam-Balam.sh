@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Somorpon  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Nupur%20Baje%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Tomar Jonno  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Lukochuri%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Nupur Baje  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Ashar%20Nichachol%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Rondhonu  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Rondhonu%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Rupkotha  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Ek%20Mutho%20Roddur%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Ek Mutho Roddur  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Biroher%20Sampan%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Biroher Sampan  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Somorpon%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Lukochuri  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Tomar%20Jonno%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam - Ashar Nichachol  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Rupkotha%20%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Nupur%20Baje%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Lukochuri%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Ashar%20Nichachol%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Rondhonu%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Ek%20Mutho%20Roddur%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Biroher%20Sampan%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Somorpon%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Tomar%20Jonno%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Rupkotha%20%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Nupur%20Baje%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Lukochuri%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Ashar%20Nichachol%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Rondhonu%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Ek%20Mutho%20Roddur%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Biroher%20Sampan%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Somorpon%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Tomar%20Jonno%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Balam/Balam/Balam%20-%20Rupkotha%20%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,17 +20,49 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hasan/Hello Koshto/Hasan - Mondo Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Hello%20O%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Hello Koshto/Hasan - Maya 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Maya%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Hello Koshto/Hasan - Hello O Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Mondo%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Hello Koshto/Hasan - Proteti Shotabdi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Vhule%20Purano%20Geete%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Hello Koshto/Hasan - Cholo Bredabone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Proteti%20Shotabdi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Hello Koshto/Hasan - Vhule Purano Geete (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Cholo%20Bredabone%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Hello%20O%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Maya%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Mondo%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Vhule%20Purano%20Geete%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Proteti%20Shotabdi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Cholo%20Bredabone%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Hello%20O%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Maya%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Mondo%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Vhule%20Purano%20Geete%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Proteti%20Shotabdi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Cholo%20Bredabone%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

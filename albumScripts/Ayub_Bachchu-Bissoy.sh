@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/05 - Ayub Bachchu - Shuktara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/02%20-%20Ayub%20Bachchu%20-%20Sholo%20Ana%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/09 - Ayub Bachchu - Mon Pure Chai Hoi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/04%20-%20Ayub%20Bachchu%20-%20Suicide%20Note%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/02 - Ayub Bachchu - Sholo Ana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/05%20-%20Ayub%20Bachchu%20-%20Shuktara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/08 - Ayub Bachchu - Akash Jora Valobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/06%20-%20Ayub%20Bachchu%20-%20Monta%20Amar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/03 - Ayub Bachchu - Jol Jochhnai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/10%20-%20Ayub%20Bachchu%20-%20Jabe%20Jodi%20Chole%20Jao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/07 - Ayub Bachchu - Sopno Bodol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/11%20-%20Ayub%20Bachchu%20-%20Sriti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/10 - Ayub Bachchu - Jabe Jodi Chole Jao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/12%20-%20Ayub%20Bachchu%20-%20Melamesha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/04 - Ayub Bachchu - Suicide Note (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/03%20-%20Ayub%20Bachchu%20-%20Jol%20Jochhnai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/01 - Ayub Bachchu - Ekti Bar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/01%20-%20Ayub%20Bachchu%20-%20Ekti%20Bar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/12 - Ayub Bachchu - Melamesha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/07%20-%20Ayub%20Bachchu%20-%20Sopno%20Bodol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/06 - Ayub Bachchu - Monta Amar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/08%20-%20Ayub%20Bachchu%20-%20Akash%20Jora%20Valobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Bissoy/11 - Ayub Bachchu - Sriti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/09%20-%20Ayub%20Bachchu%20-%20Mon%20Pure%20Chai%20Hoi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/02%20-%20Ayub%20Bachchu%20-%20Sholo%20Ana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/04%20-%20Ayub%20Bachchu%20-%20Suicide%20Note%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/05%20-%20Ayub%20Bachchu%20-%20Shuktara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/06%20-%20Ayub%20Bachchu%20-%20Monta%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/10%20-%20Ayub%20Bachchu%20-%20Jabe%20Jodi%20Chole%20Jao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/11%20-%20Ayub%20Bachchu%20-%20Sriti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/12%20-%20Ayub%20Bachchu%20-%20Melamesha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/03%20-%20Ayub%20Bachchu%20-%20Jol%20Jochhnai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/01%20-%20Ayub%20Bachchu%20-%20Ekti%20Bar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/07%20-%20Ayub%20Bachchu%20-%20Sopno%20Bodol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/08%20-%20Ayub%20Bachchu%20-%20Akash%20Jora%20Valobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/09%20-%20Ayub%20Bachchu%20-%20Mon%20Pure%20Chai%20Hoi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/02%20-%20Ayub%20Bachchu%20-%20Sholo%20Ana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/04%20-%20Ayub%20Bachchu%20-%20Suicide%20Note%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/05%20-%20Ayub%20Bachchu%20-%20Shuktara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/06%20-%20Ayub%20Bachchu%20-%20Monta%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/10%20-%20Ayub%20Bachchu%20-%20Jabe%20Jodi%20Chole%20Jao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/11%20-%20Ayub%20Bachchu%20-%20Sriti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/12%20-%20Ayub%20Bachchu%20-%20Melamesha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/03%20-%20Ayub%20Bachchu%20-%20Jol%20Jochhnai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/01%20-%20Ayub%20Bachchu%20-%20Ekti%20Bar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/07%20-%20Ayub%20Bachchu%20-%20Sopno%20Bodol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/08%20-%20Ayub%20Bachchu%20-%20Akash%20Jora%20Valobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Bissoy/09%20-%20Ayub%20Bachchu%20-%20Mon%20Pure%20Chai%20Hoi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,39 +20,115 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/06 - Sumon O Aurthohin 2 - Ke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/01%20-%20Sumon%20O%20Aurthohin%202%20-%20Gaanwala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/16 - Sumon O Aurthohin 2 - Neer (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/11%20-%20Sumon%20O%20Aurthohin%202%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/01 - Sumon O Aurthohin 2 - Gaanwala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/07%20-%20Sumon%20O%20Aurthohin%202%20-%20Amar%20Golpo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/14 - Sumon O Aurthohin 2 - Tobuo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/05%20-%20Sumon%20O%20Aurthohin%202%20-%20Jhor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/05 - Sumon O Aurthohin 2 - Jhor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/15%20-%20Sumon%20O%20Aurthohin%202%20-%20Phoolgulo%20Shob%20Gelo%20Kothae!%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/15 - Sumon O Aurthohin 2 - Phoolgulo Shob Gelo Kothae! (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/17%20-%20Sumon%20O%20Aurthohin%202%20-%20Shesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/17 - Sumon O Aurthohin 2 - Shesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/08%20-%20Sumon%20O%20Aurthohin%202%20-%20Ghumparani%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/13 - Sumon O Aurthohin 2 - Ditiyo Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/03%20-%20Sumon%20O%20Aurthohin%202%20-%20Obhimaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/09 - Sumon O Aurthohin 2 - Protigga (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/02%20-%20Sumon%20O%20Aurthohin%202%20-%20Ghum%20Ashena%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/11 - Sumon O Aurthohin 2 - Boka Manushta O Ek Shurer Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/12%20-%20Sumon%20O%20Aurthohin%202%20-%20Brishti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/04 - Sumon O Aurthohin 2 - Porajoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/09%20-%20Sumon%20O%20Aurthohin%202%20-%20Protigga%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/02 - Sumon O Aurthohin 2 - Ghum Ashena (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/04%20-%20Sumon%20O%20Aurthohin%202%20-%20Porajoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/10 - Sumon O Aurthohin 2 - Shohor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/14%20-%20Sumon%20O%20Aurthohin%202%20-%20Tobuo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/03 - Sumon O Aurthohin 2 - Obhimaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/16%20-%20Sumon%20O%20Aurthohin%202%20-%20Neer%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/08 - Sumon O Aurthohin 2 - Ghumparani Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/13%20-%20Sumon%20O%20Aurthohin%202%20-%20Ditiyo%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/12 - Sumon O Aurthohin 2 - Brishti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/06%20-%20Sumon%20O%20Aurthohin%202%20-%20Ke%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sumon O Aurthohin 2/Boka Manushta/07 - Sumon O Aurthohin 2 - Amar Golpo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/10%20-%20Sumon%20O%20Aurthohin%202%20-%20Shohor%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/01%20-%20Sumon%20O%20Aurthohin%202%20-%20Gaanwala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/11%20-%20Sumon%20O%20Aurthohin%202%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/07%20-%20Sumon%20O%20Aurthohin%202%20-%20Amar%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/05%20-%20Sumon%20O%20Aurthohin%202%20-%20Jhor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/15%20-%20Sumon%20O%20Aurthohin%202%20-%20Phoolgulo%20Shob%20Gelo%20Kothae!%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/17%20-%20Sumon%20O%20Aurthohin%202%20-%20Shesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/08%20-%20Sumon%20O%20Aurthohin%202%20-%20Ghumparani%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/03%20-%20Sumon%20O%20Aurthohin%202%20-%20Obhimaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/02%20-%20Sumon%20O%20Aurthohin%202%20-%20Ghum%20Ashena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/12%20-%20Sumon%20O%20Aurthohin%202%20-%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/09%20-%20Sumon%20O%20Aurthohin%202%20-%20Protigga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/04%20-%20Sumon%20O%20Aurthohin%202%20-%20Porajoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/14%20-%20Sumon%20O%20Aurthohin%202%20-%20Tobuo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/16%20-%20Sumon%20O%20Aurthohin%202%20-%20Neer%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/13%20-%20Sumon%20O%20Aurthohin%202%20-%20Ditiyo%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/06%20-%20Sumon%20O%20Aurthohin%202%20-%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/10%20-%20Sumon%20O%20Aurthohin%202%20-%20Shohor%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/01%20-%20Sumon%20O%20Aurthohin%202%20-%20Gaanwala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/11%20-%20Sumon%20O%20Aurthohin%202%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/07%20-%20Sumon%20O%20Aurthohin%202%20-%20Amar%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/05%20-%20Sumon%20O%20Aurthohin%202%20-%20Jhor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/15%20-%20Sumon%20O%20Aurthohin%202%20-%20Phoolgulo%20Shob%20Gelo%20Kothae!%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/17%20-%20Sumon%20O%20Aurthohin%202%20-%20Shesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/08%20-%20Sumon%20O%20Aurthohin%202%20-%20Ghumparani%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/03%20-%20Sumon%20O%20Aurthohin%202%20-%20Obhimaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/02%20-%20Sumon%20O%20Aurthohin%202%20-%20Ghum%20Ashena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/12%20-%20Sumon%20O%20Aurthohin%202%20-%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/09%20-%20Sumon%20O%20Aurthohin%202%20-%20Protigga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/04%20-%20Sumon%20O%20Aurthohin%202%20-%20Porajoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/14%20-%20Sumon%20O%20Aurthohin%202%20-%20Tobuo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/16%20-%20Sumon%20O%20Aurthohin%202%20-%20Neer%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/13%20-%20Sumon%20O%20Aurthohin%202%20-%20Ditiyo%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/06%20-%20Sumon%20O%20Aurthohin%202%20-%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sumon%20O%20Aurthohin%202/Boka%20Manushta/10%20-%20Sumon%20O%20Aurthohin%202%20-%20Shohor%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

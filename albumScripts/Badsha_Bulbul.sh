@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Bhalobasha Mane Jontrona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Emon%20Ekta%20Manush%20Dao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Sriti Tumi Bare Bare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Ami%20Chaina%20E%20Prithibite%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Emon Ekta Manush Dao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Jar%20Noyone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Jar Noyone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Shuk%20Shuk%20Neye%20Thako%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Bondhuder Adda (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Sriti%20Tumi%20Bare%20Bare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Tomake Dekhar Por Janlam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Amar%20Aula%20Baula%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Shuk Shuk Neye Thako (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Kokhono%20Kokhono%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Akhaser Moto Tomar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Bondhuder%20Adda%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Ami Chaina E Prithibite (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Tomake%20Dekhar%20Por%20Janlam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Kokhono Kokhono Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Bhalobasha%20Mane%20Jontrona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Amar Aula Baula (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Eto%20Manush%20Dekhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Badsha Bulbul/Badsha Bulbul - Eto Manush Dekhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Akhaser%20Moto%20Tomar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Emon%20Ekta%20Manush%20Dao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Ami%20Chaina%20E%20Prithibite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Jar%20Noyone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Shuk%20Shuk%20Neye%20Thako%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Sriti%20Tumi%20Bare%20Bare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Amar%20Aula%20Baula%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Kokhono%20Kokhono%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Bondhuder%20Adda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Tomake%20Dekhar%20Por%20Janlam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Bhalobasha%20Mane%20Jontrona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Eto%20Manush%20Dekhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Akhaser%20Moto%20Tomar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Emon%20Ekta%20Manush%20Dao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Ami%20Chaina%20E%20Prithibite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Jar%20Noyone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Shuk%20Shuk%20Neye%20Thako%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Sriti%20Tumi%20Bare%20Bare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Amar%20Aula%20Baula%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Kokhono%20Kokhono%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Bondhuder%20Adda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Tomake%20Dekhar%20Por%20Janlam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Bhalobasha%20Mane%20Jontrona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Eto%20Manush%20Dekhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Badsha%20Bulbul/Badsha%20Bulbul%20-%20Akhaser%20Moto%20Tomar%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Bappa - Jodi Dheko Ami Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Ek%20E%20Shohore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Bappa _ Jewel - Amader Shimanai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20_%20Jewel%20-%20Bolte%20Chai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Bappa - Fire Jaowar Shadinota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Dukkho%20Ashuk%20Aaj%20Dukkho%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Jewel - Tomakey Bojhano Khub Proyojon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Jodi%20Dheko%20Ami%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Bappa _ Jewel - Bolte Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Jodi%20Deo%20E%20Muthoi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Bappa - Ek E Shohore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20_%20Jewel%20-%20Amader%20Shimanai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Jewel - Samney Tomer Chader Pahar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Samney%20Tomer%20Chader%20Pahar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Jewel - Jodi Deo E Muthoi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Tomakey%20Bojhano%20Khub%20Proyojon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Eki Sohorey/Jewel - Dukkho Ashuk Aaj Dukkho Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Fire%20Jaowar%20Shadinota%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Ek%20E%20Shohore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20_%20Jewel%20-%20Bolte%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Dukkho%20Ashuk%20Aaj%20Dukkho%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Jodi%20Dheko%20Ami%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Jodi%20Deo%20E%20Muthoi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20_%20Jewel%20-%20Amader%20Shimanai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Samney%20Tomer%20Chader%20Pahar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Tomakey%20Bojhano%20Khub%20Proyojon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Fire%20Jaowar%20Shadinota%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Ek%20E%20Shohore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20_%20Jewel%20-%20Bolte%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Dukkho%20Ashuk%20Aaj%20Dukkho%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Jodi%20Dheko%20Ami%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Jodi%20Deo%20E%20Muthoi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20_%20Jewel%20-%20Amader%20Shimanai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Samney%20Tomer%20Chader%20Pahar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Tomakey%20Bojhano%20Khub%20Proyojon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Fire%20Jaowar%20Shadinota%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

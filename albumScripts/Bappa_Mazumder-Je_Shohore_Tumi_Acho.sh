@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Kolshi Kake (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Ek%20Muhurte%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Obujh Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Jante%20Iccha%20Hoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Mon Maji Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Kolshi%20Kake%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Shopno Dekhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Jodi%20Thakho%20Pashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Ek Muhurte (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Obujh%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Raath Ghum Ghum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Chole%20Jawar%20Mane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Shob Premer Milon Hoyna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Je%20Shohore%20Tumi%20Acho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Je Shohore Tumi Acho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Shopno%20Dekhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Jante Iccha Hoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Raath%20Ghum%20Ghum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Jodi Thakho Pashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Harano%20Shriti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Chole Jawar Mane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Shob%20Premer%20Milon%20Hoyna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Je Shohore Tumi Acho/Bappa - Harano Shriti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Mon%20Maji%20Re%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Ek%20Muhurte%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Jante%20Iccha%20Hoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Kolshi%20Kake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Jodi%20Thakho%20Pashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Obujh%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Chole%20Jawar%20Mane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Je%20Shohore%20Tumi%20Acho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Shopno%20Dekhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Raath%20Ghum%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Harano%20Shriti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Shob%20Premer%20Milon%20Hoyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Mon%20Maji%20Re%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Ek%20Muhurte%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Jante%20Iccha%20Hoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Kolshi%20Kake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Jodi%20Thakho%20Pashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Obujh%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Chole%20Jawar%20Mane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Je%20Shohore%20Tumi%20Acho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Shopno%20Dekhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Raath%20Ghum%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Harano%20Shriti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Shob%20Premer%20Milon%20Hoyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Je%20Shohore%20Tumi%20Acho/Bappa%20-%20Mon%20Maji%20Re%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

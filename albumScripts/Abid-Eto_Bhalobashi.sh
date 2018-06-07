@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/04 - Abid - Tomar Khola Hawa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/07%20-%20Abid%20-%20Amar%20Bela%20Je%20Jaay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/10 - Abid - Amar Jabar Belay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/11%20-%20Abid%20-%20Dibosho%20Rojoni%20Ami%20Jeno%20Kaar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/09 - Abid - Pagol Hawar Badol Dine (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/09%20-%20Abid%20-%20Pagol%20Hawar%20Badol%20Dine%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/03 - Abid - Tomarei Koriasi Jiboner (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/04%20-%20Abid%20-%20Tomar%20Khola%20Hawa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/06 - Abid - Fagun Haway Haway (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/02%20-%20Abid%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/05 - Abid - Choron Dhorite Diogo Amare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/01%20-%20Abid%20-%20Bhalobeshe%20Shokhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/08 - Abid - Ami Chinigo Chini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/05%20-%20Abid%20-%20Choron%20Dhorite%20Diogo%20Amare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/02 - Abid - Ami Kaan Pete Roi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/10%20-%20Abid%20-%20Amar%20Jabar%20Belay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/01 - Abid - Bhalobeshe Shokhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/06%20-%20Abid%20-%20Fagun%20Haway%20Haway%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/11 - Abid - Dibosho Rojoni Ami Jeno Kaar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/08%20-%20Abid%20-%20Ami%20Chinigo%20Chini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Abid/Eto Bhalobashi/07 - Abid - Amar Bela Je Jaay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/03%20-%20Abid%20-%20Tomarei%20Koriasi%20Jiboner%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/07%20-%20Abid%20-%20Amar%20Bela%20Je%20Jaay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/11%20-%20Abid%20-%20Dibosho%20Rojoni%20Ami%20Jeno%20Kaar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/09%20-%20Abid%20-%20Pagol%20Hawar%20Badol%20Dine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/04%20-%20Abid%20-%20Tomar%20Khola%20Hawa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/02%20-%20Abid%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/01%20-%20Abid%20-%20Bhalobeshe%20Shokhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/05%20-%20Abid%20-%20Choron%20Dhorite%20Diogo%20Amare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/10%20-%20Abid%20-%20Amar%20Jabar%20Belay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/06%20-%20Abid%20-%20Fagun%20Haway%20Haway%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/08%20-%20Abid%20-%20Ami%20Chinigo%20Chini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/03%20-%20Abid%20-%20Tomarei%20Koriasi%20Jiboner%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/07%20-%20Abid%20-%20Amar%20Bela%20Je%20Jaay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/11%20-%20Abid%20-%20Dibosho%20Rojoni%20Ami%20Jeno%20Kaar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/09%20-%20Abid%20-%20Pagol%20Hawar%20Badol%20Dine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/04%20-%20Abid%20-%20Tomar%20Khola%20Hawa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/02%20-%20Abid%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/01%20-%20Abid%20-%20Bhalobeshe%20Shokhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/05%20-%20Abid%20-%20Choron%20Dhorite%20Diogo%20Amare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/10%20-%20Abid%20-%20Amar%20Jabar%20Belay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/06%20-%20Abid%20-%20Fagun%20Haway%20Haway%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/08%20-%20Abid%20-%20Ami%20Chinigo%20Chini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Abid/Eto%20Bhalobashi/03%20-%20Abid%20-%20Tomarei%20Koriasi%20Jiboner%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Hay Nobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Hay%20Nobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Jhumka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Dil%20Derey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Its A Bullshit (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Okaron%20Michey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Dil Derey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Its%20A%20Bullshit%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Maa O Baba (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Keno%20Shunno%20Hatey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Matir Deho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Nosto%20Hoyechi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Nosto Hoyechi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Amar%20Ononto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Okaron Michey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Matir%20Deho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Dukkho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Gachey%20Kathal%20Gofe%20Tel%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Gachey Kathal Gofe Tel (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Dukkho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Keno Shunno Hatey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Majhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Amar Ononto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Jhumka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Subconscious/Matir Deho/Subconscious - Majhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Maa%20O%20Baba%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Hay%20Nobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Dil%20Derey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Okaron%20Michey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Its%20A%20Bullshit%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Keno%20Shunno%20Hatey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Nosto%20Hoyechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Amar%20Ononto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Matir%20Deho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Gachey%20Kathal%20Gofe%20Tel%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Dukkho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Majhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Jhumka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Maa%20O%20Baba%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Hay%20Nobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Dil%20Derey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Okaron%20Michey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Its%20A%20Bullshit%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Keno%20Shunno%20Hatey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Nosto%20Hoyechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Amar%20Ononto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Matir%20Deho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Gachey%20Kathal%20Gofe%20Tel%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Dukkho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Majhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Jhumka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Subconscious/Matir%20Deho/Subconscious%20-%20Maa%20O%20Baba%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/03 - Asif - Dukkhota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/11%20-%20Asif%20-%20Bissas%20Bhenge%20(Best)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/01 - Asif - O Pashani (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/05%20-%20Asif%20-%20Tumi%20Shuki%20Hou%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/10 - Asif - Thikana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/04%20-%20Asif%20-%20Priyotoma%20Re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/04 - Asif - Priyotoma Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/06%20-%20Asif%20-%20Protarona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/12 - Asif - Songe Nio (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/12%20-%20Asif%20-%20Songe%20Nio%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/07 - Asif - Haray Jodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/03%20-%20Asif%20-%20Dukkhota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/06 - Asif - Protarona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/02%20-%20Asif%20-%20Biday%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/02 - Asif - Biday Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/09%20-%20Asif%20-%20Tumi%20Nai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/08 - Asif - Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/01%20-%20Asif%20-%20O%20Pashani%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/05 - Asif - Tumi Shuki Hou (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/07%20-%20Asif%20-%20Haray%20Jodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/11 - Asif - Bissas Bhenge (Best) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/08%20-%20Asif%20-%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Tumi Shuki Hou/09 - Asif - Tumi Nai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/10%20-%20Asif%20-%20Thikana%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/11%20-%20Asif%20-%20Bissas%20Bhenge%20(Best)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/05%20-%20Asif%20-%20Tumi%20Shuki%20Hou%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/04%20-%20Asif%20-%20Priyotoma%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/06%20-%20Asif%20-%20Protarona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/12%20-%20Asif%20-%20Songe%20Nio%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/03%20-%20Asif%20-%20Dukkhota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/02%20-%20Asif%20-%20Biday%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/09%20-%20Asif%20-%20Tumi%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/01%20-%20Asif%20-%20O%20Pashani%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/07%20-%20Asif%20-%20Haray%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/08%20-%20Asif%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/10%20-%20Asif%20-%20Thikana%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/11%20-%20Asif%20-%20Bissas%20Bhenge%20(Best)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/05%20-%20Asif%20-%20Tumi%20Shuki%20Hou%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/04%20-%20Asif%20-%20Priyotoma%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/06%20-%20Asif%20-%20Protarona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/12%20-%20Asif%20-%20Songe%20Nio%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/03%20-%20Asif%20-%20Dukkhota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/02%20-%20Asif%20-%20Biday%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/09%20-%20Asif%20-%20Tumi%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/01%20-%20Asif%20-%20O%20Pashani%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/07%20-%20Asif%20-%20Haray%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/08%20-%20Asif%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Tumi%20Shuki%20Hou/10%20-%20Asif%20-%20Thikana%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

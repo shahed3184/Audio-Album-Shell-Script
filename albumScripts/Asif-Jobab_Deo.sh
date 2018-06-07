@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/08 - Asif - Ek Fota Megh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/08%20-%20Asif%20-%20Ek%20Fota%20Megh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/07 - Asif - Du Chokhe Kanna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/10%20-%20Asif%20-%20Subheccha%20Neo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/04 - Asif - Aar Parina Shoite Jala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/07%20-%20Asif%20-%20Du%20Chokhe%20Kanna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/01 - Asif - Jobab Deo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/05%20-%20Asif%20-%20Tomake%20Pawa%20Ekhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/09 - Asif - Dekhale Natok (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/12%20-%20Asif%20-%20Chol%20Chol%20Chol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/05 - Asif - Tomake Pawa Ekhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/09%20-%20Asif%20-%20Dekhale%20Natok%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/10 - Asif - Subheccha Neo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/06%20-%20Asif%20-%20Deo%20Jobab%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/02 - Asif - Amar Chokhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/02%20-%20Asif%20-%20Amar%20Chokhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/11 - Asif - Parina Bojhate Tomay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/11%20-%20Asif%20-%20Parina%20Bojhate%20Tomay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/06 - Asif - Deo Jobab (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/01%20-%20Asif%20-%20Jobab%20Deo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/03 - Asif - Pora Kakog (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/04%20-%20Asif%20-%20Aar%20Parina%20Shoite%20Jala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Asif/Jobab Deo/12 - Asif - Chol Chol Chol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/03%20-%20Asif%20-%20Pora%20Kakog%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/08%20-%20Asif%20-%20Ek%20Fota%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/10%20-%20Asif%20-%20Subheccha%20Neo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/07%20-%20Asif%20-%20Du%20Chokhe%20Kanna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/05%20-%20Asif%20-%20Tomake%20Pawa%20Ekhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/12%20-%20Asif%20-%20Chol%20Chol%20Chol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/09%20-%20Asif%20-%20Dekhale%20Natok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/06%20-%20Asif%20-%20Deo%20Jobab%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/02%20-%20Asif%20-%20Amar%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/11%20-%20Asif%20-%20Parina%20Bojhate%20Tomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/01%20-%20Asif%20-%20Jobab%20Deo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/04%20-%20Asif%20-%20Aar%20Parina%20Shoite%20Jala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/03%20-%20Asif%20-%20Pora%20Kakog%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/08%20-%20Asif%20-%20Ek%20Fota%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/10%20-%20Asif%20-%20Subheccha%20Neo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/07%20-%20Asif%20-%20Du%20Chokhe%20Kanna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/05%20-%20Asif%20-%20Tomake%20Pawa%20Ekhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/12%20-%20Asif%20-%20Chol%20Chol%20Chol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/09%20-%20Asif%20-%20Dekhale%20Natok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/06%20-%20Asif%20-%20Deo%20Jobab%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/02%20-%20Asif%20-%20Amar%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/11%20-%20Asif%20-%20Parina%20Bojhate%20Tomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/01%20-%20Asif%20-%20Jobab%20Deo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/04%20-%20Asif%20-%20Aar%20Parina%20Shoite%20Jala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Asif/Jobab%20Deo/03%20-%20Asif%20-%20Pora%20Kakog%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

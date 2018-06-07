@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/03 - Vibe - Bidhatari Ronge Aka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/06%20-%20Vibe%20-%20Mone%20Pore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/04 - Vibe - Chena Jogot (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/09%20-%20Vibe%20-%20Amar%20Songvidan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/09 - Vibe - Amar Songvidan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/04%20-%20Vibe%20-%20Chena%20Jogot%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/10 - Vibe - Obak Sob Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/03%20-%20Vibe%20-%20Bidhatari%20Ronge%20Aka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/02 - Vibe - Sesher Opashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/01%20-%20Vibe%20-%20Shopnodev%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/01 - Vibe - Shopnodev (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/08%20-%20Vibe%20-%20Ure%20Chole%20Jai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/07 - Vibe - Ashar Prodip Jele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/05%20-%20Vibe%20-%20Odhora%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/08 - Vibe - Ure Chole Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/11%20-%20Vibe%20-%20Nostalgia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/05 - Vibe - Odhora (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/02%20-%20Vibe%20-%20Sesher%20Opashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/11 - Vibe - Nostalgia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/07%20-%20Vibe%20-%20Ashar%20Prodip%20Jele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/V/Vibe/Chena Jogot/06 - Vibe - Mone Pore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/10%20-%20Vibe%20-%20Obak%20Sob%20Shopno%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/06%20-%20Vibe%20-%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/09%20-%20Vibe%20-%20Amar%20Songvidan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/04%20-%20Vibe%20-%20Chena%20Jogot%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/03%20-%20Vibe%20-%20Bidhatari%20Ronge%20Aka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/01%20-%20Vibe%20-%20Shopnodev%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/08%20-%20Vibe%20-%20Ure%20Chole%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/05%20-%20Vibe%20-%20Odhora%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/11%20-%20Vibe%20-%20Nostalgia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/02%20-%20Vibe%20-%20Sesher%20Opashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/07%20-%20Vibe%20-%20Ashar%20Prodip%20Jele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/10%20-%20Vibe%20-%20Obak%20Sob%20Shopno%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/06%20-%20Vibe%20-%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/09%20-%20Vibe%20-%20Amar%20Songvidan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/04%20-%20Vibe%20-%20Chena%20Jogot%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/03%20-%20Vibe%20-%20Bidhatari%20Ronge%20Aka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/01%20-%20Vibe%20-%20Shopnodev%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/08%20-%20Vibe%20-%20Ure%20Chole%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/05%20-%20Vibe%20-%20Odhora%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/11%20-%20Vibe%20-%20Nostalgia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/02%20-%20Vibe%20-%20Sesher%20Opashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/07%20-%20Vibe%20-%20Ashar%20Prodip%20Jele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/V/Vibe/Chena%20Jogot/10%20-%20Vibe%20-%20Obak%20Sob%20Shopno%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

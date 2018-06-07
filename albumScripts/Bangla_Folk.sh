@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Hobigonjer jalali koitor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ogo%20Tomar%20Shesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Dehotori dilam chario (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Hamke%20na%20dilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Bondhu okule bhashaiya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ahare%20bidhire%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Tore rang dilo ki shona dilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Fande%20poriya%20boga%20kande%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Kon rager onuragi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Bondhu%20okule%20bhashaiya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Tora ke ke jabi lo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Tore%20rang%20dilo%20ki%20shona%20dilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Ahare bidhire (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Kon%20rager%20onuragi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Shona bondhu re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Kothay%20shonar%20dhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Kothay shonar dhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Tora%20ke%20ke%20jabi%20lo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Fande poriya boga kande (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Dehotori%20dilam%20chario%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Hamke na dilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Shona%20bondhu%20re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Ichha kore porandare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Hobigonjer%20jalali%20koitor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bangla Folk/Bangla Folk - Ogo Tomar Shesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ichha%20kore%20porandare%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ogo%20Tomar%20Shesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Hamke%20na%20dilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ahare%20bidhire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Fande%20poriya%20boga%20kande%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Bondhu%20okule%20bhashaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Tore%20rang%20dilo%20ki%20shona%20dilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Kon%20rager%20onuragi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Kothay%20shonar%20dhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Tora%20ke%20ke%20jabi%20lo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Dehotori%20dilam%20chario%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Shona%20bondhu%20re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Hobigonjer%20jalali%20koitor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ichha%20kore%20porandare%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ogo%20Tomar%20Shesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Hamke%20na%20dilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ahare%20bidhire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Fande%20poriya%20boga%20kande%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Bondhu%20okule%20bhashaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Tore%20rang%20dilo%20ki%20shona%20dilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Kon%20rager%20onuragi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Kothay%20shonar%20dhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Tora%20ke%20ke%20jabi%20lo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Dehotori%20dilam%20chario%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Shona%20bondhu%20re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Hobigonjer%20jalali%20koitor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bangla%20Folk/Bangla%20Folk%20-%20Ichha%20kore%20porandare%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

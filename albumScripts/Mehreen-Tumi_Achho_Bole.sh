@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/06 - Mehreen - Mayabi Ei Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/06%20-%20Mehreen%20-%20Mayabi%20Ei%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/08 - Mehreen - Anari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/02%20-%20Mehreen%20-%20Shunnota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/09 - Mehreen - Karchupi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/05%20-%20Mehreen%20-%20Jole%20Nebhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/02 - Mehreen - Shunnota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/01%20-%20Mehreen%20-%20Mon%20Ovilashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/05 - Mehreen - Jole Nebhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/09%20-%20Mehreen%20-%20Karchupi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/04 - Mehreen - Omon Kore Noy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/03%20-%20Mehreen%20-%20Tumi%20Achho%20Bole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/10 - Mehreen - Bonus Track (Dubai Show Mega Mix) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/07%20-%20Mehreen%20-%20A%20Ki%20Aloy%20Rangale%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/03 - Mehreen - Tumi Achho Bole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/08%20-%20Mehreen%20-%20Anari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/07 - Mehreen - A Ki Aloy Rangale (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/04%20-%20Mehreen%20-%20Omon%20Kore%20Noy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mehreen/Tumi Achho Bole/01 - Mehreen - Mon Ovilashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/10%20-%20Mehreen%20-%20Bonus%20Track%20(Dubai%20Show%20Mega%20Mix)%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/06%20-%20Mehreen%20-%20Mayabi%20Ei%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/02%20-%20Mehreen%20-%20Shunnota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/05%20-%20Mehreen%20-%20Jole%20Nebhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/01%20-%20Mehreen%20-%20Mon%20Ovilashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/09%20-%20Mehreen%20-%20Karchupi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/03%20-%20Mehreen%20-%20Tumi%20Achho%20Bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/07%20-%20Mehreen%20-%20A%20Ki%20Aloy%20Rangale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/08%20-%20Mehreen%20-%20Anari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/04%20-%20Mehreen%20-%20Omon%20Kore%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/10%20-%20Mehreen%20-%20Bonus%20Track%20(Dubai%20Show%20Mega%20Mix)%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/06%20-%20Mehreen%20-%20Mayabi%20Ei%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/02%20-%20Mehreen%20-%20Shunnota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/05%20-%20Mehreen%20-%20Jole%20Nebhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/01%20-%20Mehreen%20-%20Mon%20Ovilashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/09%20-%20Mehreen%20-%20Karchupi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/03%20-%20Mehreen%20-%20Tumi%20Achho%20Bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/07%20-%20Mehreen%20-%20A%20Ki%20Aloy%20Rangale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/08%20-%20Mehreen%20-%20Anari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/04%20-%20Mehreen%20-%20Omon%20Kore%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mehreen/Tumi%20Achho%20Bole/10%20-%20Mehreen%20-%20Bonus%20Track%20(Dubai%20Show%20Mega%20Mix)%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

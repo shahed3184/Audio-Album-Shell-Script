@@ -20,7 +20,19 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/L/Legend/Legend - Tara Jala Ratri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/L/Legend/Legend%20-%20Tara%20Jala%20Ratri%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/L/Legend/Legend%20-%20Tara%20Jala%20Ratri%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/L/Legend/Legend%20-%20Tara%20Jala%20Ratri%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

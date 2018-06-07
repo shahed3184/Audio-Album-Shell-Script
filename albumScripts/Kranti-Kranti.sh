@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Mani Nah Aai Niyom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Shotto%20Prolap%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Ghori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Nobina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Kedona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Ke%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Brishti Khobor Bhejay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Brishti%20Khobor%20Bhejay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Shohobash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Intro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Jonmo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Ghori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Amra Kromosho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Mani%20Nah%20Aai%20Niyom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Nobina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Amra%20Kromosho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Intro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Protima%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Ke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Shohobash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Shotto Prolap (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Jonmo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti - Protima (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Kedona%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Shotto%20Prolap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Nobina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Brishti%20Khobor%20Bhejay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Ghori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Mani%20Nah%20Aai%20Niyom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Amra%20Kromosho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Protima%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Shohobash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Jonmo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Kedona%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Shotto%20Prolap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Nobina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Brishti%20Khobor%20Bhejay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Ghori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Mani%20Nah%20Aai%20Niyom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Amra%20Kromosho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Protima%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Shohobash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Jonmo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kranti/Kranti/Kranti%20-%20Kedona%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

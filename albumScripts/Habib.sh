@@ -20,11 +20,31 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Habib/Habib - Choto_Hoye_Asche_Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Choto_Hoye_Asche_Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Habib - Bhalo_Bashbo_Bashbore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Bhalo_Bashbo_Bashbore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Habib - Bhalo_Bashbo_Bashbore_Sad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Bhalo_Bashbo_Bashbore_Sad%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Choto_Hoye_Asche_Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Bhalo_Bashbo_Bashbore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Bhalo_Bashbo_Bashbore_Sad%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Choto_Hoye_Asche_Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Bhalo_Bashbo_Bashbore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Habib%20-%20Bhalo_Bashbo_Bashbore_Sad%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

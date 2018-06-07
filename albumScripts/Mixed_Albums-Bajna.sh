@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/James - Ekla (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20January%20February%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/Biplob - Naika Hole Nam Korten (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Mot10%20Matan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/James - January February (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Bodlayni%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/Biplob - Gae Holud (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Dorodia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/Ayub Bachu - Dorodia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Gae%20Holud%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/James - Bodlayni Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Pagol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/Ayub Bachu - Shakkhi Thakuk (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Naika%20Hole%20Nam%20Korten%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/Ayub Bachu - Kha Kha Kore Buk (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Ekla%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/James - Mot10 Matan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Shakkhi%20Thakuk%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Bajna/Biplob - Pagol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Kha%20Kha%20Kore%20Buk%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20January%20February%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Mot10%20Matan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Bodlayni%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Dorodia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Gae%20Holud%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Pagol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Naika%20Hole%20Nam%20Korten%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Ekla%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Shakkhi%20Thakuk%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Kha%20Kha%20Kore%20Buk%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20January%20February%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Mot10%20Matan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Bodlayni%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Dorodia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Gae%20Holud%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Pagol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Biplob%20-%20Naika%20Hole%20Nam%20Korten%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/James%20-%20Ekla%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Shakkhi%20Thakuk%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Bajna/Ayub%20Bachu%20-%20Kha%20Kha%20Kore%20Buk%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

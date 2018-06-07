@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/04 - Arbovirus - Mukut Chara Raja (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/09%20-%20Arbovirus%20-%20Chayamanush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/03 - Arbovirus - Ja Ichche Tai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/10%20-%20Arbovirus%20-%20Corporate%20Anthem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/08 - Arbovirus - Amader Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/03%20-%20Arbovirus%20-%20Ja%20Ichche%20Tai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/07 - Arbovirus - Omanush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/12%20-%20Arbovirus%20-%20Shorger%20Shishura%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/06 - Arbovirus - Prithibir Shesh Prante (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/11%20-%20Arbovirus%20-%20Shekor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/05 - Arbovirus - Adhar O Ishshor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/05%20-%20Arbovirus%20-%20Adhar%20O%20Ishshor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/10 - Arbovirus - Corporate Anthem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/04%20-%20Arbovirus%20-%20Mukut%20Chara%20Raja%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/02 - Arbovirus - Uttaradhikar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/01%20-%20Arbovirus%20-%20Shikarokti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/11 - Arbovirus - Shekor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/08%20-%20Arbovirus%20-%20Amader%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/12 - Arbovirus - Shorger Shishura (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/07%20-%20Arbovirus%20-%20Omanush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/09 - Arbovirus - Chayamanush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/02%20-%20Arbovirus%20-%20Uttaradhikar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Arbovirus/64m 53s/01 - Arbovirus - Shikarokti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/06%20-%20Arbovirus%20-%20Prithibir%20Shesh%20Prante%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/09%20-%20Arbovirus%20-%20Chayamanush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/10%20-%20Arbovirus%20-%20Corporate%20Anthem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/03%20-%20Arbovirus%20-%20Ja%20Ichche%20Tai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/12%20-%20Arbovirus%20-%20Shorger%20Shishura%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/11%20-%20Arbovirus%20-%20Shekor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/05%20-%20Arbovirus%20-%20Adhar%20O%20Ishshor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/04%20-%20Arbovirus%20-%20Mukut%20Chara%20Raja%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/01%20-%20Arbovirus%20-%20Shikarokti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/08%20-%20Arbovirus%20-%20Amader%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/07%20-%20Arbovirus%20-%20Omanush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/02%20-%20Arbovirus%20-%20Uttaradhikar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/06%20-%20Arbovirus%20-%20Prithibir%20Shesh%20Prante%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/09%20-%20Arbovirus%20-%20Chayamanush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/10%20-%20Arbovirus%20-%20Corporate%20Anthem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/03%20-%20Arbovirus%20-%20Ja%20Ichche%20Tai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/12%20-%20Arbovirus%20-%20Shorger%20Shishura%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/11%20-%20Arbovirus%20-%20Shekor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/05%20-%20Arbovirus%20-%20Adhar%20O%20Ishshor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/04%20-%20Arbovirus%20-%20Mukut%20Chara%20Raja%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/01%20-%20Arbovirus%20-%20Shikarokti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/08%20-%20Arbovirus%20-%20Amader%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/07%20-%20Arbovirus%20-%20Omanush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/02%20-%20Arbovirus%20-%20Uttaradhikar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Arbovirus/64m%2053s/06%20-%20Arbovirus%20-%20Prithibir%20Shesh%20Prante%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

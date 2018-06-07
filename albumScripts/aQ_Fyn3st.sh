@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/gunda (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/luv%20hurts%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/amar ma (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/amar%20ma%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/tumar birthday (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/gunda%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/syhleti rap mix 2 in 1 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/tumar%20birthday%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/dishwasher (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/bengali%20pimp%20song%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/nacho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/nacho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/luv hurts (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/khobish-club%20mix%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/khobish-club mix (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/dishwasher%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/aQ Fyn3st/bengali pimp song (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/syhleti%20rap%20mix%202%20in%201%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/luv%20hurts%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/amar%20ma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/gunda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/tumar%20birthday%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/bengali%20pimp%20song%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/nacho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/khobish-club%20mix%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/dishwasher%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/syhleti%20rap%20mix%202%20in%201%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/luv%20hurts%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/amar%20ma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/gunda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/tumar%20birthday%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/bengali%20pimp%20song%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/nacho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/khobish-club%20mix%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/dishwasher%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/aQ%20Fyn3st/syhleti%20rap%20mix%202%20in%201%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

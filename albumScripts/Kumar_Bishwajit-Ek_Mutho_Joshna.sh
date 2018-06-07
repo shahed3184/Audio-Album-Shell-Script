@@ -20,39 +20,115 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Tulonahina Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Hoyto%20Tomar%20Kachey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Parbena Bachate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Jodi%20Sukhi%20Hote%20Chao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Gonotantro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Parbena%20Bachate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Valobashar Mulla (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Prohori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Tumi Eschey Hole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Echchey%20Hole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Baromas (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Na%20Bolbona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Tumi Echchey Hole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Kagojer%20Phul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Jodi Sukhi Hote Chao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tulonahina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Tulonahina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Prem%20Chara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Prohori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Baromas%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Prem Chara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Lal%20Orna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Kagozer Phul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tulonahina%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Kagojer Phul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Gonotantro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Na Bolbona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Kagozer%20Phul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Lal Orna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Chara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Hoyto Tomar Kachey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Eschey%20Hole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Ek Mutho Joshna/Kumar Bishwajit - Tumi Chara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Valobashar%20Mulla%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Hoyto%20Tomar%20Kachey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Jodi%20Sukhi%20Hote%20Chao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Parbena%20Bachate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Prohori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Echchey%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Na%20Bolbona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Kagojer%20Phul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tulonahina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Prem%20Chara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Baromas%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Lal%20Orna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tulonahina%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Gonotantro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Kagozer%20Phul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Chara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Eschey%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Valobashar%20Mulla%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Hoyto%20Tomar%20Kachey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Jodi%20Sukhi%20Hote%20Chao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Parbena%20Bachate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Prohori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Echchey%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Na%20Bolbona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Kagojer%20Phul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tulonahina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Prem%20Chara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Baromas%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Lal%20Orna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tulonahina%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Gonotantro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Kagozer%20Phul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Chara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Tumi%20Eschey%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Ek%20Mutho%20Joshna/Kumar%20Bishwajit%20-%20Valobashar%20Mulla%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

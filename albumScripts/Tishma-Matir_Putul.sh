@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Shotti Shotti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Megh%20Jhorana%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Dhaka 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Bashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Mon Manoshi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Mon%20Manoshi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Dhaka%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Neel Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Neel%20Chokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Matir Putul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Shotti%20Shotti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Aadhare Jochona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Aadhare%20Jochona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Megh Jhorana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Jala%20Jala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Dewana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Matir%20Putul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Tishma/Matir Putul/Tishma - Jala Jala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Dewana%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Megh%20Jhorana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Mon%20Manoshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Dhaka%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Neel%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Shotti%20Shotti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Aadhare%20Jochona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Jala%20Jala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Matir%20Putul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Dewana%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Megh%20Jhorana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Mon%20Manoshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Dhaka%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Neel%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Shotti%20Shotti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Aadhare%20Jochona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Jala%20Jala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Matir%20Putul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Tishma/Matir%20Putul/Tishma%20-%20Dewana%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

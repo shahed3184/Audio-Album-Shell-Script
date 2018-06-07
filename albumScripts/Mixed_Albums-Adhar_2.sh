@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Evilution - Mithye Asha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Factor%20-%20Megh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Inter Phase - Hotosha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Inter%20Phase%20-%20Hotosha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Factor - Megh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Dhushor%20-%20Tomay%20Niye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Shada - Eka Pothe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Shashok%20-%20Obosheshe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Dhushor - Tomay Niye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Cynic%20X%20-%20Shunno%20Adhar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Cynic X - Shunno Adhar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Balam%20-%20Orbachin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Fear - Oprapti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Evilution%20-%20Mithye%20Asha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Balam - Orbachin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Shada%20-%20Eka%20Pothe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Kamal - Desert Strom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Fear%20-%20Oprapti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 2/Shashok - Obosheshe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Kamal%20-%20Desert%20Strom%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Factor%20-%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Inter%20Phase%20-%20Hotosha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Dhushor%20-%20Tomay%20Niye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Shashok%20-%20Obosheshe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Cynic%20X%20-%20Shunno%20Adhar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Balam%20-%20Orbachin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Evilution%20-%20Mithye%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Shada%20-%20Eka%20Pothe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Fear%20-%20Oprapti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Kamal%20-%20Desert%20Strom%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Factor%20-%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Inter%20Phase%20-%20Hotosha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Dhushor%20-%20Tomay%20Niye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Shashok%20-%20Obosheshe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Cynic%20X%20-%20Shunno%20Adhar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Balam%20-%20Orbachin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Evilution%20-%20Mithye%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Shada%20-%20Eka%20Pothe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Fear%20-%20Oprapti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%202/Kamal%20-%20Desert%20Strom%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Keoto Kotha Rakhena (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kostota%20Com%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Ridoy Hina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20What_s%20Up%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Kono Karone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Banda%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Kostota Com (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Mone%20Ache%20Naki%20Nai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Tomake Bhalobashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Jamela%20Tamela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Banda (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kokhonoba%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Mone Ache Naki Nai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Tomake%20Bhalobashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - What_s Up (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kono%20Karone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Tumfke Bhalobasi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Tumfke%20Bhalobasi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Jamela Tamela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Ridoy%20Hina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Kokhonoba (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Keoto%20Kotha%20Rakhena%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Mone Ache Naki Nai/Ayub Bachchu - Instrumental (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Instrumental%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kostota%20Com%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20What_s%20Up%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Banda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Mone%20Ache%20Naki%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Jamela%20Tamela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kokhonoba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Tomake%20Bhalobashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kono%20Karone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Tumfke%20Bhalobasi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Ridoy%20Hina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Keoto%20Kotha%20Rakhena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Instrumental%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kostota%20Com%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20What_s%20Up%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Banda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Mone%20Ache%20Naki%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Jamela%20Tamela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kokhonoba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Tomake%20Bhalobashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Kono%20Karone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Tumfke%20Bhalobasi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Ridoy%20Hina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Keoto%20Kotha%20Rakhena%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Mone%20Ache%20Naki%20Nai/Ayub%20Bachchu%20-%20Instrumental%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

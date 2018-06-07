@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/05 - Ayub Bachchu - Matir Deho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/03%20-%20Ayub%20Bachchu%20-%20Bidhi%20Akta%20Sadh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/03 - Ayub Bachchu - Bidhi Akta Sadh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/04%20-%20James%20-%20Akta%20Kichu%20Koro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/08 - James - R Koto Kadabe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/02%20-%20James%20-%20Mawla%20Tumi%20Kache%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/04 - James - Akta Kichu Koro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/06%20-%20James%20-%20Cholre%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/10 - James - Chakuri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/_empty_%20-%20_empty_%20-%20_empty_.mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/07 - Ayub Bachchu - O Rater Tara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/05%20-%20Ayub%20Bachchu%20-%20Matir%20Deho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/09 - Ayub Bachchu - Mithe Kore Jodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/08%20-%20James%20-%20R%20Koto%20Kadabe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/02 - James - Mawla Tumi Kache (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/07%20-%20Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/06 - James - Cholre Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/09%20-%20Ayub%20Bachchu%20-%20Mithe%20Kore%20Jodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mati/_empty_ - _empty_ - _empty_.mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/10%20-%20James%20-%20Chakuri%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/03%20-%20Ayub%20Bachchu%20-%20Bidhi%20Akta%20Sadh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/04%20-%20James%20-%20Akta%20Kichu%20Koro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/02%20-%20James%20-%20Mawla%20Tumi%20Kache%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/06%20-%20James%20-%20Cholre%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/_empty_%20-%20_empty_%20-%20_empty_.mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/05%20-%20Ayub%20Bachchu%20-%20Matir%20Deho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/08%20-%20James%20-%20R%20Koto%20Kadabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/07%20-%20Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/09%20-%20Ayub%20Bachchu%20-%20Mithe%20Kore%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/10%20-%20James%20-%20Chakuri%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/03%20-%20Ayub%20Bachchu%20-%20Bidhi%20Akta%20Sadh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/04%20-%20James%20-%20Akta%20Kichu%20Koro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/02%20-%20James%20-%20Mawla%20Tumi%20Kache%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/06%20-%20James%20-%20Cholre%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/_empty_%20-%20_empty_%20-%20_empty_.mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/05%20-%20Ayub%20Bachchu%20-%20Matir%20Deho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/08%20-%20James%20-%20R%20Koto%20Kadabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/07%20-%20Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/09%20-%20Ayub%20Bachchu%20-%20Mithe%20Kore%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/10%20-%20James%20-%20Chakuri%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

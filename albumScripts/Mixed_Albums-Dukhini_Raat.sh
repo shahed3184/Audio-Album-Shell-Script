@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Tutul - Bhul Bujhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Aar%20Karona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Tutul - Moner Gohine (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Moner%20Gohine%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Asif - Nondini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Nondini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Ayub Bachchu - Dukhini Rat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Joto%20Hashi%20Toto%20Kanna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Asif - Nir Hara Ferari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bapaa%20-%20Audhora%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Bappa - Aar Karona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Shopno%20Bilashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Asif - Janina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Nir%20Hara%20Ferari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Tutul - Joto Hashi Toto Kanna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Bhul%20Bujhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Asif - Jotobar Cheychi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Janina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Bappa - Kotota Dukha Pele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Jotobar%20Cheychi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Ayub Bachchu - Shopno Bilashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Kotota%20Dukha%20Pele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dukhini Raat/Bapaa - Audhora (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Dukhini%20Rat%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Aar%20Karona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Moner%20Gohine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Nondini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Joto%20Hashi%20Toto%20Kanna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bapaa%20-%20Audhora%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Shopno%20Bilashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Nir%20Hara%20Ferari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Bhul%20Bujhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Janina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Jotobar%20Cheychi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Kotota%20Dukha%20Pele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Dukhini%20Rat%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Aar%20Karona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Moner%20Gohine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Nondini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Joto%20Hashi%20Toto%20Kanna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bapaa%20-%20Audhora%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Shopno%20Bilashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Nir%20Hara%20Ferari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Tutul%20-%20Bhul%20Bujhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Janina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif%20-%20Jotobar%20Cheychi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Kotota%20Dukha%20Pele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Dukhini%20Rat%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,15 +20,43 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hasan/Lal Bondhu Nil Bondhu/Hasan - Lal Bondhu Nil Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Jog%20Biyog%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Lal Bondhu Nil Bondhu/Hasan - Matir Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Miler%20Por%20Mile%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Lal Bondhu Nil Bondhu/Hasan - Tal Pakha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Lal%20Bondhu%20Nil%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Lal Bondhu Nil Bondhu/Hasan - Jog Biyog (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Matir%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Lal Bondhu Nil Bondhu/Hasan - Miler Por Mile (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Tal%20Pakha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Jog%20Biyog%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Miler%20Por%20Mile%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Lal%20Bondhu%20Nil%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Matir%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Tal%20Pakha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Jog%20Biyog%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Miler%20Por%20Mile%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Lal%20Bondhu%20Nil%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Matir%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Lal%20Bondhu%20Nil%20Bondhu/Hasan%20-%20Tal%20Pakha%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

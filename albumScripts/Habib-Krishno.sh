@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Ami Kul Hara Kalongkini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Ami%20Kul%20Hara%20Kalongkini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Aaj Pasha Khelbo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Din%20Galo%20Din%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Kemonay Vulibo Aami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Doyal%20Baba%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Doyal Baba (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Krishno%20(Remix)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Din Galo Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Kemonay%20Vulibo%20Aami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Krishno (Remix) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Aaz%20Pasha%20(Instrumental)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Gaan Gai Aamar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Krishno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Kala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Aaj%20Pasha%20Khelbo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Aaz Pasha (Instrumental) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Kala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib feat. Kaya - Krishno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Gaan%20Gai%20Aamar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Ami%20Kul%20Hara%20Kalongkini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Din%20Galo%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Doyal%20Baba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Krishno%20(Remix)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Kemonay%20Vulibo%20Aami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Aaz%20Pasha%20(Instrumental)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Krishno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Aaj%20Pasha%20Khelbo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Kala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Gaan%20Gai%20Aamar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Ami%20Kul%20Hara%20Kalongkini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Din%20Galo%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Doyal%20Baba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Krishno%20(Remix)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Kemonay%20Vulibo%20Aami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Aaz%20Pasha%20(Instrumental)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Krishno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Aaj%20Pasha%20Khelbo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Kala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Krishno/Habib%20feat.%20Kaya%20-%20Gaan%20Gai%20Aamar%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

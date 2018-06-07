@@ -20,7 +20,57 @@ do
     cd $element
 done 
 
-/
+wget "/"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "/"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "/"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "/"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "/"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "/"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+for element in "${array[@]}"
+do
+    cd ..
+done 
+for element in "${array[@]}"
+do
+    cd ..
+done 
+for element in "${array[@]}"
+do
+    cd ..
+done 
+for element in "${array[@]}"
+do
+    cd ..
+done 
 for element in "${array[@]}"
 do
     cd ..

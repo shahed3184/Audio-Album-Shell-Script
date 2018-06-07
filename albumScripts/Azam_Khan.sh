@@ -20,33 +20,97 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Hariye Gechhe Khuje Pabona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ami%20Bangladesher%20Bangalee%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Prem Chirodin Duredure Thakna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Hariye%20Gechhe%20Khuje%20Pabona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Chup Chup Onamika Chup (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Hoitoba%20Eidin%20Thakbena%20Kunodin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Koto Din Koto Rat Ketechhe Ekaki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Jibone%20Moron%20Keno%20Ashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Ami Jare Chai Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ke%20Dilo%20Jalaye%20Bolo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Ami Bangladesher Bangalee (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Prem%20Chirodin%20Duredure%20Thakna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Jibone Moron Keno Ashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Shukh%20Tumi%20Koto%20Dure%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Hoitoba Eidin Thakbena Kunodin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Chup%20Chup%20Onamika%20Chup%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Shukh Tumi Koto Dure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Koto%20Din%20Koto%20Rat%20Ketechhe%20Ekaki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Matir Prithibite Matir Ghore Robe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Matir%20Prithibite%20Matir%20Ghore%20Robe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Protidin Koto Shuvojon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ei%20Ki%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Ei Ki Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Protidin%20Koto%20Shuvojon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Ke Dilo Jalaye Bolo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ashi%20Ashi%20Bole%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Azam Khan/Azam Khan - Ashi Ashi Bole Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ami%20Jare%20Chai%20Re%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ami%20Bangladesher%20Bangalee%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Hariye%20Gechhe%20Khuje%20Pabona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Hoitoba%20Eidin%20Thakbena%20Kunodin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Jibone%20Moron%20Keno%20Ashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ke%20Dilo%20Jalaye%20Bolo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Prem%20Chirodin%20Duredure%20Thakna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Shukh%20Tumi%20Koto%20Dure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Chup%20Chup%20Onamika%20Chup%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Koto%20Din%20Koto%20Rat%20Ketechhe%20Ekaki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Matir%20Prithibite%20Matir%20Ghore%20Robe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ei%20Ki%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Protidin%20Koto%20Shuvojon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ashi%20Ashi%20Bole%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ami%20Jare%20Chai%20Re%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ami%20Bangladesher%20Bangalee%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Hariye%20Gechhe%20Khuje%20Pabona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Hoitoba%20Eidin%20Thakbena%20Kunodin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Jibone%20Moron%20Keno%20Ashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ke%20Dilo%20Jalaye%20Bolo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Prem%20Chirodin%20Duredure%20Thakna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Shukh%20Tumi%20Koto%20Dure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Chup%20Chup%20Onamika%20Chup%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Koto%20Din%20Koto%20Rat%20Ketechhe%20Ekaki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Matir%20Prithibite%20Matir%20Ghore%20Robe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ei%20Ki%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Protidin%20Koto%20Shuvojon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ashi%20Ashi%20Bole%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Azam%20Khan/Azam%20Khan%20-%20Ami%20Jare%20Chai%20Re%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

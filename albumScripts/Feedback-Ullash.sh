@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Udashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Kemon%20Kore%20Hay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Moushumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Amar%20Nutun%20Akashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Chithi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Udashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Mohashunno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Mohashunno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Amar Nutun Akashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Ei%20Din%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Shei Dingulo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Shei%20Dingulo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Jhau Bone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Majhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Ei Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Chithi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Majhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Jhau%20Bone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Kemon Kore Hay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Janala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Janala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Din%20Jay%20Din%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback - Din Jay Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Moushumi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Kemon%20Kore%20Hay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Amar%20Nutun%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Udashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Mohashunno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Ei%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Shei%20Dingulo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Majhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Chithi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Jhau%20Bone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Din%20Jay%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Moushumi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Kemon%20Kore%20Hay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Amar%20Nutun%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Udashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Mohashunno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Ei%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Shei%20Dingulo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Majhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Chithi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Jhau%20Bone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Din%20Jay%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Ullash/Feedback%20-%20Moushumi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

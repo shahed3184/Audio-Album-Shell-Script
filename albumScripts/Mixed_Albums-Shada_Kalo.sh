@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Maqsud - Tomake Pabar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Hasan%20-%20Chokheri%20Borosha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Tarun - Khankhito Manobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Maqsud%20-%20Tomake%20Pabar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Ajmir Babu - Nirobota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ayub%20Bachchu%20-%20Ka%20Bachabe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Titu - Onupoma (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/James%20-%20Diary%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/James - Diary (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Torun%20-%20Koshto%20Beche%20Khai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Durey - Noshto Cheley (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Durey%20-%20Noshto%20Cheley%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Safin Ahmed - Raater Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Tarun%20-%20Khankhito%20Manobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Hasan - Chokheri Borosha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ponchom%20-%20Adhare%20Ghera%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Ponchom - Adhare Ghera (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ajmir%20Babu%20-%20Nirobota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Ayub Bachchu - Ka Bachabe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Safin%20Ahmed%20-%20Raater%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Harun - Thikana Harabar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Harun%20-%20Thikana%20Harabar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Shada Kalo/Torun - Koshto Beche Khai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Titu%20-%20Onupoma%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Hasan%20-%20Chokheri%20Borosha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Maqsud%20-%20Tomake%20Pabar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ayub%20Bachchu%20-%20Ka%20Bachabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/James%20-%20Diary%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Torun%20-%20Koshto%20Beche%20Khai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Durey%20-%20Noshto%20Cheley%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Tarun%20-%20Khankhito%20Manobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ponchom%20-%20Adhare%20Ghera%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ajmir%20Babu%20-%20Nirobota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Safin%20Ahmed%20-%20Raater%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Harun%20-%20Thikana%20Harabar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Titu%20-%20Onupoma%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Hasan%20-%20Chokheri%20Borosha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Maqsud%20-%20Tomake%20Pabar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ayub%20Bachchu%20-%20Ka%20Bachabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/James%20-%20Diary%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Torun%20-%20Koshto%20Beche%20Khai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Durey%20-%20Noshto%20Cheley%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Tarun%20-%20Khankhito%20Manobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ponchom%20-%20Adhare%20Ghera%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Ajmir%20Babu%20-%20Nirobota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Safin%20Ahmed%20-%20Raater%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Harun%20-%20Thikana%20Harabar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Shada%20Kalo/Titu%20-%20Onupoma%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

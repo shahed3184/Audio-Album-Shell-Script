@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Ghumta Diya Cholo Re Maiya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Monta%20Bhangli%20Re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Degher Bhitore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Paglar%20Mon%20Nachaiya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Amar Premer Tori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mon%20Chuye%20Dekho%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Polatok Somoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Amar%20Premer%20Tori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Paglar Mon Nachaiya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Polatok%20Somoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Monta Bhangli Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ghumta%20Diya%20Cholo%20Re%20Maiya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Maka Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Koli%20Theke%20Phool%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Mon Chuye Dekho Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ei%20Je%20Duniya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Mon Tui Dekliona Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mon%20Tui%20Dekliona%20Re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Mukh Tar Ghum Ghum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ogo%20Tumi%20Je%20Amar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Ogo Tumi Je Amar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Maka%20Jai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Ei Je Duniya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Degher%20Bhitore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Ferdous Wahid/Premer Tori/Ferdous Wahid - Koli Theke Phool (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mukh%20Tar%20Ghum%20Ghum%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Monta%20Bhangli%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Paglar%20Mon%20Nachaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mon%20Chuye%20Dekho%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Amar%20Premer%20Tori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Polatok%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ghumta%20Diya%20Cholo%20Re%20Maiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Koli%20Theke%20Phool%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ei%20Je%20Duniya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mon%20Tui%20Dekliona%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ogo%20Tumi%20Je%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Maka%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Degher%20Bhitore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mukh%20Tar%20Ghum%20Ghum%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Monta%20Bhangli%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Paglar%20Mon%20Nachaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mon%20Chuye%20Dekho%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Amar%20Premer%20Tori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Polatok%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ghumta%20Diya%20Cholo%20Re%20Maiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Koli%20Theke%20Phool%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ei%20Je%20Duniya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mon%20Tui%20Dekliona%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Ogo%20Tumi%20Je%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Maka%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Degher%20Bhitore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Ferdous%20Wahid/Premer%20Tori/Ferdous%20Wahid%20-%20Mukh%20Tar%20Ghum%20Ghum%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Amar Barir Shamne Diye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Baul%20Hoy%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Bashkhali Moheshkhali (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Boishskhi%20Ashilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Shonar Medal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Ma%20Amar%20Shadh%20Na%20Mitilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Chokher Poloke Amar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Chokher%20Poloke%20Amar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Baul Hoy Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Bashkhali%20Moheshkhali%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Boishskhi Ashilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Ore%20Rang%20Dilo%20Ke%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Agun Paile Loha Gole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Amar%20Barir%20Shamne%20Diye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Buijha Shuina Koiro Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Agun%20Paile%20Loha%20Gole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Ore Rang Dilo Ke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Shonar%20Medal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shandipon Das/Shonar Medal/Shandipon Das - Ma Amar Shadh Na Mitilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Buijha%20Shuina%20Koiro%20Prem%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Baul%20Hoy%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Boishskhi%20Ashilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Ma%20Amar%20Shadh%20Na%20Mitilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Chokher%20Poloke%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Bashkhali%20Moheshkhali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Ore%20Rang%20Dilo%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Amar%20Barir%20Shamne%20Diye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Agun%20Paile%20Loha%20Gole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Shonar%20Medal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Buijha%20Shuina%20Koiro%20Prem%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Baul%20Hoy%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Boishskhi%20Ashilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Ma%20Amar%20Shadh%20Na%20Mitilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Chokher%20Poloke%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Bashkhali%20Moheshkhali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Ore%20Rang%20Dilo%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Amar%20Barir%20Shamne%20Diye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Agun%20Paile%20Loha%20Gole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Shonar%20Medal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shandipon%20Das/Shonar%20Medal/Shandipon%20Das%20-%20Buijha%20Shuina%20Koiro%20Prem%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

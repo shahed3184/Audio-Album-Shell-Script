@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/08 - Ayub Bachchu - Shukhi Chele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/08%20-%20Ayub%20Bachchu%20-%20Shukhi%20Chele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/04 - Ayub Bachchu - Amar Ar Kichu Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/05%20-%20Ayub%20Bachchu%20-%20Jokhon%20Kokhono%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/06 - Ayub Bachchu - Bodle Giyeche Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/03%20-%20Ayub%20Bachchu%20-%20Baily%20Road%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/09 - Ayub Bachchu - Dosh Din Baki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/10%20-%20Ayub%20Bachchu%20-%20Ruposhi%20Nogor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/05 - Ayub Bachchu - Jokhon Kokhono (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/07%20-%20Ayub%20Bachchu%20-%20Hay%20Shadhinota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/03 - Ayub Bachchu - Baily Road (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/02%20-%20Ayub%20Bachchu%20-%20Bhranto%20Pothik%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/01 - Ayub Bachchu - Ghumonto Shohore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/01%20-%20Ayub%20Bachchu%20-%20Ghumonto%20Shohore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/10 - Ayub Bachchu - Ruposhi Nogor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/04%20-%20Ayub%20Bachchu%20-%20Amar%20Ar%20Kichu%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/07 - Ayub Bachchu - Hay Shadhinota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/06%20-%20Ayub%20Bachchu%20-%20Bodle%20Giyeche%20Shomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/02 - Ayub Bachchu - Bhranto Pothik (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/09%20-%20Ayub%20Bachchu%20-%20Dosh%20Din%20Baki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ghumonto Shohore/12 - Ayub Bachchu - Shomoyer Srote (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/12%20-%20Ayub%20Bachchu%20-%20Shomoyer%20Srote%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/08%20-%20Ayub%20Bachchu%20-%20Shukhi%20Chele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/05%20-%20Ayub%20Bachchu%20-%20Jokhon%20Kokhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/03%20-%20Ayub%20Bachchu%20-%20Baily%20Road%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/10%20-%20Ayub%20Bachchu%20-%20Ruposhi%20Nogor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/07%20-%20Ayub%20Bachchu%20-%20Hay%20Shadhinota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/02%20-%20Ayub%20Bachchu%20-%20Bhranto%20Pothik%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/01%20-%20Ayub%20Bachchu%20-%20Ghumonto%20Shohore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/04%20-%20Ayub%20Bachchu%20-%20Amar%20Ar%20Kichu%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/06%20-%20Ayub%20Bachchu%20-%20Bodle%20Giyeche%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/09%20-%20Ayub%20Bachchu%20-%20Dosh%20Din%20Baki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/12%20-%20Ayub%20Bachchu%20-%20Shomoyer%20Srote%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/08%20-%20Ayub%20Bachchu%20-%20Shukhi%20Chele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/05%20-%20Ayub%20Bachchu%20-%20Jokhon%20Kokhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/03%20-%20Ayub%20Bachchu%20-%20Baily%20Road%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/10%20-%20Ayub%20Bachchu%20-%20Ruposhi%20Nogor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/07%20-%20Ayub%20Bachchu%20-%20Hay%20Shadhinota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/02%20-%20Ayub%20Bachchu%20-%20Bhranto%20Pothik%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/01%20-%20Ayub%20Bachchu%20-%20Ghumonto%20Shohore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/04%20-%20Ayub%20Bachchu%20-%20Amar%20Ar%20Kichu%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/06%20-%20Ayub%20Bachchu%20-%20Bodle%20Giyeche%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/09%20-%20Ayub%20Bachchu%20-%20Dosh%20Din%20Baki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ghumonto%20Shohore/12%20-%20Ayub%20Bachchu%20-%20Shomoyer%20Srote%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

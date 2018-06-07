@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Tumi Jodi Nodi Hou (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Ishwar%20Aachhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Dukhini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Ghumao%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Ishwar Aachhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Lutpat%20Hoye%20Jabe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Guitar Kandte Jane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Guitar%20Kandte%20Jane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Zikir (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Sultana%20Bibiana%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Jar Jar Dharma (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Bibagi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Sushmitar Shobuj Orna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Tumi%20Jodi%20Nodi%20Hou%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Jodi Kokhono Vul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Zikir%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Sultana Bibiana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Dukhini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Lutpat Hoye Jabe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Jar%20Jar%20Dharma%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Bibagi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Sushmitar%20Shobuj%20Orna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Dukhini Dukkho Koro Na/James - Ghumao Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Jodi%20Kokhono%20Vul%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Ishwar%20Aachhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Ghumao%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Lutpat%20Hoye%20Jabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Guitar%20Kandte%20Jane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Sultana%20Bibiana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Bibagi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Tumi%20Jodi%20Nodi%20Hou%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Zikir%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Dukhini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Jar%20Jar%20Dharma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Sushmitar%20Shobuj%20Orna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Jodi%20Kokhono%20Vul%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Ishwar%20Aachhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Ghumao%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Lutpat%20Hoye%20Jabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Guitar%20Kandte%20Jane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Sultana%20Bibiana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Bibagi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Tumi%20Jodi%20Nodi%20Hou%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Zikir%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Dukhini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Jar%20Jar%20Dharma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Sushmitar%20Shobuj%20Orna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Dukhini%20Dukkho%20Koro%20Na/James%20-%20Jodi%20Kokhono%20Vul%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

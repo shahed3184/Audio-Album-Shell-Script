@@ -20,33 +20,97 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/03 - Ornob - Adkhana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/03%20-%20Ornob%20-%20Adkhana%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/13 - Ornob - Dhusor Megh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/09%20-%20Ornob%20-%20Tati%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/10 - Ornob - Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/02%20-%20Ornob%20-%20Shopno%20Debe%20Dub%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/09 - Ornob - Tati (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/14%20-%20Ornob%20-%20Noyon%20Tomare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/06 - Ornob - Dhaka Rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/05%20-%20Ornob%20-%20Lukie%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/04 - Ornob - Ghor Bahir (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/07%20-%20Ornob%20-%20Akash%20Kalo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/12 - Ornob - Rastai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/04%20-%20Ornob%20-%20Ghor%20Bahir%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/14 - Ornob - Noyon Tomare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/08%20-%20Ornob%20-%20Dikbidik%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/05 - Ornob - Lukie (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/13%20-%20Ornob%20-%20Dhusor%20Megh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/02 - Ornob - Shopno Debe Dub (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/11%20-%20Ornob%20-%20Ghum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/01 - Ornob - Onek Dur (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/10%20-%20Ornob%20-%20Chai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/11 - Ornob - Ghum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/06%20-%20Ornob%20-%20Dhaka%20Rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/08 - Ornob - Dikbidik (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/01%20-%20Ornob%20-%20Onek%20Dur%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Doob/07 - Ornob - Akash Kalo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/12%20-%20Ornob%20-%20Rastai%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/03%20-%20Ornob%20-%20Adkhana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/09%20-%20Ornob%20-%20Tati%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/02%20-%20Ornob%20-%20Shopno%20Debe%20Dub%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/14%20-%20Ornob%20-%20Noyon%20Tomare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/05%20-%20Ornob%20-%20Lukie%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/07%20-%20Ornob%20-%20Akash%20Kalo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/04%20-%20Ornob%20-%20Ghor%20Bahir%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/08%20-%20Ornob%20-%20Dikbidik%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/13%20-%20Ornob%20-%20Dhusor%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/11%20-%20Ornob%20-%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/10%20-%20Ornob%20-%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/06%20-%20Ornob%20-%20Dhaka%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/01%20-%20Ornob%20-%20Onek%20Dur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/12%20-%20Ornob%20-%20Rastai%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/03%20-%20Ornob%20-%20Adkhana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/09%20-%20Ornob%20-%20Tati%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/02%20-%20Ornob%20-%20Shopno%20Debe%20Dub%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/14%20-%20Ornob%20-%20Noyon%20Tomare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/05%20-%20Ornob%20-%20Lukie%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/07%20-%20Ornob%20-%20Akash%20Kalo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/04%20-%20Ornob%20-%20Ghor%20Bahir%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/08%20-%20Ornob%20-%20Dikbidik%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/13%20-%20Ornob%20-%20Dhusor%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/11%20-%20Ornob%20-%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/10%20-%20Ornob%20-%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/06%20-%20Ornob%20-%20Dhaka%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/01%20-%20Ornob%20-%20Onek%20Dur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Doob/12%20-%20Ornob%20-%20Rastai%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

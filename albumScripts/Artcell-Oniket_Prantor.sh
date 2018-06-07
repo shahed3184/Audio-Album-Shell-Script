@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Ghune Khawa Rodh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Dhushor%20Shomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Oniket Prantor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Pathor%20Bagan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Shohid Shoroni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Gontobbohin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Dhushor Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Tomake%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Pathor Bagan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Ghune%20Khawa%20Rodh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Chayar Ninad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Leen%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Smriti Sharok (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Chayar%20Ninad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Leen (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Oniket%20Prantor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Tomake (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Shohid%20Shoroni%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Oniket Prantor/Artcell - Gontobbohin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Smriti%20Sharok%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Dhushor%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Pathor%20Bagan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Gontobbohin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Tomake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Ghune%20Khawa%20Rodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Leen%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Chayar%20Ninad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Oniket%20Prantor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Shohid%20Shoroni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Smriti%20Sharok%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Dhushor%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Pathor%20Bagan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Gontobbohin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Tomake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Ghune%20Khawa%20Rodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Leen%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Chayar%20Ninad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Oniket%20Prantor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Shohid%20Shoroni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Oniket%20Prantor/Artcell%20-%20Smriti%20Sharok%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

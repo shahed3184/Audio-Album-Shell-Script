@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/06 - James - Leader Ashchhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/09%20-%20James%20-%20Loke%20Bole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/03 - James - Jodi E Shite (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/10%20-%20James%20-%20Koi%20Kaush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/07 - James - Shajher Kobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/06%20-%20James%20-%20Leader%20Ashchhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/05 - James - Pora Chokhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/04%20-%20James%20-%20Nijhum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/02 - James - Jonota Express (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/01%20-%20James%20-%20Shuru%20Hobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/04 - James - Nijhum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/05%20-%20James%20-%20Pora%20Chokhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/10 - James - Koi Kaush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/03%20-%20James%20-%20Jodi%20E%20Shite%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/09 - James - Loke Bole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/07%20-%20James%20-%20Shajher%20Kobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/08 - James - Onge Onge (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/02%20-%20James%20-%20Jonota%20Express%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Jonota Express/01 - James - Shuru Hobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/08%20-%20James%20-%20Onge%20Onge%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/09%20-%20James%20-%20Loke%20Bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/10%20-%20James%20-%20Koi%20Kaush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/06%20-%20James%20-%20Leader%20Ashchhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/04%20-%20James%20-%20Nijhum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/01%20-%20James%20-%20Shuru%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/05%20-%20James%20-%20Pora%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/03%20-%20James%20-%20Jodi%20E%20Shite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/07%20-%20James%20-%20Shajher%20Kobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/02%20-%20James%20-%20Jonota%20Express%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/08%20-%20James%20-%20Onge%20Onge%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/09%20-%20James%20-%20Loke%20Bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/10%20-%20James%20-%20Koi%20Kaush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/06%20-%20James%20-%20Leader%20Ashchhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/04%20-%20James%20-%20Nijhum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/01%20-%20James%20-%20Shuru%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/05%20-%20James%20-%20Pora%20Chokhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/03%20-%20James%20-%20Jodi%20E%20Shite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/07%20-%20James%20-%20Shajher%20Kobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/02%20-%20James%20-%20Jonota%20Express%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Jonota%20Express/08%20-%20James%20-%20Onge%20Onge%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

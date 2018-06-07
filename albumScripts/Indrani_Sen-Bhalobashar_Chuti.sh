@@ -20,41 +20,121 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/17 - Indranil Sen - Ogo Shyamal Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/09%20-%20Indranil%20Sen%20-%20Moner%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/11 - Indranil Sen - Ranga Matir Pother Dhare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/01%20-%20Indranil%20Sen%20-%20Ontor%20Jole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/07 - Indranil Sen - Bare Bare Keno Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/18%20-%20Indranil%20Sen%20-%20Ei%20Jibon%20Du%20Diner%20Khela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/04 - Indranil Sen - Raat Dupure Chandni Raate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/03%20-%20Indranil%20Sen%20-%20Samal%20Samal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/06 - Indranil Sen - Mama - 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/02%20-%20Indranil%20Sen%20-%20Valobashar%20Chhuti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/12 - Indranil Sen - Lukano Kotha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/16%20-%20Indranil%20Sen%20-%20Sei%20Chhotto%20Amar%20Gram%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/08 - Indranil Sen - Tup Tup Tapur Tupur (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/07%20-%20Indranil%20Sen%20-%20Bare%20Bare%20Keno%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/14 - Indranil Sen - Vebechhi Koto Ki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/08%20-%20Indranil%20Sen%20-%20Tup%20Tup%20Tapur%20Tupur%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/18 - Indranil Sen - Ei Jibon Du Diner Khela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/10%20-%20Indranil%20Sen%20-%20Chupi%20Chupi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/03 - Indranil Sen - Samal Samal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/12%20-%20Indranil%20Sen%20-%20Lukano%20Kotha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/16 - Indranil Sen - Sei Chhotto Amar Gram (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/05%20-%20Indranil%20Sen%20-%20Tomar%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/02 - Indranil Sen - Valobashar Chhuti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/11%20-%20Indranil%20Sen%20-%20Ranga%20Matir%20Pother%20Dhare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/10 - Indranil Sen - Chupi Chupi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/14%20-%20Indranil%20Sen%20-%20Vebechhi%20Koto%20Ki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/15 - Indranil Sen - Ek Dube Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/15%20-%20Indranil%20Sen%20-%20Ek%20Dube%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/01 - Indranil Sen - Ontor Jole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/06%20-%20Indranil%20Sen%20-%20Mama%20-%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/09 - Indranil Sen - Moner Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/13%20-%20Indranil%20Sen%20-%20Ghum%20Ghum%20Ghumer%20Ghore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/13 - Indranil Sen - Ghum Ghum Ghumer Ghore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/17%20-%20Indranil%20Sen%20-%20Ogo%20Shyamal%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Bhalobashar Chuti/05 - Indranil Sen - Tomar Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/04%20-%20Indranil%20Sen%20-%20Raat%20Dupure%20Chandni%20Raate%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/09%20-%20Indranil%20Sen%20-%20Moner%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/01%20-%20Indranil%20Sen%20-%20Ontor%20Jole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/18%20-%20Indranil%20Sen%20-%20Ei%20Jibon%20Du%20Diner%20Khela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/03%20-%20Indranil%20Sen%20-%20Samal%20Samal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/02%20-%20Indranil%20Sen%20-%20Valobashar%20Chhuti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/16%20-%20Indranil%20Sen%20-%20Sei%20Chhotto%20Amar%20Gram%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/07%20-%20Indranil%20Sen%20-%20Bare%20Bare%20Keno%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/08%20-%20Indranil%20Sen%20-%20Tup%20Tup%20Tapur%20Tupur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/10%20-%20Indranil%20Sen%20-%20Chupi%20Chupi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/12%20-%20Indranil%20Sen%20-%20Lukano%20Kotha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/05%20-%20Indranil%20Sen%20-%20Tomar%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/11%20-%20Indranil%20Sen%20-%20Ranga%20Matir%20Pother%20Dhare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/14%20-%20Indranil%20Sen%20-%20Vebechhi%20Koto%20Ki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/15%20-%20Indranil%20Sen%20-%20Ek%20Dube%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/06%20-%20Indranil%20Sen%20-%20Mama%20-%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/13%20-%20Indranil%20Sen%20-%20Ghum%20Ghum%20Ghumer%20Ghore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/17%20-%20Indranil%20Sen%20-%20Ogo%20Shyamal%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/04%20-%20Indranil%20Sen%20-%20Raat%20Dupure%20Chandni%20Raate%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/09%20-%20Indranil%20Sen%20-%20Moner%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/01%20-%20Indranil%20Sen%20-%20Ontor%20Jole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/18%20-%20Indranil%20Sen%20-%20Ei%20Jibon%20Du%20Diner%20Khela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/03%20-%20Indranil%20Sen%20-%20Samal%20Samal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/02%20-%20Indranil%20Sen%20-%20Valobashar%20Chhuti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/16%20-%20Indranil%20Sen%20-%20Sei%20Chhotto%20Amar%20Gram%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/07%20-%20Indranil%20Sen%20-%20Bare%20Bare%20Keno%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/08%20-%20Indranil%20Sen%20-%20Tup%20Tup%20Tapur%20Tupur%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/10%20-%20Indranil%20Sen%20-%20Chupi%20Chupi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/12%20-%20Indranil%20Sen%20-%20Lukano%20Kotha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/05%20-%20Indranil%20Sen%20-%20Tomar%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/11%20-%20Indranil%20Sen%20-%20Ranga%20Matir%20Pother%20Dhare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/14%20-%20Indranil%20Sen%20-%20Vebechhi%20Koto%20Ki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/15%20-%20Indranil%20Sen%20-%20Ek%20Dube%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/06%20-%20Indranil%20Sen%20-%20Mama%20-%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/13%20-%20Indranil%20Sen%20-%20Ghum%20Ghum%20Ghumer%20Ghore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/17%20-%20Indranil%20Sen%20-%20Ogo%20Shyamal%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Bhalobashar%20Chuti/04%20-%20Indranil%20Sen%20-%20Raat%20Dupure%20Chandni%20Raate%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

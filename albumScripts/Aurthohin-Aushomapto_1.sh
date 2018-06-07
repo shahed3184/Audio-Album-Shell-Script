@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/07 - Aurthohin - Nikrishto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/01%20-%20Aurthohin%20-%20Aushomapto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/08 - Aurthohin - Anmone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/09%20-%20Aurthohin%20-%20Guti%20(The%20Finale)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/01 - Aurthohin - Aushomapto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/03%20-%20Aurthohin%20-%20Sesh%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/06 - Aurthohin - Chera Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/04%20-%20Aurthohin%20-%20Jodi%20Kono%20Din%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/02 - Aurthohin - Chaite Paro 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/05%20-%20Aurthohin%20-%20Kadbo%20Bisshoye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/10 - Aurthohin - Fitash Er Kanna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/10%20-%20Aurthohin%20-%20Fitash%20Er%20Kanna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/04 - Aurthohin - Jodi Kono Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/02%20-%20Aurthohin%20-%20Chaite%20Paro%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/05 - Aurthohin - Kadbo Bisshoye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/06%20-%20Aurthohin%20-%20Chera%20Shopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/09 - Aurthohin - Guti (The Finale) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/08%20-%20Aurthohin%20-%20Anmone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto 1/03 - Aurthohin - Sesh Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/07%20-%20Aurthohin%20-%20Nikrishto%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/01%20-%20Aurthohin%20-%20Aushomapto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/09%20-%20Aurthohin%20-%20Guti%20(The%20Finale)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/03%20-%20Aurthohin%20-%20Sesh%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/04%20-%20Aurthohin%20-%20Jodi%20Kono%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/05%20-%20Aurthohin%20-%20Kadbo%20Bisshoye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/10%20-%20Aurthohin%20-%20Fitash%20Er%20Kanna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/02%20-%20Aurthohin%20-%20Chaite%20Paro%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/06%20-%20Aurthohin%20-%20Chera%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/08%20-%20Aurthohin%20-%20Anmone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/07%20-%20Aurthohin%20-%20Nikrishto%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/01%20-%20Aurthohin%20-%20Aushomapto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/09%20-%20Aurthohin%20-%20Guti%20(The%20Finale)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/03%20-%20Aurthohin%20-%20Sesh%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/04%20-%20Aurthohin%20-%20Jodi%20Kono%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/05%20-%20Aurthohin%20-%20Kadbo%20Bisshoye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/10%20-%20Aurthohin%20-%20Fitash%20Er%20Kanna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/02%20-%20Aurthohin%20-%20Chaite%20Paro%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/06%20-%20Aurthohin%20-%20Chera%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/08%20-%20Aurthohin%20-%20Anmone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Aushomapto%201/07%20-%20Aurthohin%20-%20Nikrishto%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

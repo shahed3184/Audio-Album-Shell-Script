@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/06 - Zeal - Shopno Shikari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/10%20-%20Aartonad%20-%20Bhor%20Hoy%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/10 - Aartonad - Bhor Hoy Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/13%20-%20Slave%20Of%20The%20Silence%20-%20Attyotripti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/09 - Aggo - Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/03%20-%20Bivishika%20-%20Ushno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/04 - Severe Dementia (666) - Demented Mentation (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/04%20-%20Severe%20Dementia%20(666)%20-%20Demented%20Mentation%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/01 - Balam - Chaya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/11%20-%20Inter%20Phase%20-%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/11 - Inter Phase - Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/05%20-%20Evilution%20-%20Amar%20Shopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/12 - U-turn - Paap (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/12%20-%20U-turn%20-%20Paap%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/13 - Slave Of The Silence - Attyotripti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/09%20-%20Aggo%20-%20Shopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/07 - Kollpolok - Shritir Achole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/_empty_%20-%20_empty_%20-%20_empty_.mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/_empty_ - _empty_ - _empty_.mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/06%20-%20Zeal%20-%20Shopno%20Shikari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/05 - Evilution - Amar Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/01%20-%20Balam%20-%20Chaya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/02 - X-uranium - Banglar Chetona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/07%20-%20Kollpolok%20-%20Shritir%20Achole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Adhar 1/03 - Bivishika - Ushno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/02%20-%20X-uranium%20-%20Banglar%20Chetona%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/10%20-%20Aartonad%20-%20Bhor%20Hoy%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/13%20-%20Slave%20Of%20The%20Silence%20-%20Attyotripti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/03%20-%20Bivishika%20-%20Ushno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/04%20-%20Severe%20Dementia%20(666)%20-%20Demented%20Mentation%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/11%20-%20Inter%20Phase%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/05%20-%20Evilution%20-%20Amar%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/12%20-%20U-turn%20-%20Paap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/09%20-%20Aggo%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/_empty_%20-%20_empty_%20-%20_empty_.mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/06%20-%20Zeal%20-%20Shopno%20Shikari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/01%20-%20Balam%20-%20Chaya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/07%20-%20Kollpolok%20-%20Shritir%20Achole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/02%20-%20X-uranium%20-%20Banglar%20Chetona%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/10%20-%20Aartonad%20-%20Bhor%20Hoy%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/13%20-%20Slave%20Of%20The%20Silence%20-%20Attyotripti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/03%20-%20Bivishika%20-%20Ushno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/04%20-%20Severe%20Dementia%20(666)%20-%20Demented%20Mentation%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/11%20-%20Inter%20Phase%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/05%20-%20Evilution%20-%20Amar%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/12%20-%20U-turn%20-%20Paap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/09%20-%20Aggo%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/_empty_%20-%20_empty_%20-%20_empty_.mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/06%20-%20Zeal%20-%20Shopno%20Shikari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/01%20-%20Balam%20-%20Chaya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/07%20-%20Kollpolok%20-%20Shritir%20Achole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Adhar%201/02%20-%20X-uranium%20-%20Banglar%20Chetona%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

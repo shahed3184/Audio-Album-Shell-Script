@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Amar Hariye Jawa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Shopno%20Rogi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Jete Hobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20She%20Je%20Boshe%20Ache%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - China Bhabish (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Hariye%20Giyechi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Hariye Giyechi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Amar%20Hariye%20Jawa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Chuya Chuyi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Dhulo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Konodin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Chilte%20Rod%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Dhulo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Bebak%20Bibagi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Chilte Rod (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Ekdin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Brishti rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Konodin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Bebak Bibagi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Jete%20Hobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Ekdin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Chuya%20Chuyi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - She Je Boshe Ache (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Brishti%20rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/O/Ornob/Chaina Bhabish/Ornob - Shopno Rogi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20China%20Bhabish%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Shopno%20Rogi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20She%20Je%20Boshe%20Ache%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Hariye%20Giyechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Amar%20Hariye%20Jawa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Dhulo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Chilte%20Rod%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Bebak%20Bibagi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Ekdin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Konodin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Jete%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Chuya%20Chuyi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Brishti%20rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20China%20Bhabish%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Shopno%20Rogi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20She%20Je%20Boshe%20Ache%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Hariye%20Giyechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Amar%20Hariye%20Jawa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Dhulo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Chilte%20Rod%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Bebak%20Bibagi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Ekdin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Konodin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Jete%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Chuya%20Chuyi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20Brishti%20rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/O/Ornob/Chaina%20Bhabish/Ornob%20-%20China%20Bhabish%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

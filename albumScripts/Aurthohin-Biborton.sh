@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Amar Klanti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Probash%20Theke%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Kolpona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Nirbodh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Probash Theke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Raater%20Train%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Ghum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Ghum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Amar%20Klanti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Mrittur Shohor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Odbhut%20Shei%20Chheleti%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Amar Protichchhobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Raater Train (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Amar%20Protichchhobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Odbhut Shei Chheleti 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Premer%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Guti 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Mrittur%20Shohor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Premer Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Kolpona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin - Nirbodh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Guti%202%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Probash%20Theke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Nirbodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Raater%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Amar%20Klanti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Odbhut%20Shei%20Chheleti%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Amar%20Protichchhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Premer%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Mrittur%20Shohor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Kolpona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Guti%202%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Probash%20Theke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Nirbodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Raater%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Amar%20Klanti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Odbhut%20Shei%20Chheleti%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Amar%20Protichchhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Premer%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Mrittur%20Shohor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Kolpona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aurthohin/Biborton/Aurthohin%20-%20Guti%202%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

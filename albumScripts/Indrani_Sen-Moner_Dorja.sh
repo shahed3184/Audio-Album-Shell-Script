@@ -20,43 +20,127 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/02 - Indranil Sen - Khol Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/08%20-%20Indranil%20Sen%20-%20Cholo%20Aaj%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/10 - Indranil Sen - Jibon Purer Pothik (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/07%20-%20Indranil%20Sen%20-%20Ei%20Pothe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/19 - Indranil Sen - Jokhon Daklo Banshi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/14%20-%20Indranil%20Sen%20-%20Banshi%20Bujhi%20Sei%20Sure%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/09 - Indranil Sen - Ranga Matir Pother Dhare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/15%20-%20Indranil%20Sen%20-%20Ei%20Sundor%20Shornali%20Sondhyai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/11 - Indranil Sen - Nive Gelo Sob Alo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/17%20-%20Indranil%20Sen%20-%20Mone%20Pore%20Ruby%20Roy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/14 - Indranil Sen - Banshi Bujhi Sei Sure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/09%20-%20Indranil%20Sen%20-%20Ranga%20Matir%20Pother%20Dhare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/07 - Indranil Sen - Ei Pothe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/16%20-%20Indranil%20Sen%20-%20Haowa%20Megh%20Soraye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/16 - Indranil Sen - Haowa Megh Soraye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/13%20-%20Indranil%20Sen%20-%20Ki%20Ashai%20Badhi%20Khelaghor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/01 - Indranil Sen - Elo Bujhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/04%20-%20Indranil%20Sen%20-%20Valobeshechhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/05 - Indranil Sen - Ami Ekta (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/12%20-%20Indranil%20Sen%20-%20Prem%20Ekbare%20Esechhilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/06 - Indranil Sen - Dada (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/06%20-%20Indranil%20Sen%20-%20Dada%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/08 - Indranil Sen - Cholo Aaj (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/02%20-%20Indranil%20Sen%20-%20Khol%20Re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/15 - Indranil Sen - Ei Sundor Shornali Sondhyai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/19%20-%20Indranil%20Sen%20-%20Jokhon%20Daklo%20Banshi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/17 - Indranil Sen - Mone Pore Ruby Roy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/18%20-%20Indranil%20Sen%20-%20Ei%20Je%20Nodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/13 - Indranil Sen - Ki Ashai Badhi Khelaghor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/11%20-%20Indranil%20Sen%20-%20Nive%20Gelo%20Sob%20Alo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/12 - Indranil Sen - Prem Ekbare Esechhilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/03%20-%20Indranil%20Sen%20-%20Sob%20Kichhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/18 - Indranil Sen - Ei Je Nodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/01%20-%20Indranil%20Sen%20-%20Elo%20Bujhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/03 - Indranil Sen - Sob Kichhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/10%20-%20Indranil%20Sen%20-%20Jibon%20Purer%20Pothik%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/I/Indrani Sen/Moner Dorja/04 - Indranil Sen - Valobeshechhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/05%20-%20Indranil%20Sen%20-%20Ami%20Ekta%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/08%20-%20Indranil%20Sen%20-%20Cholo%20Aaj%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/07%20-%20Indranil%20Sen%20-%20Ei%20Pothe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/14%20-%20Indranil%20Sen%20-%20Banshi%20Bujhi%20Sei%20Sure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/15%20-%20Indranil%20Sen%20-%20Ei%20Sundor%20Shornali%20Sondhyai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/17%20-%20Indranil%20Sen%20-%20Mone%20Pore%20Ruby%20Roy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/09%20-%20Indranil%20Sen%20-%20Ranga%20Matir%20Pother%20Dhare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/16%20-%20Indranil%20Sen%20-%20Haowa%20Megh%20Soraye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/13%20-%20Indranil%20Sen%20-%20Ki%20Ashai%20Badhi%20Khelaghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/04%20-%20Indranil%20Sen%20-%20Valobeshechhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/12%20-%20Indranil%20Sen%20-%20Prem%20Ekbare%20Esechhilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/06%20-%20Indranil%20Sen%20-%20Dada%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/02%20-%20Indranil%20Sen%20-%20Khol%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/19%20-%20Indranil%20Sen%20-%20Jokhon%20Daklo%20Banshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/18%20-%20Indranil%20Sen%20-%20Ei%20Je%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/11%20-%20Indranil%20Sen%20-%20Nive%20Gelo%20Sob%20Alo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/03%20-%20Indranil%20Sen%20-%20Sob%20Kichhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/01%20-%20Indranil%20Sen%20-%20Elo%20Bujhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/10%20-%20Indranil%20Sen%20-%20Jibon%20Purer%20Pothik%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/05%20-%20Indranil%20Sen%20-%20Ami%20Ekta%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/08%20-%20Indranil%20Sen%20-%20Cholo%20Aaj%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/07%20-%20Indranil%20Sen%20-%20Ei%20Pothe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/14%20-%20Indranil%20Sen%20-%20Banshi%20Bujhi%20Sei%20Sure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/15%20-%20Indranil%20Sen%20-%20Ei%20Sundor%20Shornali%20Sondhyai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/17%20-%20Indranil%20Sen%20-%20Mone%20Pore%20Ruby%20Roy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/09%20-%20Indranil%20Sen%20-%20Ranga%20Matir%20Pother%20Dhare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/16%20-%20Indranil%20Sen%20-%20Haowa%20Megh%20Soraye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/13%20-%20Indranil%20Sen%20-%20Ki%20Ashai%20Badhi%20Khelaghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/04%20-%20Indranil%20Sen%20-%20Valobeshechhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/12%20-%20Indranil%20Sen%20-%20Prem%20Ekbare%20Esechhilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/06%20-%20Indranil%20Sen%20-%20Dada%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/02%20-%20Indranil%20Sen%20-%20Khol%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/19%20-%20Indranil%20Sen%20-%20Jokhon%20Daklo%20Banshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/18%20-%20Indranil%20Sen%20-%20Ei%20Je%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/11%20-%20Indranil%20Sen%20-%20Nive%20Gelo%20Sob%20Alo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/03%20-%20Indranil%20Sen%20-%20Sob%20Kichhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/01%20-%20Indranil%20Sen%20-%20Elo%20Bujhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/10%20-%20Indranil%20Sen%20-%20Jibon%20Purer%20Pothik%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/I/Indrani%20Sen/Moner%20Dorja/05%20-%20Indranil%20Sen%20-%20Ami%20Ekta%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

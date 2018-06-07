@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Anjan - Shohure Ghorchara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Klanto%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Anjan - Klanto Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Tomar%20Khoje%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Bappa - Tomar Khoje (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Shohure%20Ghorchara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Bappa - Chaadkeo Irsha Kori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Kemon%20Kore%20Mon%20Lagabo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Bappa - Raag Kore Ki Hobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Pakhir%20Asha%20Jaowa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Anjan - Ichhe Korei Aksathe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Ichhe%20Korei%20Aksathe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Anjan - Bondhur Khoje (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Kal%20Theke%20Manush%20Hobo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Anjan - Kal Theke Manush Hobo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Bondhur%20Khoje%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Bappa - Pakhir Asha Jaowa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Raag%20Kore%20Ki%20Hobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Icche Korei Ek Shathe/Bappa - Kemon Kore Mon Lagabo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Chaadkeo%20Irsha%20Kori%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Klanto%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Tomar%20Khoje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Shohure%20Ghorchara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Kemon%20Kore%20Mon%20Lagabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Pakhir%20Asha%20Jaowa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Ichhe%20Korei%20Aksathe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Kal%20Theke%20Manush%20Hobo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Bondhur%20Khoje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Raag%20Kore%20Ki%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Chaadkeo%20Irsha%20Kori%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Klanto%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Tomar%20Khoje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Shohure%20Ghorchara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Kemon%20Kore%20Mon%20Lagabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Pakhir%20Asha%20Jaowa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Ichhe%20Korei%20Aksathe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Kal%20Theke%20Manush%20Hobo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Anjan%20-%20Bondhur%20Khoje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Raag%20Kore%20Ki%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Chaadkeo%20Irsha%20Kori%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

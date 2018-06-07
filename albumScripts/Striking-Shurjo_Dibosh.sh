@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/05 - Striking - Opar Godhuli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/05%20-%20Striking%20-%20Opar%20Godhuli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/02 - Striking - Tobuo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/01%20-%20Striking%20-%20Cactus%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/10 - Striking - Symphony Asru (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/08%20-%20Striking%20-%20Olik%20Obokkhoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/01 - Striking - Cactus (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/07%20-%20Striking%20-%20Bhikkhito%20Ayna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/06 - Striking - Mohakabbo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/06%20-%20Striking%20-%20Mohakabbo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/07 - Striking - Bhikkhito Ayna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/04%20-%20Striking%20-%20Smritir%20Janala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/04 - Striking - Smritir Janala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/10%20-%20Striking%20-%20Symphony%20Asru%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/09 - Striking - Shikarokti 2000 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/03%20-%20Striking%20-%20Alokito%20Diner%20Golpo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/03 - Striking - Alokito Diner Golpo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/09%20-%20Striking%20-%20Shikarokti%202000%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Striking/Shurjo Dibosh/08 - Striking - Olik Obokkhoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/02%20-%20Striking%20-%20Tobuo%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/05%20-%20Striking%20-%20Opar%20Godhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/01%20-%20Striking%20-%20Cactus%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/08%20-%20Striking%20-%20Olik%20Obokkhoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/07%20-%20Striking%20-%20Bhikkhito%20Ayna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/06%20-%20Striking%20-%20Mohakabbo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/04%20-%20Striking%20-%20Smritir%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/10%20-%20Striking%20-%20Symphony%20Asru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/03%20-%20Striking%20-%20Alokito%20Diner%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/09%20-%20Striking%20-%20Shikarokti%202000%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/02%20-%20Striking%20-%20Tobuo%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/05%20-%20Striking%20-%20Opar%20Godhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/01%20-%20Striking%20-%20Cactus%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/08%20-%20Striking%20-%20Olik%20Obokkhoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/07%20-%20Striking%20-%20Bhikkhito%20Ayna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/06%20-%20Striking%20-%20Mohakabbo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/04%20-%20Striking%20-%20Smritir%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/10%20-%20Striking%20-%20Symphony%20Asru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/03%20-%20Striking%20-%20Alokito%20Diner%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/09%20-%20Striking%20-%20Shikarokti%202000%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/02%20-%20Striking%20-%20Tobuo%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/02 - Kaniz Suborna - Ae Raate Ae Moon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/01%20-%20Kaniz%20Suborna%20-%20Mithay%20Sadhonay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/11 - Kaniz Suborna - Tomay Pele Sajbo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/03%20-%20Kaniz%20Suborna%20-%20Ghoom%20Nae%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/06 - Kaniz Suborna - Purono Phooldani (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/09%20-%20Kaniz%20Suborna%20-%20Dui%20Cup%20Kophi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/07 - Kaniz Suborna - Din Kate Na Raat Katena (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/02%20-%20Kaniz%20Suborna%20-%20Ae%20Raate%20Ae%20Moon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/03 - Kaniz Suborna - Ghoom Nae (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/06%20-%20Kaniz%20Suborna%20-%20Purono%20Phooldani%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/10 - Kaniz Suborna - Ami Phool Niye Hate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/10%20-%20Kaniz%20Suborna%20-%20Ami%20Phool%20Niye%20Hate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/12 - Kaniz Suborna - Sukh Chhuye Jay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/08%20-%20Kaniz%20Suborna%20-%20Ahoto%20Hridoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/05 - Kaniz Suborna - Koto Ashay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/05%20-%20Kaniz%20Suborna%20-%20Koto%20Ashay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/01 - Kaniz Suborna - Mithay Sadhonay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/12%20-%20Kaniz%20Suborna%20-%20Sukh%20Chhuye%20Jay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/04 - Kaniz Suborna - Amar Ae Bhalobasay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/11%20-%20Kaniz%20Suborna%20-%20Tomay%20Pele%20Sajbo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/09 - Kaniz Suborna - Dui Cup Kophi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/04%20-%20Kaniz%20Suborna%20-%20Amar%20Ae%20Bhalobasay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kaniz Suborna/Bhalobashi Tomake/08 - Kaniz Suborna - Ahoto Hridoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/07%20-%20Kaniz%20Suborna%20-%20Din%20Kate%20Na%20Raat%20Katena%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/01%20-%20Kaniz%20Suborna%20-%20Mithay%20Sadhonay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/03%20-%20Kaniz%20Suborna%20-%20Ghoom%20Nae%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/09%20-%20Kaniz%20Suborna%20-%20Dui%20Cup%20Kophi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/02%20-%20Kaniz%20Suborna%20-%20Ae%20Raate%20Ae%20Moon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/06%20-%20Kaniz%20Suborna%20-%20Purono%20Phooldani%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/10%20-%20Kaniz%20Suborna%20-%20Ami%20Phool%20Niye%20Hate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/08%20-%20Kaniz%20Suborna%20-%20Ahoto%20Hridoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/05%20-%20Kaniz%20Suborna%20-%20Koto%20Ashay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/12%20-%20Kaniz%20Suborna%20-%20Sukh%20Chhuye%20Jay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/11%20-%20Kaniz%20Suborna%20-%20Tomay%20Pele%20Sajbo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/04%20-%20Kaniz%20Suborna%20-%20Amar%20Ae%20Bhalobasay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/07%20-%20Kaniz%20Suborna%20-%20Din%20Kate%20Na%20Raat%20Katena%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/01%20-%20Kaniz%20Suborna%20-%20Mithay%20Sadhonay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/03%20-%20Kaniz%20Suborna%20-%20Ghoom%20Nae%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/09%20-%20Kaniz%20Suborna%20-%20Dui%20Cup%20Kophi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/02%20-%20Kaniz%20Suborna%20-%20Ae%20Raate%20Ae%20Moon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/06%20-%20Kaniz%20Suborna%20-%20Purono%20Phooldani%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/10%20-%20Kaniz%20Suborna%20-%20Ami%20Phool%20Niye%20Hate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/08%20-%20Kaniz%20Suborna%20-%20Ahoto%20Hridoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/05%20-%20Kaniz%20Suborna%20-%20Koto%20Ashay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/12%20-%20Kaniz%20Suborna%20-%20Sukh%20Chhuye%20Jay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/11%20-%20Kaniz%20Suborna%20-%20Tomay%20Pele%20Sajbo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/04%20-%20Kaniz%20Suborna%20-%20Amar%20Ae%20Bhalobasay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/07%20-%20Kaniz%20Suborna%20-%20Din%20Kate%20Na%20Raat%20Katena%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

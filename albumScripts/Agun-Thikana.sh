@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Shamol Boron Meyeti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Godhuli.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Opekkha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Opekkha.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Bhoy Bhoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Shamol%20Boron%20Meyeti.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Ekti Golap (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Uttal%20Shomudro.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Godhuli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Ekti%20Golap.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Ghum Ghum Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Oshojjo%20Dhoroni.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Oshojjo Dhoroni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Bhoy%20Bhoy.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Chirkut (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Pratthona.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Uttal Shomudro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Chirkut.mp3"
 
-wget "http://download.music.com.bd/Music/A/Agun/Thikana/Agun - Pratthona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Ghum%20Ghum%20Chokh.mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Godhuli.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Opekkha.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Shamol%20Boron%20Meyeti.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Uttal%20Shomudro.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Ekti%20Golap.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Oshojjo%20Dhoroni.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Bhoy%20Bhoy.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Pratthona.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Chirkut.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Ghum%20Ghum%20Chokh.mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Godhuli.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Opekkha.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Shamol%20Boron%20Meyeti.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Uttal%20Shomudro.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Ekti%20Golap.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Oshojjo%20Dhoroni.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Bhoy%20Bhoy.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Pratthona.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Chirkut.mp3"
+
+wget "http://download.music.com.bd/Music/A/Agun/Thikana/Ghum%20Ghum%20Chokh.mp3"
 for element in "${array[@]}"
 do
     cd ..

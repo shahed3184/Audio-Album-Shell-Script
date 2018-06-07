@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Saharer Kotha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Hoyna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Obak Bhromon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Shunno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Nodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Lal%20Neel%20Golpo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Shuvro Rongin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Jahaji%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Jahaji (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Obak%20Bhromon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Ghum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Ghum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Shunno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Shuvro%20Rongin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Hoyna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Nishchup%20Adhar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Lal Neel Golpo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Nodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Nishchup Adhar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Hasimukhey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin - Hasimukhey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Saharer%20Kotha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Hoyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Shunno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Lal%20Neel%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Jahaji%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Obak%20Bhromon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Shuvro%20Rongin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Nishchup%20Adhar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Hasimukhey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Saharer%20Kotha%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Hoyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Shunno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Lal%20Neel%20Golpo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Jahaji%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Obak%20Bhromon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Ghum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Shuvro%20Rongin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Nishchup%20Adhar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Hasimukhey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shironamhin/Jahaji/Shironamhin%20-%20Saharer%20Kotha%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

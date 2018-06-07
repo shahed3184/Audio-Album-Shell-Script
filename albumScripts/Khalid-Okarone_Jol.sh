@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/09 - Khalid - Noy Dorja Koria Bondho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/07%20-%20Khalid%20-%20Dekhona%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/07 - Khalid - Dekhona Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/10%20-%20Khalid%20-%20She%20Mor%20Hoilo%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/02 - Khalid - Poran Bondhure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/03%20-%20Khalid%20-%20Okarone%20Jol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/03 - Khalid - Okarone Jol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/05%20-%20Khalid%20-%20Shukh%20Bosonto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/08 - Khalid - Tomar Shathe Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/09%20-%20Khalid%20-%20Noy%20Dorja%20Koria%20Bondho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/10 - Khalid - She Mor Hoilo Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/06%20-%20Khalid%20-%20Tumi%20Janonare%20Priyo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/05 - Khalid - Shukh Bosonto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/02%20-%20Khalid%20-%20Poran%20Bondhure%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/01 - Khalid - Tumi Eshechile (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/04%20-%20Khalid%20-%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/06 - Khalid - Tumi Janonare Priyo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/08%20-%20Khalid%20-%20Tomar%20Shathe%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Khalid/Okarone Jol/04 - Khalid - Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/01%20-%20Khalid%20-%20Tumi%20Eshechile%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/07%20-%20Khalid%20-%20Dekhona%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/10%20-%20Khalid%20-%20She%20Mor%20Hoilo%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/03%20-%20Khalid%20-%20Okarone%20Jol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/05%20-%20Khalid%20-%20Shukh%20Bosonto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/09%20-%20Khalid%20-%20Noy%20Dorja%20Koria%20Bondho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/06%20-%20Khalid%20-%20Tumi%20Janonare%20Priyo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/02%20-%20Khalid%20-%20Poran%20Bondhure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/04%20-%20Khalid%20-%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/08%20-%20Khalid%20-%20Tomar%20Shathe%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/01%20-%20Khalid%20-%20Tumi%20Eshechile%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/07%20-%20Khalid%20-%20Dekhona%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/10%20-%20Khalid%20-%20She%20Mor%20Hoilo%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/03%20-%20Khalid%20-%20Okarone%20Jol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/05%20-%20Khalid%20-%20Shukh%20Bosonto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/09%20-%20Khalid%20-%20Noy%20Dorja%20Koria%20Bondho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/06%20-%20Khalid%20-%20Tumi%20Janonare%20Priyo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/02%20-%20Khalid%20-%20Poran%20Bondhure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/04%20-%20Khalid%20-%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/08%20-%20Khalid%20-%20Tomar%20Shathe%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Khalid/Okarone%20Jol/01%20-%20Khalid%20-%20Tumi%20Eshechile%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

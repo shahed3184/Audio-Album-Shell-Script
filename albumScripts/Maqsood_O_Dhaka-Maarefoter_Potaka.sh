@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/03 - Maqsood O Dhaka - Paap Punner Kotha (Sins And Salvation) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/07%20-%20Maqsood%20O%20Dhaka%20-%20Amake%20Chobena%20(Dont%20Touch%20Me)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/02 - Maqsood O Dhaka - Bolai Dadar Gamcha (The Gumccha) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/06%20-%20Maqsood%20O%20Dhaka%20-%20Mon%20Nodi%20(Equilibrium)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/01 - Maqsood O Dhaka - Kaade Krishnomon (Cry Krishna) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/09%20-%20Maqsood%20O%20Dhaka%20-%20Din%20Furailo%20(Hymn%20For%20The%20Sage)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/10 - Maqsood O Dhaka - Maarefoter Potaka (The Standard Of Extelligence) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/04%20-%20Maqsood%20O%20Dhaka%20-%20Hetona%20(Walk%20With%20God)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/09 - Maqsood O Dhaka - Din Furailo (Hymn For The Sage) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/05%20-%20Maqsood%20O%20Dhaka%20-%20Fokiri%20(Extelligence%20Explained)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/04 - Maqsood O Dhaka - Hetona (Walk With God) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/08%20-%20Maqsood%20O%20Dhaka%20-%20Atel%20Totto%20(His%20Holiness%20The%20Intellectual)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/08 - Maqsood O Dhaka - Atel Totto (His Holiness The Intellectual) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/10%20-%20Maqsood%20O%20Dhaka%20-%20Maarefoter%20Potaka%20(The%20Standard%20Of%20Extelligence)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/05 - Maqsood O Dhaka - Fokiri (Extelligence Explained) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/02%20-%20Maqsood%20O%20Dhaka%20-%20Bolai%20Dadar%20Gamcha%20(The%20Gumccha)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/07 - Maqsood O Dhaka - Amake Chobena (Dont Touch Me) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/01%20-%20Maqsood%20O%20Dhaka%20-%20Kaade%20Krishnomon%20(Cry%20Krishna)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Maqsood O Dhaka/Maarefoter Potaka/06 - Maqsood O Dhaka - Mon Nodi (Equilibrium) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/03%20-%20Maqsood%20O%20Dhaka%20-%20Paap%20Punner%20Kotha%20(Sins%20And%20Salvation)%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/07%20-%20Maqsood%20O%20Dhaka%20-%20Amake%20Chobena%20(Dont%20Touch%20Me)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/06%20-%20Maqsood%20O%20Dhaka%20-%20Mon%20Nodi%20(Equilibrium)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/09%20-%20Maqsood%20O%20Dhaka%20-%20Din%20Furailo%20(Hymn%20For%20The%20Sage)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/04%20-%20Maqsood%20O%20Dhaka%20-%20Hetona%20(Walk%20With%20God)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/05%20-%20Maqsood%20O%20Dhaka%20-%20Fokiri%20(Extelligence%20Explained)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/08%20-%20Maqsood%20O%20Dhaka%20-%20Atel%20Totto%20(His%20Holiness%20The%20Intellectual)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/10%20-%20Maqsood%20O%20Dhaka%20-%20Maarefoter%20Potaka%20(The%20Standard%20Of%20Extelligence)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/02%20-%20Maqsood%20O%20Dhaka%20-%20Bolai%20Dadar%20Gamcha%20(The%20Gumccha)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/01%20-%20Maqsood%20O%20Dhaka%20-%20Kaade%20Krishnomon%20(Cry%20Krishna)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/03%20-%20Maqsood%20O%20Dhaka%20-%20Paap%20Punner%20Kotha%20(Sins%20And%20Salvation)%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/07%20-%20Maqsood%20O%20Dhaka%20-%20Amake%20Chobena%20(Dont%20Touch%20Me)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/06%20-%20Maqsood%20O%20Dhaka%20-%20Mon%20Nodi%20(Equilibrium)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/09%20-%20Maqsood%20O%20Dhaka%20-%20Din%20Furailo%20(Hymn%20For%20The%20Sage)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/04%20-%20Maqsood%20O%20Dhaka%20-%20Hetona%20(Walk%20With%20God)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/05%20-%20Maqsood%20O%20Dhaka%20-%20Fokiri%20(Extelligence%20Explained)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/08%20-%20Maqsood%20O%20Dhaka%20-%20Atel%20Totto%20(His%20Holiness%20The%20Intellectual)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/10%20-%20Maqsood%20O%20Dhaka%20-%20Maarefoter%20Potaka%20(The%20Standard%20Of%20Extelligence)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/02%20-%20Maqsood%20O%20Dhaka%20-%20Bolai%20Dadar%20Gamcha%20(The%20Gumccha)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/01%20-%20Maqsood%20O%20Dhaka%20-%20Kaade%20Krishnomon%20(Cry%20Krishna)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Maqsood%20O%20Dhaka/Maarefoter%20Potaka/03%20-%20Maqsood%20O%20Dhaka%20-%20Paap%20Punner%20Kotha%20(Sins%20And%20Salvation)%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

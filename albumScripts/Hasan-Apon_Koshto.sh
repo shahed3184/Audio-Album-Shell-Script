@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/06 - Hasan - Lukuchuri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/02%20-%20Hasan%20-%20Ekhoni%20Namle%20Adhar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/11 - Hasan - Monica (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/08%20-%20Hasan%20-%20Ador%20Gulu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/05 - Hasan - Keno Brishti Jhore Jay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/10%20-%20Hasan%20-%20Khoniker%20Othiti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/08 - Hasan - Ador Gulu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/03%20-%20Hasan%20-%20Apon%20Koshto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/04 - Hasan - Amar Ei Ondhokar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/07%20-%20Hasan%20-%20O%20Kheyali%20Meye%20Go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/01 - Hasan - Sathti Desh Ar Pachti Sogor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/05%20-%20Hasan%20-%20Keno%20Brishti%20Jhore%20Jay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/07 - Hasan - O Kheyali Meye Go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/09%20-%20Hasan%20-%20Bukta%20Amar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/10 - Hasan - Khoniker Othiti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/12%20-%20Hasan%20-%20Shopno%20Amar%20Kede%20More%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/03 - Hasan - Apon Koshto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/01%20-%20Hasan%20-%20Sathti%20Desh%20Ar%20Pachti%20Sogor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/09 - Hasan - Bukta Amar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/06%20-%20Hasan%20-%20Lukuchuri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/02 - Hasan - Ekhoni Namle Adhar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/11%20-%20Hasan%20-%20Monica%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Apon Koshto/12 - Hasan - Shopno Amar Kede More (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/04%20-%20Hasan%20-%20Amar%20Ei%20Ondhokar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/02%20-%20Hasan%20-%20Ekhoni%20Namle%20Adhar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/08%20-%20Hasan%20-%20Ador%20Gulu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/10%20-%20Hasan%20-%20Khoniker%20Othiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/03%20-%20Hasan%20-%20Apon%20Koshto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/07%20-%20Hasan%20-%20O%20Kheyali%20Meye%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/05%20-%20Hasan%20-%20Keno%20Brishti%20Jhore%20Jay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/09%20-%20Hasan%20-%20Bukta%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/12%20-%20Hasan%20-%20Shopno%20Amar%20Kede%20More%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/01%20-%20Hasan%20-%20Sathti%20Desh%20Ar%20Pachti%20Sogor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/06%20-%20Hasan%20-%20Lukuchuri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/11%20-%20Hasan%20-%20Monica%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/04%20-%20Hasan%20-%20Amar%20Ei%20Ondhokar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/02%20-%20Hasan%20-%20Ekhoni%20Namle%20Adhar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/08%20-%20Hasan%20-%20Ador%20Gulu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/10%20-%20Hasan%20-%20Khoniker%20Othiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/03%20-%20Hasan%20-%20Apon%20Koshto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/07%20-%20Hasan%20-%20O%20Kheyali%20Meye%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/05%20-%20Hasan%20-%20Keno%20Brishti%20Jhore%20Jay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/09%20-%20Hasan%20-%20Bukta%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/12%20-%20Hasan%20-%20Shopno%20Amar%20Kede%20More%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/01%20-%20Hasan%20-%20Sathti%20Desh%20Ar%20Pachti%20Sogor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/06%20-%20Hasan%20-%20Lukuchuri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/11%20-%20Hasan%20-%20Monica%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Apon%20Koshto/04%20-%20Hasan%20-%20Amar%20Ei%20Ondhokar%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

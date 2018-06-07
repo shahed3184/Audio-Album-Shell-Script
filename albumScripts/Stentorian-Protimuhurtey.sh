@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Biddrohi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Addrisho%20Juddho%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Mone Pore Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Bhoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Protimuhurtey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Jonmantor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Oshomapto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Jolsrot%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Anuvuti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Mone%20Pore%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Akrosh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Protimuhurtey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Addrisho Juddho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Biddrohi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Mishrobodh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Mishrobodh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Addrisho Juddho 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Oshomapto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Jolsrot (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Addrisho%20Juddho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Bhoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Akrosh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian - Jonmantor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Anuvuti%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Addrisho%20Juddho%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Bhoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Jonmantor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Jolsrot%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Mone%20Pore%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Protimuhurtey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Biddrohi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Mishrobodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Oshomapto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Addrisho%20Juddho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Akrosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Anuvuti%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Addrisho%20Juddho%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Bhoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Jonmantor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Jolsrot%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Mone%20Pore%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Protimuhurtey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Biddrohi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Mishrobodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Oshomapto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Addrisho%20Juddho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Akrosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stentorian/Protimuhurtey/Stentorian%20-%20Anuvuti%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

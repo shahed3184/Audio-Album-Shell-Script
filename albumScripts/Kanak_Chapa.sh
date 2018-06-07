@@ -20,37 +20,109 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Ekhono Aakashe Chad Oi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Chad%20Hoiye%20Ele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Gopejon Monochor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Aakash%20Prodip%20Jole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Kacher Churir Chotai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ei%20Shodu%20Ganer%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Amer Hredoy Ne A (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Godhulir%20Ranga%20Megha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Ekta Gan Likho Aamer Jonno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Aakashe%20Aaj%20Ronger%20Khela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Chad Hoiye Ele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Kacher%20Churir%20Chotai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Godhulir Ranga Megha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Amer%20Hredoy%20Ne%20A%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Dekona Amare Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Bhalobasho%20Tumi%20Sunechi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Aakash Prodip Jole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Duti%20Choke%20Lajuk%20Lajuk%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Bhalobasho Tumi Sunechi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jibone%20Jodi%20Dip%20Jalate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Jare Jare Ure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Dekona%20Amare%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Aakashe Aaj Ronger Khela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Gopejon%20Monochor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Jibone Jodi Dip Jalate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ekta%20Gan%20Likho%20Aamer%20Jonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Jai Ke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jai%20Ke%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Duti Choke Lajuk Lajuk (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ekhono%20Aakashe%20Chad%20Oi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kanak Chapa/Kanak Chapa - Ei Shodu Ganer (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jare%20Jare%20Ure%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Chad%20Hoiye%20Ele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Aakash%20Prodip%20Jole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ei%20Shodu%20Ganer%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Godhulir%20Ranga%20Megha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Aakashe%20Aaj%20Ronger%20Khela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Kacher%20Churir%20Chotai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Amer%20Hredoy%20Ne%20A%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Bhalobasho%20Tumi%20Sunechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Duti%20Choke%20Lajuk%20Lajuk%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jibone%20Jodi%20Dip%20Jalate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Dekona%20Amare%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Gopejon%20Monochor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ekta%20Gan%20Likho%20Aamer%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jai%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ekhono%20Aakashe%20Chad%20Oi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jare%20Jare%20Ure%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Chad%20Hoiye%20Ele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Aakash%20Prodip%20Jole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ei%20Shodu%20Ganer%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Godhulir%20Ranga%20Megha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Aakashe%20Aaj%20Ronger%20Khela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Kacher%20Churir%20Chotai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Amer%20Hredoy%20Ne%20A%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Bhalobasho%20Tumi%20Sunechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Duti%20Choke%20Lajuk%20Lajuk%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jibone%20Jodi%20Dip%20Jalate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Dekona%20Amare%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Gopejon%20Monochor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ekta%20Gan%20Likho%20Aamer%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jai%20Ke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Ekhono%20Aakashe%20Chad%20Oi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kanak%20Chapa/Kanak%20Chapa%20-%20Jare%20Jare%20Ure%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

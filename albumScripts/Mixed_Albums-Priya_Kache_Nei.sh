@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/11 - Alal Warid - Tomake Valobesechhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/06%20-%20Ethhun%20Babu%20-%20Sukher%20Prithibi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/07 - Ethhun Babu - Akaki Ei Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/11%20-%20Alal%20Warid%20-%20Tomake%20Valobesechhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/02 - Asif - Miththe Ovijog (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/12%20-%20Asif%20-%20Ghor%20Vangile%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/01 - Asif - Priya Kachhe Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/03%20-%20Asif%20-%20Kachhe%20Ese%20Chole%20Gele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/12 - Asif - Ghor Vangile (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/04%20-%20Chondon%20Sinha%20-%20Neela%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/03 - Asif - Kachhe Ese Chole Gele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/07%20-%20Ethhun%20Babu%20-%20Akaki%20Ei%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/10 - Atik Babu - Nisongota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/02%20-%20Asif%20-%20Miththe%20Ovijog%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/04 - Chondon Sinha - Neela Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/10%20-%20Atik%20Babu%20-%20Nisongota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/05 - Chondon Sinha - Emoni Valobasa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/01%20-%20Asif%20-%20Priya%20Kachhe%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/09 - Atik Babu - Tumi Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/08%20-%20Atik%20Babu%20-%20Dukkha%20Pelam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/06 - Ethhun Babu - Sukher Prithibi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/09%20-%20Atik%20Babu%20-%20Tumi%20Nei%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Priya Kache Nei/08 - Atik Babu - Dukkha Pelam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/05%20-%20Chondon%20Sinha%20-%20Emoni%20Valobasa%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/06%20-%20Ethhun%20Babu%20-%20Sukher%20Prithibi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/11%20-%20Alal%20Warid%20-%20Tomake%20Valobesechhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/12%20-%20Asif%20-%20Ghor%20Vangile%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/03%20-%20Asif%20-%20Kachhe%20Ese%20Chole%20Gele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/04%20-%20Chondon%20Sinha%20-%20Neela%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/07%20-%20Ethhun%20Babu%20-%20Akaki%20Ei%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/02%20-%20Asif%20-%20Miththe%20Ovijog%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/10%20-%20Atik%20Babu%20-%20Nisongota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/01%20-%20Asif%20-%20Priya%20Kachhe%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/08%20-%20Atik%20Babu%20-%20Dukkha%20Pelam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/09%20-%20Atik%20Babu%20-%20Tumi%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/05%20-%20Chondon%20Sinha%20-%20Emoni%20Valobasa%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/06%20-%20Ethhun%20Babu%20-%20Sukher%20Prithibi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/11%20-%20Alal%20Warid%20-%20Tomake%20Valobesechhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/12%20-%20Asif%20-%20Ghor%20Vangile%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/03%20-%20Asif%20-%20Kachhe%20Ese%20Chole%20Gele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/04%20-%20Chondon%20Sinha%20-%20Neela%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/07%20-%20Ethhun%20Babu%20-%20Akaki%20Ei%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/02%20-%20Asif%20-%20Miththe%20Ovijog%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/10%20-%20Atik%20Babu%20-%20Nisongota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/01%20-%20Asif%20-%20Priya%20Kachhe%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/08%20-%20Atik%20Babu%20-%20Dukkha%20Pelam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/09%20-%20Atik%20Babu%20-%20Tumi%20Nei%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Priya%20Kache%20Nei/05%20-%20Chondon%20Sinha%20-%20Emoni%20Valobasa%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/02 - Kumar Bishwajit - Anondo Ashrom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/11%20-%20Kumar%20Bishwajit%20-%20Chondona%20Go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/12 - Kumar Bishwajit - Monta Kaina Koy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/06%20-%20Kumar%20Bishwajit%20-%20Kono%20Kono%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/06 - Kumar Bishwajit - Kono Kono Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/04%20-%20Kumar%20Bishwajit%20-%20Boro%20Koshto%20Holo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/11 - Kumar Bishwajit - Chondona Go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/02%20-%20Kumar%20Bishwajit%20-%20Anondo%20Ashrom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/10 - Kumar Bishwajit - Tomar Shathe Dekha Na Hole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/01%20-%20Kumar%20Bishwajit%20-%20Tumi%20Pagol%20Bolo%20Ar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/03 - Kumar Bishwajit - Ektara Bajaio Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/07%20-%20Kumar%20Bishwajit%20-%20Ekhono%20Tomake%20Bhebe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/07 - Kumar Bishwajit - Ekhono Tomake Bhebe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/08%20-%20Kumar%20Bishwajit%20-%20Buker%20Majhe%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/09 - Kumar Bishwajit - Dekhi Jokhoni Tomay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/10%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shathe%20Dekha%20Na%20Hole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/01 - Kumar Bishwajit - Tumi Pagol Bolo Ar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/03%20-%20Kumar%20Bishwajit%20-%20Ektara%20Bajaio%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/08 - Kumar Bishwajit - Buker Majhe Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/09%20-%20Kumar%20Bishwajit%20-%20Dekhi%20Jokhoni%20Tomay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/04 - Kumar Bishwajit - Boro Koshto Holo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/12%20-%20Kumar%20Bishwajit%20-%20Monta%20Kaina%20Koy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Dhirgho Shash/05 - Kumar Bishwajit - Opare Te Bondhur Bari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/05%20-%20Kumar%20Bishwajit%20-%20Opare%20Te%20Bondhur%20Bari%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/11%20-%20Kumar%20Bishwajit%20-%20Chondona%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/06%20-%20Kumar%20Bishwajit%20-%20Kono%20Kono%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/04%20-%20Kumar%20Bishwajit%20-%20Boro%20Koshto%20Holo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/02%20-%20Kumar%20Bishwajit%20-%20Anondo%20Ashrom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/01%20-%20Kumar%20Bishwajit%20-%20Tumi%20Pagol%20Bolo%20Ar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/07%20-%20Kumar%20Bishwajit%20-%20Ekhono%20Tomake%20Bhebe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/08%20-%20Kumar%20Bishwajit%20-%20Buker%20Majhe%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/10%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shathe%20Dekha%20Na%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/03%20-%20Kumar%20Bishwajit%20-%20Ektara%20Bajaio%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/09%20-%20Kumar%20Bishwajit%20-%20Dekhi%20Jokhoni%20Tomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/12%20-%20Kumar%20Bishwajit%20-%20Monta%20Kaina%20Koy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/05%20-%20Kumar%20Bishwajit%20-%20Opare%20Te%20Bondhur%20Bari%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/11%20-%20Kumar%20Bishwajit%20-%20Chondona%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/06%20-%20Kumar%20Bishwajit%20-%20Kono%20Kono%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/04%20-%20Kumar%20Bishwajit%20-%20Boro%20Koshto%20Holo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/02%20-%20Kumar%20Bishwajit%20-%20Anondo%20Ashrom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/01%20-%20Kumar%20Bishwajit%20-%20Tumi%20Pagol%20Bolo%20Ar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/07%20-%20Kumar%20Bishwajit%20-%20Ekhono%20Tomake%20Bhebe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/08%20-%20Kumar%20Bishwajit%20-%20Buker%20Majhe%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/10%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shathe%20Dekha%20Na%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/03%20-%20Kumar%20Bishwajit%20-%20Ektara%20Bajaio%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/09%20-%20Kumar%20Bishwajit%20-%20Dekhi%20Jokhoni%20Tomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/12%20-%20Kumar%20Bishwajit%20-%20Monta%20Kaina%20Koy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Dhirgho%20Shash/05%20-%20Kumar%20Bishwajit%20-%20Opare%20Te%20Bondhur%20Bari%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

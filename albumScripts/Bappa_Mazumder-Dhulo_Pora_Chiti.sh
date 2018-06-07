@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Chere Gecho Kobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Ghumer%20Jonno%20Chokh%20Bujhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Dhulo Pora Chiti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Prithibi%20Onek%20Boro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Pori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Chere%20Gecho%20Kobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Ghumer Jonno Chokh Bujhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Jiboner%20Koto%20Je%20Kolahol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Kokhono Jodi Icce Hoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Kokhono%20Jodi%20Icce%20Hoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Jokhon Somoi Holo Tomake Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Pori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Prithibi Onek Boro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Khola%20Dak%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Jiboner Koto Je Kolahol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Jokhon%20Somoi%20Holo%20Tomake%20Chai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Khola Dak (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Keo%20Shopno%20Poray%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Keo Shopno Poray (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Dhulo%20Pora%20Chiti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Dhulo Pora Chiti/Bappa - Bondhu Tar Shathe Dekha Hole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bondhu%20Tar%20Shathe%20Dekha%20Hole%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Ghumer%20Jonno%20Chokh%20Bujhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Prithibi%20Onek%20Boro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Chere%20Gecho%20Kobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Jiboner%20Koto%20Je%20Kolahol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Kokhono%20Jodi%20Icce%20Hoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Pori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Khola%20Dak%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Jokhon%20Somoi%20Holo%20Tomake%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Keo%20Shopno%20Poray%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Dhulo%20Pora%20Chiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bondhu%20Tar%20Shathe%20Dekha%20Hole%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Ghumer%20Jonno%20Chokh%20Bujhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Prithibi%20Onek%20Boro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Chere%20Gecho%20Kobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Jiboner%20Koto%20Je%20Kolahol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Kokhono%20Jodi%20Icce%20Hoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Pori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Khola%20Dak%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Jokhon%20Somoi%20Holo%20Tomake%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Keo%20Shopno%20Poray%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Dhulo%20Pora%20Chiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bondhu%20Tar%20Shathe%20Dekha%20Hole%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

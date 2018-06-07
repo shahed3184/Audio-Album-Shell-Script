@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Aporna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Ek%20Dui%20Tin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Ek Dui Tin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Karbala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Prothom Jokhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Eto%20Gaan%20Aaj%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Suprovat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Aporna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Eto Gaan Aaj (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Surjo%20Chuye%20Boli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Mati (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Tepantorer%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Karbala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Ekla%20Cholore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Tepantorer Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Suprovat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Surjo Chuye Boli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Prothom%20Jokhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota - Ekla Cholore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Mati%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Ek%20Dui%20Tin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Karbala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Eto%20Gaan%20Aaj%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Aporna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Surjo%20Chuye%20Boli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Tepantorer%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Ekla%20Cholore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Suprovat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Prothom%20Jokhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Mati%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Ek%20Dui%20Tin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Karbala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Eto%20Gaan%20Aaj%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Aporna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Surjo%20Chuye%20Boli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Tepantorer%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Ekla%20Cholore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Suprovat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Prothom%20Jokhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shadhinota/Karbala/Shadhinota%20-%20Mati%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

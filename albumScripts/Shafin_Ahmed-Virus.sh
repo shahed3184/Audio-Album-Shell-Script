@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/03 - Shafin Ahmed - Uchaton Ei Monta (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/05%20-%20Shafin%20Ahmed%20-%20Vulei%20Jachhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/04 - Shafin Ahmed - Who Is Guilty (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/01%20-%20Shafin%20Ahmed%20-%20Adda%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/05 - Shafin Ahmed - Vulei Jachhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/10%20-%20Shafin%20Ahmed%20-%20Ke%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/02 - Shafin Ahmed - Tomar Porosh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/06%20-%20Shafin%20Ahmed%20-%20Choddo%20Koti%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/10 - Shafin Ahmed - Ke Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/02%20-%20Shafin%20Ahmed%20-%20Tomar%20Porosh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/08 - Shafin Ahmed - Abishash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/04%20-%20Shafin%20Ahmed%20-%20Who%20Is%20Guilty%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/07 - Shafin Ahmed - Ekta Rumal Hobe- (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/08%20-%20Shafin%20Ahmed%20-%20Abishash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/01 - Shafin Ahmed - Adda (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/07%20-%20Shafin%20Ahmed%20-%20Ekta%20Rumal%20Hobe-%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/06 - Shafin Ahmed - Choddo Koti Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/03%20-%20Shafin%20Ahmed%20-%20Uchaton%20Ei%20Monta%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Shafin Ahmed/Virus/09 - Shafin Ahmed - Sagor Pare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/09%20-%20Shafin%20Ahmed%20-%20Sagor%20Pare%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/05%20-%20Shafin%20Ahmed%20-%20Vulei%20Jachhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/01%20-%20Shafin%20Ahmed%20-%20Adda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/10%20-%20Shafin%20Ahmed%20-%20Ke%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/06%20-%20Shafin%20Ahmed%20-%20Choddo%20Koti%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/02%20-%20Shafin%20Ahmed%20-%20Tomar%20Porosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/04%20-%20Shafin%20Ahmed%20-%20Who%20Is%20Guilty%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/08%20-%20Shafin%20Ahmed%20-%20Abishash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/07%20-%20Shafin%20Ahmed%20-%20Ekta%20Rumal%20Hobe-%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/03%20-%20Shafin%20Ahmed%20-%20Uchaton%20Ei%20Monta%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/09%20-%20Shafin%20Ahmed%20-%20Sagor%20Pare%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/05%20-%20Shafin%20Ahmed%20-%20Vulei%20Jachhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/01%20-%20Shafin%20Ahmed%20-%20Adda%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/10%20-%20Shafin%20Ahmed%20-%20Ke%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/06%20-%20Shafin%20Ahmed%20-%20Choddo%20Koti%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/02%20-%20Shafin%20Ahmed%20-%20Tomar%20Porosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/04%20-%20Shafin%20Ahmed%20-%20Who%20Is%20Guilty%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/08%20-%20Shafin%20Ahmed%20-%20Abishash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/07%20-%20Shafin%20Ahmed%20-%20Ekta%20Rumal%20Hobe-%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/03%20-%20Shafin%20Ahmed%20-%20Uchaton%20Ei%20Monta%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/09%20-%20Shafin%20Ahmed%20-%20Sagor%20Pare%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

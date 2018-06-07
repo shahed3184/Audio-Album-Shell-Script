@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Safin - Kono Ek Shajhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Biplob%20-%20Ridoyhina%20Ridoyhina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Khalid - Kono Karone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Tipu%20-%20Jibone%20Prothom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Labu - Deghir Jale (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Labu%20-%20Deghir%20Jale%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Hasan - Proshno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Ayub%20Bachu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Hasan - Chole Jao Bandhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Partho%20-%20Susmita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/James - Maa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Nakib%20-%20Valobasha%20Mane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Ayub Bachu - Ei Rupali Chad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Safin%20-%20Kono%20Ek%20Shajhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Nakib - Valobasha Mane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Chole%20Jao%20Bandhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Biplob - Ridoyhina Ridoyhina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/James%20-%20Maa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Tipu - Jibone Prothom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Proshno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Ekhono Du Chokhe Bonna/Partho - Susmita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Biplob%20-%20Ridoyhina%20Ridoyhina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Tipu%20-%20Jibone%20Prothom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Labu%20-%20Deghir%20Jale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Ayub%20Bachu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Partho%20-%20Susmita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Nakib%20-%20Valobasha%20Mane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Safin%20-%20Kono%20Ek%20Shajhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Chole%20Jao%20Bandhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/James%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Proshno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Biplob%20-%20Ridoyhina%20Ridoyhina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Tipu%20-%20Jibone%20Prothom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Labu%20-%20Deghir%20Jale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Ayub%20Bachu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Partho%20-%20Susmita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Nakib%20-%20Valobasha%20Mane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Safin%20-%20Kono%20Ek%20Shajhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Chole%20Jao%20Bandhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/James%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Proshno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

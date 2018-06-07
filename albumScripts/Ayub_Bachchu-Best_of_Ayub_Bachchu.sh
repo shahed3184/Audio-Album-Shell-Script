@@ -20,315 +20,943 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Paliye Jabo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Pakhir%20Moto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Bhule Jao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Shongshare%20Keu%20Nai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ochena Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Elomelo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Obak Hridoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rater%20Tara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Teen Poorush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kede%20Kede%20Jabo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Koshto Pete Bhalobashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shob%20Loke%20Koy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Durer Tomake (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jege%20Achi%20Eka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kono Obhijog (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tara%20Bhora%20Rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Nirobota (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kokhono%20Ba%20Mone%20Pore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ridoyer Vogoban (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kenoba%20Tare%20Shope%20Dilam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Dukhini Rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shunte%20Ki%20Pao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sushmita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shopno%202%20(Golpo%20Seshe)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Jodi Firia Deo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhule%20Jao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Obhiman Nia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Cholo%20Bodle%20Jai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kosto Pete Bhalo Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chobi%20Aki%20Icche%20Moto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ekbaar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ghumao%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ekti Shotto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shantona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Akash Kade Batash Kade (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ural%20Dibo%20Akashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Thor Thor Thor Chor  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jonmohin%20Nokkhotro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Moumita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hridoyhina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Dukkho Ke Koro Joy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ei Je Akash Ei Je Batash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Duniar%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Eka Hoa Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Karone%20Okarone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Protishodh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nodire%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shantona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotodin%20Dekhini%20Duchokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kenoba Tare Shope Dilam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Eka%20Eka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Nissho Ei Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Chokher Joler Kono Rong Hoyna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ki%20Kore%20Bolley%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Guiter Ebong Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Durer%20Tomake%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Protarok Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Borobabu%20Master%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Gibonanonder Kobita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protiti%20Bhor_%20Protiti%20Khon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Palate Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hridoyer%20Punorbashon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - O Duniar Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kar%20Kache%20Jabo%20Bole%20Deo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sobuj Ghor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Majhe%20Majhe%20Mone%20Pore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Jonmo Mrittu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ektu%20Kom%20Dile%20Hoto%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kotodin Dekhini Duchokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Mon%20Bhalo%20Naire%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Oporichita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ek%20Bikeler%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Rupali Guiter (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhanga%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ei Rupali Chad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Madhobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ei Sohor Ekhon Ghumia Geche (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Penshon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Cholo Bodle Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Apekkhay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shudhu Ki Amar Bhul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kishor%20Kishori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Je Jibon Nia Gorbo Tomar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tor%20Bhanglo%20Shukher%20Ghor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Hridoyhina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Pal%20Tola%20Nay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sharther Kache Bondi Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Neel%20Bedona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Chobi Aki Icche Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Sohor%20Ekhon%20Ghumia%20Geche%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Gogoner Tara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nirobota%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Amar Duti Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protarona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Aka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ghor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tomake Bhalobashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Janala%20Bhora%20Rupali%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ami Tomar Majhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ferari%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Neel Bedona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Neelanjona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Porer Jayga Porer Jomi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ferari%20Pakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - O Rater Tara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sharther%20Kache%20Bondi%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Elomelo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Moumita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ei Prithibite Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kal%20Chilo%20Borshakal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Keo Bhalobeshe Kache Tane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Gogoner%20Tara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Madhobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukkho%20Shukher%20Dolay%20Dole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Chole Jete Jete (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Obak%20Hridoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Janala Bhora Rupali (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Meye%20O%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tor Bhanglo Shukher Ghor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nodir%20Buke%20Chad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Koto Dure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Tomar%20Majhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Majhi Baia Jawre (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Je%20Akash%20Ei%20Je%20Batash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ural Dibo Akashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Baba (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rupali%20Guitar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Dol Dol Doloni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Mon%20Chaile%20Mon%20Pabe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sukhe Theko Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Eka%20Hoa%20Jai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kotodin Dekhini Tomay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tomar%20Chokhe%20Dekhle%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Chauddopurusher Bhumidash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chauddopurusher%20Bhumidash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Bhanga Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Koshto%20Pete%20Bhalobashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shopno 2 (Golpo Seshe) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Obhiman%20Nia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ki Showda Korchi Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Aaj%20Theke%20Aar%20Kokhono%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Abar Dekha Hobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shudhu%20Ki%20Amar%20Bhul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sesh Kobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Prem%20Tumi%20Ki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ashru (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shomoyer%20Isharay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ei Rod Ei Megh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Udashi%20Mone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kotha Chilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Meye O Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Duti%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Jege Achi Eka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protishodh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ek Akash Tara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sukhe%20Theko%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Prem Tumi Ki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Akash%20Kade%20Batash%20Kade%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Nirobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Baba%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Majhe Majhe Mone Pore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekbaar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tumihina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ochena%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ameo Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shelai%20Chara%20Shada%20Kapor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Eka Eka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sushmita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Protarona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ek%20Akash%20Tara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ekhon Onek Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Bhebechi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shonnashini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumi%20Shei%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tumi Shei Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukkho%20Ke%20Koro%20Joy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Hashte Dekho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tomake%20Bhalobashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Akhon%20Onek%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukhini%20Rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ferari Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekti%20Shotto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Hridoyer Punorbashon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20Bhalobeshe%20Kache%20Tane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ektu Kom Dile Hoto Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Prothom%20Amar%20Shesh%20%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ami Je Ghunagar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Ei%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Udashi Mone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shopno%201%20(Chai%20Shopno)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ferari Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sesh%20Kobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Nodir Buke Chad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Je%20Ghunagar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Keo To Kotha Rakhe Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Pal Tola Nay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nirobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kal Chilo Borshakal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Prithibite%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jodi%20Firia%20Deo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shomoyer Isharay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Je%20Jibon%20Nia%20Gorbo%20Tomar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Aaj Theke Aar Kokhono (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Atoshi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tomar Chokhe Dekhle (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chole%20Jete%20Jete%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sriti Nia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chokher%20Joler%20Kono%20Rong%20Hoyna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ami Bhebechi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotodin%20Dekhini%20Tomay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Nodire (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protidan%20Chaina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ki Kore Bolley Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Guiter%20Ebong%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shunte Ki Pao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Aka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ashru%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Neelanjona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Thor%20Thor%20Thor%20Chor%20%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Chad Mama (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jonmo%20Mrittu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Mon Chaile Mon Pabe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protarok%20Chokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ghor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ondhokar%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kar Kache Jabo Bole Deo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bachao%20Bidhata%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Keo Karor Noy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rupali%20Guiter%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Protiti Bhor_ Protiti Khon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20To%20Kotha%20Rakhe%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Karone Okarone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Teen%20Poorush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Rupali Guitar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rajkumari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kishor Kishori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Gibonanonder%20Kobita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ghumao Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ameo%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Pakhir Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Apon%20Keo%20Nai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tara Bhora Rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tajmahal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ondhokar Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Duti Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nissho%20Ei%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Amar Ei Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Porer%20Jayga%20Porer%20Jomi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Jonmohin Nokkhotro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shonnashini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Rater Tara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sudhu%20Amar%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Rajkumari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sobuj%20Ghor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Tajmahal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotha%20Chilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shopno 1 (Chai Shopno) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Palate%20Chai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kokhono Ba Mone Pore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Oporichita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shob Loke Koy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Amar%20Shoki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Apekkhay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Paliye%20Jabo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Protidan Chaina (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Majhi%20Baia%20Jawre%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Kede Kede Jabo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Rod%20Ei%20Megh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Penshon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumihina%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Amar Prothom Amar Shesh  Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kosto%20Pete%20Bhalo%20Bashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Akhon Onek Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Abar%20Dekha%20Hobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Bachao Bidhata (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kono%20Obhijog%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ei Shongshare Keu Nai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20Karor%20Noy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Sudhu Amar Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Mon Bhalo Naire (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Koto%20Dure%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - O Amar Shoki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dol%20Dol%20Doloni%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Borobabu Master (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hashte%20Dekho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Dukkho Shukher Dolay Dole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Ek Bikeler Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ki%20Showda%20Korchi%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Apon Keo Nai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sriti%20Nia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Dukhini Ma (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Duti%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Shelai Chara Shada Kapor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chad%20Mama%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Best of Ayub Bachchu/Ayub Bachchu - Atoshi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ridoyer%20Vogoban%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Pakhir%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Shongshare%20Keu%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Elomelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rater%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kede%20Kede%20Jabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shob%20Loke%20Koy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jege%20Achi%20Eka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tara%20Bhora%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kokhono%20Ba%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kenoba%20Tare%20Shope%20Dilam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shunte%20Ki%20Pao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shopno%202%20(Golpo%20Seshe)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhule%20Jao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Cholo%20Bodle%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chobi%20Aki%20Icche%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ghumao%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shantona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ural%20Dibo%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jonmohin%20Nokkhotro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hridoyhina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Duniar%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Karone%20Okarone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nodire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotodin%20Dekhini%20Duchokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Eka%20Eka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ki%20Kore%20Bolley%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Durer%20Tomake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Borobabu%20Master%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protiti%20Bhor_%20Protiti%20Khon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hridoyer%20Punorbashon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kar%20Kache%20Jabo%20Bole%20Deo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Majhe%20Majhe%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ektu%20Kom%20Dile%20Hoto%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Mon%20Bhalo%20Naire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ek%20Bikeler%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhanga%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Madhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Penshon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Apekkhay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kishor%20Kishori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tor%20Bhanglo%20Shukher%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Pal%20Tola%20Nay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Neel%20Bedona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Sohor%20Ekhon%20Ghumia%20Geche%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nirobota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protarona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Janala%20Bhora%20Rupali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ferari%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Neelanjona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ferari%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sharther%20Kache%20Bondi%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Moumita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kal%20Chilo%20Borshakal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Gogoner%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukkho%20Shukher%20Dolay%20Dole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Obak%20Hridoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Meye%20O%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nodir%20Buke%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Tomar%20Majhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Je%20Akash%20Ei%20Je%20Batash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rupali%20Guitar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Mon%20Chaile%20Mon%20Pabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Eka%20Hoa%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tomar%20Chokhe%20Dekhle%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chauddopurusher%20Bhumidash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Koshto%20Pete%20Bhalobashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Obhiman%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Aaj%20Theke%20Aar%20Kokhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shudhu%20Ki%20Amar%20Bhul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Prem%20Tumi%20Ki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shomoyer%20Isharay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Udashi%20Mone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Duti%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protishodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sukhe%20Theko%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Akash%20Kade%20Batash%20Kade%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Baba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekbaar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ochena%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shelai%20Chara%20Shada%20Kapor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sushmita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ek%20Akash%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Bhebechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumi%20Shei%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukkho%20Ke%20Koro%20Joy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tomake%20Bhalobashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Akhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukhini%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekti%20Shotto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20Bhalobeshe%20Kache%20Tane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Prothom%20Amar%20Shesh%20%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Ei%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shopno%201%20(Chai%20Shopno)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sesh%20Kobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Je%20Ghunagar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nirobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Prithibite%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jodi%20Firia%20Deo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Je%20Jibon%20Nia%20Gorbo%20Tomar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Atoshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chole%20Jete%20Jete%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chokher%20Joler%20Kono%20Rong%20Hoyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotodin%20Dekhini%20Tomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protidan%20Chaina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Guiter%20Ebong%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Aka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ashru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Thor%20Thor%20Thor%20Chor%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jonmo%20Mrittu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protarok%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ondhokar%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bachao%20Bidhata%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rupali%20Guiter%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20To%20Kotha%20Rakhe%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Teen%20Poorush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rajkumari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Gibonanonder%20Kobita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ameo%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Apon%20Keo%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tajmahal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nissho%20Ei%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Porer%20Jayga%20Porer%20Jomi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shonnashini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sudhu%20Amar%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sobuj%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotha%20Chilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Palate%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Oporichita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Amar%20Shoki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Paliye%20Jabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Majhi%20Baia%20Jawre%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Rod%20Ei%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumihina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kosto%20Pete%20Bhalo%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Abar%20Dekha%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kono%20Obhijog%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20Karor%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Koto%20Dure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dol%20Dol%20Doloni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hashte%20Dekho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ki%20Showda%20Korchi%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sriti%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Duti%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chad%20Mama%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ridoyer%20Vogoban%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Pakhir%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Shongshare%20Keu%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Elomelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rater%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kede%20Kede%20Jabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shob%20Loke%20Koy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jege%20Achi%20Eka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tara%20Bhora%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kokhono%20Ba%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kenoba%20Tare%20Shope%20Dilam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shunte%20Ki%20Pao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shopno%202%20(Golpo%20Seshe)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhule%20Jao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Cholo%20Bodle%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chobi%20Aki%20Icche%20Moto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ghumao%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shantona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ural%20Dibo%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jonmohin%20Nokkhotro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hridoyhina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Duniar%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Karone%20Okarone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nodire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotodin%20Dekhini%20Duchokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Eka%20Eka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ki%20Kore%20Bolley%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Durer%20Tomake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Borobabu%20Master%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protiti%20Bhor_%20Protiti%20Khon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hridoyer%20Punorbashon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kar%20Kache%20Jabo%20Bole%20Deo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Majhe%20Majhe%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ektu%20Kom%20Dile%20Hoto%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Mon%20Bhalo%20Naire%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ek%20Bikeler%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhanga%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Madhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Penshon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Apekkhay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kishor%20Kishori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tor%20Bhanglo%20Shukher%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Pal%20Tola%20Nay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Neel%20Bedona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Sohor%20Ekhon%20Ghumia%20Geche%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nirobota%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protarona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Janala%20Bhora%20Rupali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ferari%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Neelanjona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ferari%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sharther%20Kache%20Bondi%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Moumita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kal%20Chilo%20Borshakal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Gogoner%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukkho%20Shukher%20Dolay%20Dole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Obak%20Hridoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Meye%20O%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nodir%20Buke%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Tomar%20Majhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Je%20Akash%20Ei%20Je%20Batash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rupali%20Guitar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Mon%20Chaile%20Mon%20Pabe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Eka%20Hoa%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tomar%20Chokhe%20Dekhle%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chauddopurusher%20Bhumidash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Koshto%20Pete%20Bhalobashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Obhiman%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Aaj%20Theke%20Aar%20Kokhono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shudhu%20Ki%20Amar%20Bhul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Prem%20Tumi%20Ki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shomoyer%20Isharay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Udashi%20Mone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Duti%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protishodh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sukhe%20Theko%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Akash%20Kade%20Batash%20Kade%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Baba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekbaar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ochena%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shelai%20Chara%20Shada%20Kapor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sushmita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ek%20Akash%20Tara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Bhebechi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumi%20Shei%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukkho%20Ke%20Koro%20Joy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tomake%20Bhalobashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Akhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dukhini%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ekti%20Shotto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20Bhalobeshe%20Kache%20Tane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Prothom%20Amar%20Shesh%20%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Ei%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shopno%201%20(Chai%20Shopno)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sesh%20Kobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ami%20Je%20Ghunagar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nirobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Prithibite%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jodi%20Firia%20Deo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Je%20Jibon%20Nia%20Gorbo%20Tomar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Atoshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chole%20Jete%20Jete%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chokher%20Joler%20Kono%20Rong%20Hoyna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotodin%20Dekhini%20Tomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protidan%20Chaina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Guiter%20Ebong%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Aka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ashru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Thor%20Thor%20Thor%20Chor%20%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Jonmo%20Mrittu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Protarok%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ondhokar%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bachao%20Bidhata%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rupali%20Guiter%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20To%20Kotha%20Rakhe%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Teen%20Poorush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Rajkumari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Gibonanonder%20Kobita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ameo%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Apon%20Keo%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tajmahal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Nissho%20Ei%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Porer%20Jayga%20Porer%20Jomi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Shonnashini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sudhu%20Amar%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sobuj%20Ghor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kotha%20Chilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Palate%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Oporichita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20O%20Amar%20Shoki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Paliye%20Jabo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Majhi%20Baia%20Jawre%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Rod%20Ei%20Megh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Tumihina%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kosto%20Pete%20Bhalo%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Abar%20Dekha%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Kono%20Obhijog%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Keo%20Karor%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Koto%20Dure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Dol%20Dol%20Doloni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Hashte%20Dekho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ki%20Showda%20Korchi%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Sriti%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Amar%20Duti%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Chad%20Mama%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Best%20of%20Ayub%20Bachchu/Ayub%20Bachchu%20-%20Ridoyer%20Vogoban%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,13 +20,37 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hasan/Koinna Mon Dila Na/Hasan - Koinna Mon Dila Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Ghumer%20Ghore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Koinna Mon Dila Na/Hasan - Bujhate Parini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Tumi%20Chad%20Hoye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Koinna Mon Dila Na/Hasan - Tumi Chad Hoye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Koinna%20Mon%20Dila%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Koinna Mon Dila Na/Hasan - Ghumer Ghore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Bujhate%20Parini%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Ghumer%20Ghore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Tumi%20Chad%20Hoye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Koinna%20Mon%20Dila%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Bujhate%20Parini%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Ghumer%20Ghore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Tumi%20Chad%20Hoye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Koinna%20Mon%20Dila%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Koinna%20Mon%20Dila%20Na/Hasan%20-%20Bujhate%20Parini%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

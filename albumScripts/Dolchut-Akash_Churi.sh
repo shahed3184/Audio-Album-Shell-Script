@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/06 - Dolchut - Bhenge Poth (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/12%20-%20Dolchut%20-%20Bayoskop%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/07 - Dolchut - Akash Churi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/03%20-%20Dolchut%20-%20Firechay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/11 - Dolchut - Opekka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/01%20-%20Dolchut%20-%20Chader%20Shohor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/05 - Dolchut - Churi Chikissha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/07%20-%20Dolchut%20-%20Akash%20Churi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/04 - Dolchut - Jorr (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/05%20-%20Dolchut%20-%20Churi%20Chikissha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/10 - Dolchut - Ei Noshto Shor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/08%20-%20Dolchut%20-%20Karchobi%20Nay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/09 - Dolchut - Ferari Shomay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/11%20-%20Dolchut%20-%20Opekka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/12 - Dolchut - Bayoskop (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/09%20-%20Dolchut%20-%20Ferari%20Shomay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/01 - Dolchut - Chader Shohor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/10%20-%20Dolchut%20-%20Ei%20Noshto%20Shor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/02 - Dolchut - Ridoyer Dabi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/04%20-%20Dolchut%20-%20Jorr%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/03 - Dolchut - Firechay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/06%20-%20Dolchut%20-%20Bhenge%20Poth%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Akash Churi/08 - Dolchut - Karchobi Nay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/02%20-%20Dolchut%20-%20Ridoyer%20Dabi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/12%20-%20Dolchut%20-%20Bayoskop%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/03%20-%20Dolchut%20-%20Firechay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/01%20-%20Dolchut%20-%20Chader%20Shohor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/07%20-%20Dolchut%20-%20Akash%20Churi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/05%20-%20Dolchut%20-%20Churi%20Chikissha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/08%20-%20Dolchut%20-%20Karchobi%20Nay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/11%20-%20Dolchut%20-%20Opekka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/09%20-%20Dolchut%20-%20Ferari%20Shomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/10%20-%20Dolchut%20-%20Ei%20Noshto%20Shor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/04%20-%20Dolchut%20-%20Jorr%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/06%20-%20Dolchut%20-%20Bhenge%20Poth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/02%20-%20Dolchut%20-%20Ridoyer%20Dabi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/12%20-%20Dolchut%20-%20Bayoskop%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/03%20-%20Dolchut%20-%20Firechay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/01%20-%20Dolchut%20-%20Chader%20Shohor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/07%20-%20Dolchut%20-%20Akash%20Churi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/05%20-%20Dolchut%20-%20Churi%20Chikissha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/08%20-%20Dolchut%20-%20Karchobi%20Nay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/11%20-%20Dolchut%20-%20Opekka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/09%20-%20Dolchut%20-%20Ferari%20Shomay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/10%20-%20Dolchut%20-%20Ei%20Noshto%20Shor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/04%20-%20Dolchut%20-%20Jorr%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/06%20-%20Dolchut%20-%20Bhenge%20Poth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Akash%20Churi/02%20-%20Dolchut%20-%20Ridoyer%20Dabi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

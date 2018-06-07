@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/06 - James - Dukkho Keno Koro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/11%20-%20James%20-%20Shotter%20Shundor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/12 - James - Roop Sagor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/08%20-%20James%20-%20Ekdin%20Chilo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/09 - James - Jodi Emon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/01%20-%20James%20-%20Station%20Road%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/05 - James - Jhorna Theke Nodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/03%20-%20James%20-%20Ager%20Jonome%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/01 - James - Station Road (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/04%20-%20James%20-%20Amay%20Jetey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/04 - James - Amay Jetey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/02%20-%20James%20-%20Aar%20Noy%20Juddho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/11 - James - Shotter Shundor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/12%20-%20James%20-%20Roop%20Sagor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/03 - James - Ager Jonome (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/10%20-%20James%20-%20Ever%20Since%20You%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/10 - James - Ever Since You (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/09%20-%20James%20-%20Jodi%20Emon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/08 - James - Ekdin Chilo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/06%20-%20James%20-%20Dukkho%20Keno%20Koro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Station Road/02 - James - Aar Noy Juddho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/05%20-%20James%20-%20Jhorna%20Theke%20Nodi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/11%20-%20James%20-%20Shotter%20Shundor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/08%20-%20James%20-%20Ekdin%20Chilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/01%20-%20James%20-%20Station%20Road%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/03%20-%20James%20-%20Ager%20Jonome%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/04%20-%20James%20-%20Amay%20Jetey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/02%20-%20James%20-%20Aar%20Noy%20Juddho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/12%20-%20James%20-%20Roop%20Sagor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/10%20-%20James%20-%20Ever%20Since%20You%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/09%20-%20James%20-%20Jodi%20Emon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/06%20-%20James%20-%20Dukkho%20Keno%20Koro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/05%20-%20James%20-%20Jhorna%20Theke%20Nodi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/11%20-%20James%20-%20Shotter%20Shundor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/08%20-%20James%20-%20Ekdin%20Chilo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/01%20-%20James%20-%20Station%20Road%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/03%20-%20James%20-%20Ager%20Jonome%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/04%20-%20James%20-%20Amay%20Jetey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/02%20-%20James%20-%20Aar%20Noy%20Juddho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/12%20-%20James%20-%20Roop%20Sagor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/10%20-%20James%20-%20Ever%20Since%20You%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/09%20-%20James%20-%20Jodi%20Emon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/06%20-%20James%20-%20Dukkho%20Keno%20Koro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Station%20Road/05%20-%20James%20-%20Jhorna%20Theke%20Nodi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

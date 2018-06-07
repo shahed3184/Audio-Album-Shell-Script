@@ -20,19 +20,55 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Shob Kota Janala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Nati%20Khati%20Bela%20Gelo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Ore Neel Daria (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Ore%20Neel%20Daria%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Amar Bolar Kichu Chilona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Shob%20Kota%20Janala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Shona Shona Shona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Amar%20Bolar%20Kichu%20Chilona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Kobita Porar Prohor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Ei%20Padma%20Ei%20Meghna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Ei Padma Ei Meghna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Kobita%20Porar%20Prohor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Purano Diner Gaan/Nati Khati Bela Gelo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Shona%20Shona%20Shona%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Nati%20Khati%20Bela%20Gelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Ore%20Neel%20Daria%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Shob%20Kota%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Amar%20Bolar%20Kichu%20Chilona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Ei%20Padma%20Ei%20Meghna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Kobita%20Porar%20Prohor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Shona%20Shona%20Shona%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Nati%20Khati%20Bela%20Gelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Ore%20Neel%20Daria%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Shob%20Kota%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Amar%20Bolar%20Kichu%20Chilona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Ei%20Padma%20Ei%20Meghna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Kobita%20Porar%20Prohor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Purano%20Diner%20Gaan/Shona%20Shona%20Shona%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

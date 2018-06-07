@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/07 - Ayub Bachchu - Goto Kal Rate (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/02%20-%20Ayub%20Bachchu%20-%20Ferari%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/06 - Ayub Bachchu - Sriti Nia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/05%20-%20Ayub%20Bachchu%20-%20Madhobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/10 - Ayub Bachchu - Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/10%20-%20Ayub%20Bachchu%20-%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/04 - Ayub Bachchu - Sesh Chiti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/08%20-%20Ayub%20Bachchu%20-%20Penshon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/03 - Ayub Bachchu - Cholo Bodle Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/07%20-%20Ayub%20Bachchu%20-%20Goto%20Kal%20Rate%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/02 - Ayub Bachchu - Ferari Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/06%20-%20Ayub%20Bachchu%20-%20Sriti%20Nia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/05 - Ayub Bachchu - Madhobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/09%20-%20Ayub%20Bachchu%20-%20Rupali%20Guiter%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/09 - Ayub Bachchu - Rupali Guiter (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/01%20-%20Ayub%20Bachchu%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/01 - Ayub Bachchu - Ekhon Onek Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/04%20-%20Ayub%20Bachchu%20-%20Sesh%20Chiti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Ferari Mon (Unplugged)/08 - Ayub Bachchu - Penshon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/03%20-%20Ayub%20Bachchu%20-%20Cholo%20Bodle%20Jai%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/02%20-%20Ayub%20Bachchu%20-%20Ferari%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/05%20-%20Ayub%20Bachchu%20-%20Madhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/10%20-%20Ayub%20Bachchu%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/08%20-%20Ayub%20Bachchu%20-%20Penshon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/07%20-%20Ayub%20Bachchu%20-%20Goto%20Kal%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/06%20-%20Ayub%20Bachchu%20-%20Sriti%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/09%20-%20Ayub%20Bachchu%20-%20Rupali%20Guiter%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/01%20-%20Ayub%20Bachchu%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/04%20-%20Ayub%20Bachchu%20-%20Sesh%20Chiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/03%20-%20Ayub%20Bachchu%20-%20Cholo%20Bodle%20Jai%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/02%20-%20Ayub%20Bachchu%20-%20Ferari%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/05%20-%20Ayub%20Bachchu%20-%20Madhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/10%20-%20Ayub%20Bachchu%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/08%20-%20Ayub%20Bachchu%20-%20Penshon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/07%20-%20Ayub%20Bachchu%20-%20Goto%20Kal%20Rate%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/06%20-%20Ayub%20Bachchu%20-%20Sriti%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/09%20-%20Ayub%20Bachchu%20-%20Rupali%20Guiter%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/01%20-%20Ayub%20Bachchu%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/04%20-%20Ayub%20Bachchu%20-%20Sesh%20Chiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Ferari%20Mon%20(Unplugged)/03%20-%20Ayub%20Bachchu%20-%20Cholo%20Bodle%20Jai%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

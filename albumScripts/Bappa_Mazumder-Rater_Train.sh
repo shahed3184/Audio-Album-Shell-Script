@@ -20,21 +20,61 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Choto Choto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Pakhira%20Nire%20Fire%20Jai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Rater Train (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Bisshashete%20Bostu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Veshechhi Ami Jaani Na Kothai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kichhu%20To%20Ekta%20Bolo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Adhare Jochona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Rater%20Train%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Kobitar Shironame (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Veshechhi%20Ami%20Jaani%20Na%20Kothai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Kichhu To Ekta Bolo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Adhare%20Jochona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Bisshashete Bostu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kobitar%20Shironame%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/B/Bappa Mazumder/Rater Train/Bappa - Pakhira Nire Fire Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Choto%20Choto%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Pakhira%20Nire%20Fire%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Bisshashete%20Bostu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kichhu%20To%20Ekta%20Bolo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Rater%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Veshechhi%20Ami%20Jaani%20Na%20Kothai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Adhare%20Jochona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kobitar%20Shironame%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Choto%20Choto%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Pakhira%20Nire%20Fire%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Bisshashete%20Bostu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kichhu%20To%20Ekta%20Bolo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Rater%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Veshechhi%20Ami%20Jaani%20Na%20Kothai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Adhare%20Jochona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kobitar%20Shironame%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Choto%20Choto%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

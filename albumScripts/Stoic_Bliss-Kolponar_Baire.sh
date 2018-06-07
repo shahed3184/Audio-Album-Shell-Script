@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/13 - Stoic Bliss - Fire Like A Dragon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/03%20-%20Stoic%20Bliss%20-%20Pakhi%20Paka%20Pepe%20Khay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/05 - Stoic Bliss - Raatri Jaga (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/13%20-%20Stoic%20Bliss%20-%20Fire%20Like%20A%20Dragon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/10 - Stoic Bliss - Amar Bondhu Bonduk (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/02%20-%20Stoic%20Bliss%20-%20Abar%20Abar%20Jigay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/03 - Stoic Bliss - Pakhi Paka Pepe Khay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/09%20-%20Stoic%20Bliss%20-%20Ei%20Je%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/01 - Stoic Bliss - Intro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/06%20-%20Stoic%20Bliss%20-%20Pura%20Ura%20Dhura%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/07 - Stoic Bliss - Shomoyer Palki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/01%20-%20Stoic%20Bliss%20-%20Intro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/02 - Stoic Bliss - Abar Abar Jigay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/10%20-%20Stoic%20Bliss%20-%20Amar%20Bondhu%20Bonduk%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/06 - Stoic Bliss - Pura Ura Dhura (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/11%20-%20Stoic%20Bliss%20-%20Sample%20This%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/04 - Stoic Bliss - Acid Ke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/08%20-%20Stoic%20Bliss%20-%20Berajaal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/11 - Stoic Bliss - Sample This (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/05%20-%20Stoic%20Bliss%20-%20Raatri%20Jaga%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/12 - Stoic Bliss - Shapura (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/12%20-%20Stoic%20Bliss%20-%20Shapura%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/08 - Stoic Bliss - Berajaal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/07%20-%20Stoic%20Bliss%20-%20Shomoyer%20Palki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Stoic Bliss/Kolponar Baire/09 - Stoic Bliss - Ei Je Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/04%20-%20Stoic%20Bliss%20-%20Acid%20Ke%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/03%20-%20Stoic%20Bliss%20-%20Pakhi%20Paka%20Pepe%20Khay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/13%20-%20Stoic%20Bliss%20-%20Fire%20Like%20A%20Dragon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/02%20-%20Stoic%20Bliss%20-%20Abar%20Abar%20Jigay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/09%20-%20Stoic%20Bliss%20-%20Ei%20Je%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/06%20-%20Stoic%20Bliss%20-%20Pura%20Ura%20Dhura%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/01%20-%20Stoic%20Bliss%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/10%20-%20Stoic%20Bliss%20-%20Amar%20Bondhu%20Bonduk%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/11%20-%20Stoic%20Bliss%20-%20Sample%20This%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/08%20-%20Stoic%20Bliss%20-%20Berajaal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/05%20-%20Stoic%20Bliss%20-%20Raatri%20Jaga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/12%20-%20Stoic%20Bliss%20-%20Shapura%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/07%20-%20Stoic%20Bliss%20-%20Shomoyer%20Palki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/04%20-%20Stoic%20Bliss%20-%20Acid%20Ke%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/03%20-%20Stoic%20Bliss%20-%20Pakhi%20Paka%20Pepe%20Khay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/13%20-%20Stoic%20Bliss%20-%20Fire%20Like%20A%20Dragon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/02%20-%20Stoic%20Bliss%20-%20Abar%20Abar%20Jigay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/09%20-%20Stoic%20Bliss%20-%20Ei%20Je%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/06%20-%20Stoic%20Bliss%20-%20Pura%20Ura%20Dhura%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/01%20-%20Stoic%20Bliss%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/10%20-%20Stoic%20Bliss%20-%20Amar%20Bondhu%20Bonduk%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/11%20-%20Stoic%20Bliss%20-%20Sample%20This%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/08%20-%20Stoic%20Bliss%20-%20Berajaal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/05%20-%20Stoic%20Bliss%20-%20Raatri%20Jaga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/12%20-%20Stoic%20Bliss%20-%20Shapura%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/07%20-%20Stoic%20Bliss%20-%20Shomoyer%20Palki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Stoic%20Bliss/Kolponar%20Baire/04%20-%20Stoic%20Bliss%20-%20Acid%20Ke%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

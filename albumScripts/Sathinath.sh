@@ -20,37 +20,109 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Sathinath/03. RumJhum Rumjhum (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/14.%20Ase%20Basanto%20Ful%20Bone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/15. Ghumiye Gache Santo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/03.%20RumJhum%20Rumjhum%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/13. Janam Janam Tobo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/12.%20Bokul%20Chaper%20Bone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/07. Ke Bidesini (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/07.%20Ke%20Bidesini%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/02. Sawono Rate Jodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/06.%20Zau%20Megh%20Duth%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/08. Amai Nohe Go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/13.%20Janam%20Janam%20Tobo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/04. Bosiya Bijone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/11.%20Ramjaner%20Oi%20Rojer%20Sase%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/06. Zau Megh Duth (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/05.%20Ghovir%20Nisite%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/01. Tumi Sundor Tai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/10.%20Vul%20Kore%20Jodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/16. Amer Jaber Somoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/16.%20Amer%20Jaber%20Somoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/05. Ghovir Nisite (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/15.%20Ghumiye%20Gache%20Santo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/11. Ramjaner Oi Rojer Sase (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/08.%20Amai%20Nohe%20Go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/12. Bokul Chaper Bone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/04.%20Bosiya%20Bijone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/14. Ase Basanto Ful Bone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/02.%20Sawono%20Rate%20Jodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/10. Vul Kore Jodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/01.%20Tumi%20Sundor%20Tai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sathinath/09. Kau Vulona Kau (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sathinath/09.%20Kau%20Vulona%20Kau%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Sathinath/14.%20Ase%20Basanto%20Ful%20Bone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/03.%20RumJhum%20Rumjhum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/12.%20Bokul%20Chaper%20Bone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/07.%20Ke%20Bidesini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/06.%20Zau%20Megh%20Duth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/13.%20Janam%20Janam%20Tobo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/11.%20Ramjaner%20Oi%20Rojer%20Sase%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/05.%20Ghovir%20Nisite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/10.%20Vul%20Kore%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/16.%20Amer%20Jaber%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/15.%20Ghumiye%20Gache%20Santo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/08.%20Amai%20Nohe%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/04.%20Bosiya%20Bijone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/02.%20Sawono%20Rate%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/01.%20Tumi%20Sundor%20Tai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/09.%20Kau%20Vulona%20Kau%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/S/Sathinath/14.%20Ase%20Basanto%20Ful%20Bone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/03.%20RumJhum%20Rumjhum%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/12.%20Bokul%20Chaper%20Bone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/07.%20Ke%20Bidesini%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/06.%20Zau%20Megh%20Duth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/13.%20Janam%20Janam%20Tobo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/11.%20Ramjaner%20Oi%20Rojer%20Sase%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/05.%20Ghovir%20Nisite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/10.%20Vul%20Kore%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/16.%20Amer%20Jaber%20Somoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/15.%20Ghumiye%20Gache%20Santo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/08.%20Amai%20Nohe%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/04.%20Bosiya%20Bijone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/02.%20Sawono%20Rate%20Jodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/01.%20Tumi%20Sundor%20Tai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sathinath/09.%20Kau%20Vulona%20Kau%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Tomar Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bondhu%20Tor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Nokshi Katha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bondhu%20Tor%20(Remake)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Bishshash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Orchona%20Ray%20(Remake)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Tumi Pagor Hoye Gecho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Shukh%20O%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Shukh O Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Shukh%20Ene%20De%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Bondhu Tor (Remake) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Tumi%20Pagor%20Hoye%20Gecho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Shukh Ene De (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Nokshi%20Katha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Phire Ja Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Phire%20Ja%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Orchona Ray (Remake) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Mon%20Ke%20Kori%20Mana%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Mon Ke Kori Mana (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Tomar%20Chokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/Trikal/Vinno Char/Trikal - Bondhu Tor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bishshash%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bondhu%20Tor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bondhu%20Tor%20(Remake)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Orchona%20Ray%20(Remake)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Shukh%20O%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Shukh%20Ene%20De%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Tumi%20Pagor%20Hoye%20Gecho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Nokshi%20Katha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Phire%20Ja%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Mon%20Ke%20Kori%20Mana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Tomar%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bishshash%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bondhu%20Tor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bondhu%20Tor%20(Remake)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Orchona%20Ray%20(Remake)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Shukh%20O%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Shukh%20Ene%20De%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Tumi%20Pagor%20Hoye%20Gecho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Nokshi%20Katha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Phire%20Ja%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Mon%20Ke%20Kori%20Mana%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Tomar%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/Trikal/Vinno%20Char/Trikal%20-%20Bishshash%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

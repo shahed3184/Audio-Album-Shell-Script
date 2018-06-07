@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/08 Kobitayeh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/06%20Esho%20Brishti%20Namai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/01 Moina go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/08%20Kobitayeh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/09 Moina Go- ext mix (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/04%20Din%20Gelo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/04 Din Gelo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/05%20Taarey%20Bhabley%20ki%20ar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/06 Esho Brishti Namai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/01%20Moina%20go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/05 Taarey Bhabley ki ar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/03%20Deshlai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/07 Jaa rey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/02%20Ami%20ek%20paharadar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/02 Ami ek paharadar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/07%20Jaa%20rey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Habib/Moina Go/03 Deshlai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/09%20Moina%20Go-%20ext%20mix%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/06%20Esho%20Brishti%20Namai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/08%20Kobitayeh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/04%20Din%20Gelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/05%20Taarey%20Bhabley%20ki%20ar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/01%20Moina%20go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/03%20Deshlai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/02%20Ami%20ek%20paharadar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/07%20Jaa%20rey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/09%20Moina%20Go-%20ext%20mix%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/06%20Esho%20Brishti%20Namai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/08%20Kobitayeh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/04%20Din%20Gelo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/05%20Taarey%20Bhabley%20ki%20ar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/01%20Moina%20go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/03%20Deshlai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/02%20Ami%20ek%20paharadar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/07%20Jaa%20rey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Habib/Moina%20Go/09%20Moina%20Go-%20ext%20mix%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

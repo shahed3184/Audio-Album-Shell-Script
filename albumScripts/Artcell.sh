@@ -20,13 +20,37 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Artcell/Artcell - Bangladesh...Smrity Ebong Amra (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell_-_Dhushor_Shomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Artcell_-_Dhushor_Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Bangladesh...Smrity%20Ebong%20Amra%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Artcell - Dukhya Bilas (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Dukhya%20Bilas%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/03 - Chera Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/03%20-%20Chera%20Akash%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell_-_Dhushor_Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Bangladesh...Smrity%20Ebong%20Amra%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Dukhya%20Bilas%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/03%20-%20Chera%20Akash%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell_-_Dhushor_Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Bangladesh...Smrity%20Ebong%20Amra%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Dukhya%20Bilas%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/03%20-%20Chera%20Akash%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

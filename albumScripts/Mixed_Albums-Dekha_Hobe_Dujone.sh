@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Agun - Kobor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Sumon - Moner Ghore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Azam%20Khan%20-%20Nil%20Akashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Sunbeam - Chole Gecho Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Rocket - Mon Tui (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Polash%20-%20Jokhoni%20Lokaloy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Mizan - Onno Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Sumon%20-%20Moner%20Ghore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Ponchom - Jeona Oshomoye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Atahar%20-%20Tscir%20Adday%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Shamim - Ai Nodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Shamim%20-%20Ai%20Nodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Bappa - Ek Akashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Bappa%20-%20Ek%20Akashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Atahar - Tscir Adday (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Agun%20-%20Kobor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Hasan - Dekha Hobe Dujone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Sunbeam%20-%20Chole%20Gecho%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Polash - Jokhoni Lokaloy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Rocket%20-%20Mon%20Tui%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Dekha Hobe Dujone/Azam Khan - Nil Akashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Mizan%20-%20Onno%20Shomoy%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Azam%20Khan%20-%20Nil%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Polash%20-%20Jokhoni%20Lokaloy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Sumon%20-%20Moner%20Ghore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Atahar%20-%20Tscir%20Adday%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Shamim%20-%20Ai%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Bappa%20-%20Ek%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Agun%20-%20Kobor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Sunbeam%20-%20Chole%20Gecho%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Rocket%20-%20Mon%20Tui%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Mizan%20-%20Onno%20Shomoy%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Azam%20Khan%20-%20Nil%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Polash%20-%20Jokhoni%20Lokaloy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Sumon%20-%20Moner%20Ghore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Atahar%20-%20Tscir%20Adday%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Shamim%20-%20Ai%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Bappa%20-%20Ek%20Akashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Agun%20-%20Kobor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Sunbeam%20-%20Chole%20Gecho%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Rocket%20-%20Mon%20Tui%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Mizan%20-%20Onno%20Shomoy%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

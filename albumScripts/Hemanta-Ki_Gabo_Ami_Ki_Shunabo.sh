@@ -20,37 +20,109 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/08 - Hemanta - Amar Khela Jakhan Chhilo Tomar Sane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/03%20-%20Hemanta%20-%20Ami%20Jwalbo%20Na%20Mor%20Batayane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/06 - Hemanta - Tui Phele Esechhish Kaare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/06%20-%20Hemanta%20-%20Tui%20Phele%20Esechhish%20Kaare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/09 - Hemanta - Ami Kaan Pete Roi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/15%20-%20Hemanta%20-%20Hey%20Madhabi%20%20Dwidha%20Keno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/07 - Hemanta - Aji Saratatapane Prabhat Swpane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/04%20-%20Hemanta%20-%20Mone%20Ki%20Dwidha%20Rekhe%20Gele%20Chole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/03 - Hemanta - Ami Jwalbo Na Mor Batayane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/10%20-%20Hemanta%20-%20Jadi%20Tare%20Nai%20Chini%20Go%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/01 - Hemanta - Keno Chokher Jale Bhijiye Dilem Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/07%20-%20Hemanta%20-%20Aji%20Saratatapane%20Prabhat%20Swpane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/11 - Hemanta - Mor Bhabanare Ki Haoay Matalo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/05%20-%20Hemanta%20-%20Amar%20Hiriday%20Tomar%20Apan%20Hater%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/02 - Hemanta - Mon Mor Megher Sangi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/08%20-%20Hemanta%20-%20Amar%20Khela%20Jakhan%20Chhilo%20Tomar%20Sane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/10 - Hemanta - Jadi Tare Nai Chini Go (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/14%20-%20Hemanta%20-%20Sangsar%20Jabe%20Mon%20Kere%20Loy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/13 - Hemanta - Asunadir Sudur Pare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/16%20-%20Hemanta%20-%20Saghana%20Gahana%20Ratri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/12 - Hemanta - Ei Monihaar Amay Nahi Saje (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/02%20-%20Hemanta%20-%20Mon%20Mor%20Megher%20Sangi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/04 - Hemanta - Mone Ki Dwidha Rekhe Gele Chole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/13%20-%20Hemanta%20-%20Asunadir%20Sudur%20Pare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/14 - Hemanta - Sangsar Jabe Mon Kere Loy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/12%20-%20Hemanta%20-%20Ei%20Monihaar%20Amay%20Nahi%20Saje%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/15 - Hemanta - Hey Madhabi  Dwidha Keno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/11%20-%20Hemanta%20-%20Mor%20Bhabanare%20Ki%20Haoay%20Matalo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/05 - Hemanta - Amar Hiriday Tomar Apan Hater (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/01%20-%20Hemanta%20-%20Keno%20Chokher%20Jale%20Bhijiye%20Dilem%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hemanta/Ki Gabo Ami Ki Shunabo/16 - Hemanta - Saghana Gahana Ratri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/09%20-%20Hemanta%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/03%20-%20Hemanta%20-%20Ami%20Jwalbo%20Na%20Mor%20Batayane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/06%20-%20Hemanta%20-%20Tui%20Phele%20Esechhish%20Kaare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/15%20-%20Hemanta%20-%20Hey%20Madhabi%20%20Dwidha%20Keno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/04%20-%20Hemanta%20-%20Mone%20Ki%20Dwidha%20Rekhe%20Gele%20Chole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/10%20-%20Hemanta%20-%20Jadi%20Tare%20Nai%20Chini%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/07%20-%20Hemanta%20-%20Aji%20Saratatapane%20Prabhat%20Swpane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/05%20-%20Hemanta%20-%20Amar%20Hiriday%20Tomar%20Apan%20Hater%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/08%20-%20Hemanta%20-%20Amar%20Khela%20Jakhan%20Chhilo%20Tomar%20Sane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/14%20-%20Hemanta%20-%20Sangsar%20Jabe%20Mon%20Kere%20Loy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/16%20-%20Hemanta%20-%20Saghana%20Gahana%20Ratri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/02%20-%20Hemanta%20-%20Mon%20Mor%20Megher%20Sangi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/13%20-%20Hemanta%20-%20Asunadir%20Sudur%20Pare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/12%20-%20Hemanta%20-%20Ei%20Monihaar%20Amay%20Nahi%20Saje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/11%20-%20Hemanta%20-%20Mor%20Bhabanare%20Ki%20Haoay%20Matalo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/01%20-%20Hemanta%20-%20Keno%20Chokher%20Jale%20Bhijiye%20Dilem%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/09%20-%20Hemanta%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/03%20-%20Hemanta%20-%20Ami%20Jwalbo%20Na%20Mor%20Batayane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/06%20-%20Hemanta%20-%20Tui%20Phele%20Esechhish%20Kaare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/15%20-%20Hemanta%20-%20Hey%20Madhabi%20%20Dwidha%20Keno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/04%20-%20Hemanta%20-%20Mone%20Ki%20Dwidha%20Rekhe%20Gele%20Chole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/10%20-%20Hemanta%20-%20Jadi%20Tare%20Nai%20Chini%20Go%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/07%20-%20Hemanta%20-%20Aji%20Saratatapane%20Prabhat%20Swpane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/05%20-%20Hemanta%20-%20Amar%20Hiriday%20Tomar%20Apan%20Hater%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/08%20-%20Hemanta%20-%20Amar%20Khela%20Jakhan%20Chhilo%20Tomar%20Sane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/14%20-%20Hemanta%20-%20Sangsar%20Jabe%20Mon%20Kere%20Loy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/16%20-%20Hemanta%20-%20Saghana%20Gahana%20Ratri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/02%20-%20Hemanta%20-%20Mon%20Mor%20Megher%20Sangi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/13%20-%20Hemanta%20-%20Asunadir%20Sudur%20Pare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/12%20-%20Hemanta%20-%20Ei%20Monihaar%20Amay%20Nahi%20Saje%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/11%20-%20Hemanta%20-%20Mor%20Bhabanare%20Ki%20Haoay%20Matalo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/01%20-%20Hemanta%20-%20Keno%20Chokher%20Jale%20Bhijiye%20Dilem%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/09%20-%20Hemanta%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

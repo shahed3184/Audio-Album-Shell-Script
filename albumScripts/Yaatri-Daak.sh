@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/01 - Yaatri - Ke Dake (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/09%20-%20Yaatri%20-%20Pari%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/04 - Yaatri - Miththey Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/10%20-%20Yaatri%20-%20Jitso%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/03 - Yaatri - Jatri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/05%20-%20Yaatri%20-%20Amra%20Shopne%20Bachi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/05 - Yaatri - Amra Shopne Bachi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/01%20-%20Yaatri%20-%20Ke%20Dake%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/09 - Yaatri - Pari Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/08%20-%20Yaatri%20-%20Ektu%20Pore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/10 - Yaatri - Jitso (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/04%20-%20Yaatri%20-%20Miththey%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/08 - Yaatri - Ektu Pore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/03%20-%20Yaatri%20-%20Jatri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/07 - Yaatri - Ojana Mone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/07%20-%20Yaatri%20-%20Ojana%20Mone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/06 - Yaatri - Bhalobasha Shunechi Ja (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/06%20-%20Yaatri%20-%20Bhalobasha%20Shunechi%20Ja%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/02 - Yaatri - Ei Ki Beshi Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/02%20-%20Yaatri%20-%20Ei%20Ki%20Beshi%20Na%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/09%20-%20Yaatri%20-%20Pari%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/10%20-%20Yaatri%20-%20Jitso%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/05%20-%20Yaatri%20-%20Amra%20Shopne%20Bachi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/01%20-%20Yaatri%20-%20Ke%20Dake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/08%20-%20Yaatri%20-%20Ektu%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/04%20-%20Yaatri%20-%20Miththey%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/03%20-%20Yaatri%20-%20Jatri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/07%20-%20Yaatri%20-%20Ojana%20Mone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/06%20-%20Yaatri%20-%20Bhalobasha%20Shunechi%20Ja%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/02%20-%20Yaatri%20-%20Ei%20Ki%20Beshi%20Na%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/09%20-%20Yaatri%20-%20Pari%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/10%20-%20Yaatri%20-%20Jitso%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/05%20-%20Yaatri%20-%20Amra%20Shopne%20Bachi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/01%20-%20Yaatri%20-%20Ke%20Dake%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/08%20-%20Yaatri%20-%20Ektu%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/04%20-%20Yaatri%20-%20Miththey%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/03%20-%20Yaatri%20-%20Jatri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/07%20-%20Yaatri%20-%20Ojana%20Mone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/06%20-%20Yaatri%20-%20Bhalobasha%20Shunechi%20Ja%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/Y/Yaatri/Daak/02%20-%20Yaatri%20-%20Ei%20Ki%20Beshi%20Na%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Telephone (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Ononna%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Ononna (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Ferari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Palatok (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Tumi%20Chao%20Amar%20Jaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Ferari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Raater%20Train%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Rikshawala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Palatok%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Hridoyer Dabite (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Oi%20Dur%20Pahare%20Duronto%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Raater Train (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Hridoyer%20Dabite%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Oi Dur Pahare Duronto Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rongbaz%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Rongbaz (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rikshawala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Rajniti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Telephone%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ononna/James - Tumi Chao Amar Jaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rajniti%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Ononna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Ferari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Tumi%20Chao%20Amar%20Jaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Raater%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Palatok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Oi%20Dur%20Pahare%20Duronto%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Hridoyer%20Dabite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rongbaz%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rikshawala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Telephone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rajniti%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Ononna%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Ferari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Tumi%20Chao%20Amar%20Jaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Raater%20Train%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Palatok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Oi%20Dur%20Pahare%20Duronto%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Hridoyer%20Dabite%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rongbaz%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rikshawala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Telephone%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ononna/James%20-%20Rajniti%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

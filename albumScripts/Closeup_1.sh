@@ -20,59 +20,175 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Tumi Ki Aaj (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Tumi%20Ki%20Aaj%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Nolok - Shorbonasha Padma Nodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Sonia%20-%20Oki%20Garial%20Bhai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Razib - Ami Kemon Kore Potro Likhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Chokher%20Bhitor%20Swapno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Ei Swapno Aamar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Maa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Dheuye Dheuye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Rashed%20-%20Amary%20Eto%20Raate%20Keno%20Daak%20Dili%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Chokher Pani Dekhe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Razib%20-%20Ami%20Kemon%20Kore%20Potro%20Likhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Vadh Bedi Path (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ami%20Jantam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Jodi Lokkho Thake Otut (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Aynate%20Oi%20Mukh%20Dekhbe%20Zokhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Ey Srabone Noy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Rinku%20-%20Shoar%20Moyna%20Paakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Rashed - Amary Eto Raate Keno Daak Dili (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Vadh%20Bedi%20Path%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Bhalobashi Bole Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Tumito%20Kadoni%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Rongdhanur Shaat Rong (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Sonia - Oki Garial Bhai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ey%20Srabone%20Noy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Shadhur Charan Dhuli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Miche%20Mayar%20Ey%20Badhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Beauty - Holudia Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Megh%20Bhanga%20Rod%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Tumito Kadoni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Pagla%20Hawar%20Badol%20Dine%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Aynate Oi Mukh Dekhbe Zokhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Nolok%20-%20Shorbonasha%20Padma%20Nodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Miche Mayar Ey Badhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Neela%20Tumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Chokher Bhitor Swapno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Jodi%20Lokkho%20Thake%20Otut%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Ami Jantam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Bhalobashi%20Bole%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Neela Tumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Aj%20Sharata%20Din%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Megh Bhanga Rod (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Dheuye%20Dheuye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Aj Sharata Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Chokher%20Pani%20Dekhe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Pagla Hawar Badol Dine (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Mahrab%20-%20Aar%20Kotokal%20Bhashbo%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Mahrab - Aar Kotokal Bhashbo Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Rinku - Shoar Moyna Paakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Rongdhanur%20Shaat%20Rong%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/C/Closeup 1/Closeup 1 - Maa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ei%20Swapno%20Aamar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Tumi%20Ki%20Aaj%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Sonia%20-%20Oki%20Garial%20Bhai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Chokher%20Bhitor%20Swapno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Rashed%20-%20Amary%20Eto%20Raate%20Keno%20Daak%20Dili%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Razib%20-%20Ami%20Kemon%20Kore%20Potro%20Likhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ami%20Jantam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Aynate%20Oi%20Mukh%20Dekhbe%20Zokhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Rinku%20-%20Shoar%20Moyna%20Paakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Vadh%20Bedi%20Path%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Tumito%20Kadoni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ey%20Srabone%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Miche%20Mayar%20Ey%20Badhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Megh%20Bhanga%20Rod%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Pagla%20Hawar%20Badol%20Dine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Nolok%20-%20Shorbonasha%20Padma%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Neela%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Jodi%20Lokkho%20Thake%20Otut%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Bhalobashi%20Bole%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Aj%20Sharata%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Dheuye%20Dheuye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Chokher%20Pani%20Dekhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Mahrab%20-%20Aar%20Kotokal%20Bhashbo%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Rongdhanur%20Shaat%20Rong%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ei%20Swapno%20Aamar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Tumi%20Ki%20Aaj%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Sonia%20-%20Oki%20Garial%20Bhai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Chokher%20Bhitor%20Swapno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Rashed%20-%20Amary%20Eto%20Raate%20Keno%20Daak%20Dili%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Razib%20-%20Ami%20Kemon%20Kore%20Potro%20Likhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ami%20Jantam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Aynate%20Oi%20Mukh%20Dekhbe%20Zokhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Rinku%20-%20Shoar%20Moyna%20Paakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Vadh%20Bedi%20Path%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Tumito%20Kadoni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ey%20Srabone%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Miche%20Mayar%20Ey%20Badhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Megh%20Bhanga%20Rod%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Pagla%20Hawar%20Badol%20Dine%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Nolok%20-%20Shorbonasha%20Padma%20Nodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Neela%20Tumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Jodi%20Lokkho%20Thake%20Otut%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Bhalobashi%20Bole%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Aj%20Sharata%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Dheuye%20Dheuye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Chokher%20Pani%20Dekhe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Mahrab%20-%20Aar%20Kotokal%20Bhashbo%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Rongdhanur%20Shaat%20Rong%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/C/Closeup%201/Closeup%201%20-%20Ei%20Swapno%20Aamar%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/Ayub Bachu - Potra Mita (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Meye%20O%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/Ayub Bachu - Meye O Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Eka%20Eka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/James - Biday Bandhobi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Rong%20Kora%20Putul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/Ayub Bachu - Chole Jete Jete (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Deshe%20Bhalobasha%20Nain%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/Ayub Bachu - Bhule Jao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Potra%20Mita%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/Ayub Bachu - Eka Eka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Biday%20Bandhobi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/James - Deshe Bhalobasha Nain (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Chole%20Jete%20Jete%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/James - Bondhuto Keo Noy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Bondhuto%20Keo%20Noy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/James - Jibontai Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Jibontai%20Chai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Deshey Bhalobasha Nai/James - Rong Kora Putul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Bhule%20Jao%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Meye%20O%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Eka%20Eka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Rong%20Kora%20Putul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Deshe%20Bhalobasha%20Nain%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Potra%20Mita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Biday%20Bandhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Chole%20Jete%20Jete%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Bondhuto%20Keo%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Jibontai%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Bhule%20Jao%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Meye%20O%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Eka%20Eka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Rong%20Kora%20Putul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Deshe%20Bhalobasha%20Nain%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Potra%20Mita%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Biday%20Bandhobi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Chole%20Jete%20Jete%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Bondhuto%20Keo%20Noy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/James%20-%20Jibontai%20Chai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Deshey%20Bhalobasha%20Nai/Ayub%20Bachu%20-%20Bhule%20Jao%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

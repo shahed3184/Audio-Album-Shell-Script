@@ -20,9 +20,25 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Aashor/Aashor - Mohasrishtyr Gan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aashor/Aashor%20-%20Mohasrishtyr%20Gan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Aashor/07 - Aashor -  Maya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Aashor/07%20-%20Aashor%20-%20%20Maya%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aashor/Aashor%20-%20Mohasrishtyr%20Gan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aashor/07%20-%20Aashor%20-%20%20Maya%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Aashor/Aashor%20-%20Mohasrishtyr%20Gan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Aashor/07%20-%20Aashor%20-%20%20Maya%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

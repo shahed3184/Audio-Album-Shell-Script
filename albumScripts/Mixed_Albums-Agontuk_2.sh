@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Kral - Shesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Nemesis%20-%20Obochetona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Crypticfate - Prem (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Reborn%20-%20Kritodash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Aurthohin - Judho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Black%20-%20Shokerhto%20Upokol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Breach - Shada (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/DNA%20-%20Shopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Arbovirus - Artonaad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Dethrow%20-%20Nishbash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Black - Shokerhto Upokol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Kral%20-%20Shesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Nemesis - Obochetona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Breach%20-%20Shada%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Reborn - Kritodash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Crypticfate%20-%20Prem%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Dethrow - Nishbash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Stentorian%20-%20Oddrissho%20Juddho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Stentorian - Oddrissho Juddho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Aurthohin%20-%20Judho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Wafaze - Arrival (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Arbovirus%20-%20Artonaad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/Artcell - Chile Kothar Shepai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Artcell%20-%20Chile%20Kothar%20Shepai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Agontuk 2/DNA - Shopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Wafaze%20-%20Arrival%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Nemesis%20-%20Obochetona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Reborn%20-%20Kritodash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Black%20-%20Shokerhto%20Upokol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/DNA%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Dethrow%20-%20Nishbash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Kral%20-%20Shesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Breach%20-%20Shada%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Crypticfate%20-%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Stentorian%20-%20Oddrissho%20Juddho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Aurthohin%20-%20Judho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Arbovirus%20-%20Artonaad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Artcell%20-%20Chile%20Kothar%20Shepai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Wafaze%20-%20Arrival%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Nemesis%20-%20Obochetona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Reborn%20-%20Kritodash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Black%20-%20Shokerhto%20Upokol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/DNA%20-%20Shopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Dethrow%20-%20Nishbash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Kral%20-%20Shesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Breach%20-%20Shada%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Crypticfate%20-%20Prem%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Stentorian%20-%20Oddrissho%20Juddho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Aurthohin%20-%20Judho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Arbovirus%20-%20Artonaad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Artcell%20-%20Chile%20Kothar%20Shepai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Wafaze%20-%20Arrival%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

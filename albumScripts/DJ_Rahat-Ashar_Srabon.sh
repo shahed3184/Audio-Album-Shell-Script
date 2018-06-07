@@ -20,33 +20,97 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/12 - Dj Rahat - Instrumental - Rain Mix (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/07%20-%20Dj%20Rahat%20-%20Dil%20Ki%20Doya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/02 - Dj Rahat - Ashar Srabon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/08%20-%20Dj%20Rahat%20-%20Nirjon%20Jomunar%20Kule%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/05 - Dj Rahat - Akash Meghe Dhaka (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/04%20-%20Dj%20Rahat%20-%20Bhengeche%20Pinjor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/14 - Dj Rahat - Kaka (Lamp Er Alo) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/02%20-%20Dj%20Rahat%20-%20Ashar%20Srabon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/10 - Dj Rahat - Kopa Shamsu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/06%20-%20Dj%20Rahat%20-%20Dakatia%20Bashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/04 - Dj Rahat - Bhengeche Pinjor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/14%20-%20Dj%20Rahat%20-%20Kaka%20(Lamp%20Er%20Alo)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/01 - Dj Rahat - Intro (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/10%20-%20Dj%20Rahat%20-%20Kopa%20Shamsu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/09 - Dj Rahat - Aj Tumi Nei (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/13%20-%20Dj%20Rahat%20-%20O%20Polash,%20O%20Shimul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/13 - Dj Rahat - O Polash, O Shimul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/03%20-%20Dj%20Rahat%20-%20Bhalobashar%20Nil%20Mohol%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/06 - Dj Rahat - Dakatia Bashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/12%20-%20Dj%20Rahat%20-%20Instrumental%20-%20Rain%20Mix%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/07 - Dj Rahat - Dil Ki Doya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/11%20-%20Dj%20Rahat%20-%20Iti-Uti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/03 - Dj Rahat - Bhalobashar Nil Mohol (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/01%20-%20Dj%20Rahat%20-%20Intro%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/11 - Dj Rahat - Iti-Uti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/05%20-%20Dj%20Rahat%20-%20Akash%20Meghe%20Dhaka%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rahat/Ashar Srabon/08 - Dj Rahat - Nirjon Jomunar Kule (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/09%20-%20Dj%20Rahat%20-%20Aj%20Tumi%20Nei%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/07%20-%20Dj%20Rahat%20-%20Dil%20Ki%20Doya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/08%20-%20Dj%20Rahat%20-%20Nirjon%20Jomunar%20Kule%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/04%20-%20Dj%20Rahat%20-%20Bhengeche%20Pinjor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/02%20-%20Dj%20Rahat%20-%20Ashar%20Srabon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/06%20-%20Dj%20Rahat%20-%20Dakatia%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/14%20-%20Dj%20Rahat%20-%20Kaka%20(Lamp%20Er%20Alo)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/10%20-%20Dj%20Rahat%20-%20Kopa%20Shamsu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/13%20-%20Dj%20Rahat%20-%20O%20Polash,%20O%20Shimul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/03%20-%20Dj%20Rahat%20-%20Bhalobashar%20Nil%20Mohol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/12%20-%20Dj%20Rahat%20-%20Instrumental%20-%20Rain%20Mix%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/11%20-%20Dj%20Rahat%20-%20Iti-Uti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/01%20-%20Dj%20Rahat%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/05%20-%20Dj%20Rahat%20-%20Akash%20Meghe%20Dhaka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/09%20-%20Dj%20Rahat%20-%20Aj%20Tumi%20Nei%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/07%20-%20Dj%20Rahat%20-%20Dil%20Ki%20Doya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/08%20-%20Dj%20Rahat%20-%20Nirjon%20Jomunar%20Kule%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/04%20-%20Dj%20Rahat%20-%20Bhengeche%20Pinjor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/02%20-%20Dj%20Rahat%20-%20Ashar%20Srabon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/06%20-%20Dj%20Rahat%20-%20Dakatia%20Bashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/14%20-%20Dj%20Rahat%20-%20Kaka%20(Lamp%20Er%20Alo)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/10%20-%20Dj%20Rahat%20-%20Kopa%20Shamsu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/13%20-%20Dj%20Rahat%20-%20O%20Polash,%20O%20Shimul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/03%20-%20Dj%20Rahat%20-%20Bhalobashar%20Nil%20Mohol%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/12%20-%20Dj%20Rahat%20-%20Instrumental%20-%20Rain%20Mix%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/11%20-%20Dj%20Rahat%20-%20Iti-Uti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/01%20-%20Dj%20Rahat%20-%20Intro%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/05%20-%20Dj%20Rahat%20-%20Akash%20Meghe%20Dhaka%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rahat/Ashar%20Srabon/09%20-%20Dj%20Rahat%20-%20Aj%20Tumi%20Nei%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

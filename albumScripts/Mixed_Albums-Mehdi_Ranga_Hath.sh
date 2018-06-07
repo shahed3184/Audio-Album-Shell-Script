@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Azom Khan - Dukho Nai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Maqsud%20-%20Mehedi%20Ranga%20Haat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/James - Ami Gan Gaile (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Khalid%20-%20Kichu%20Na%20Nia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Partho - Shuvo Khon Shuvo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Safin%20Ahmed%20-%20Doshi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Maqsud - Bhalobashar Jontrona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Azom%20Khan%20-%20Dukho%20Nai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Khalid - Kichu Na Nia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Hasan%20-%20Eklan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Safin Ahmed - Doshi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Safin%20Ahmed%20-%20Upoma%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Azom Khan - Ashmani (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Azom%20Khan%20-%20Ashmani%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Safin Ahmed - Upoma (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Partho%20-%20Khelar%20Putul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Partho - Khelar Putul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Partho%20-%20Shuvo%20Khon%20Shuvo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Ayub Bachchu - Chokher Joler Kono (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Maqsud%20-%20Bhalobashar%20Jontrona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Hasan - Eklan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Ayub%20Bachchu%20-%20Chokher%20Joler%20Kono%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Mehdi Ranga Hath/Maqsud - Mehedi Ranga Haat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/James%20-%20Ami%20Gan%20Gaile%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Maqsud%20-%20Mehedi%20Ranga%20Haat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Khalid%20-%20Kichu%20Na%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Safin%20Ahmed%20-%20Doshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Azom%20Khan%20-%20Dukho%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Hasan%20-%20Eklan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Safin%20Ahmed%20-%20Upoma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Azom%20Khan%20-%20Ashmani%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Partho%20-%20Khelar%20Putul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Partho%20-%20Shuvo%20Khon%20Shuvo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Maqsud%20-%20Bhalobashar%20Jontrona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Ayub%20Bachchu%20-%20Chokher%20Joler%20Kono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/James%20-%20Ami%20Gan%20Gaile%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Maqsud%20-%20Mehedi%20Ranga%20Haat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Khalid%20-%20Kichu%20Na%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Safin%20Ahmed%20-%20Doshi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Azom%20Khan%20-%20Dukho%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Hasan%20-%20Eklan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Safin%20Ahmed%20-%20Upoma%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Azom%20Khan%20-%20Ashmani%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Partho%20-%20Khelar%20Putul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Partho%20-%20Shuvo%20Khon%20Shuvo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Maqsud%20-%20Bhalobashar%20Jontrona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/Ayub%20Bachchu%20-%20Chokher%20Joler%20Kono%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Mehdi%20Ranga%20Hath/James%20-%20Ami%20Gan%20Gaile%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

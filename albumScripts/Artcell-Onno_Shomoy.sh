@@ -20,23 +20,67 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/09 - Obosh Onuvutir Deyal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/01%20-%20Onnoshomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/07 - Itihash (Shomoy-Odrishto) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/05%20-%20Mukhosh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/08 - Kritrim Manush (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/08%20-%20Kritrim%20Manush%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/05 - Mukhosh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/10%20-%20Olosh%20Shomoyer%20Pare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/03 - Poth Chola (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/07%20-%20Itihash%20(Shomoy-Odrishto)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/10 - Olosh Shomoyer Pare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/02%20-%20Bhul%20Jonmo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/06 - Rahur Grash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/03%20-%20Poth%20Chola%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/01 - Onnoshomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/06%20-%20Rahur%20Grash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Artcell/Onno Shomoy/02 - Bhul Jonmo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/09%20-%20Obosh%20Onuvutir%20Deyal%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/01%20-%20Onnoshomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/05%20-%20Mukhosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/08%20-%20Kritrim%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/10%20-%20Olosh%20Shomoyer%20Pare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/07%20-%20Itihash%20(Shomoy-Odrishto)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/02%20-%20Bhul%20Jonmo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/03%20-%20Poth%20Chola%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/06%20-%20Rahur%20Grash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/09%20-%20Obosh%20Onuvutir%20Deyal%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/01%20-%20Onnoshomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/05%20-%20Mukhosh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/08%20-%20Kritrim%20Manush%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/10%20-%20Olosh%20Shomoyer%20Pare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/07%20-%20Itihash%20(Shomoy-Odrishto)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/02%20-%20Bhul%20Jonmo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/03%20-%20Poth%20Chola%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/06%20-%20Rahur%20Grash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Artcell/Onno%20Shomoy/09%20-%20Obosh%20Onuvutir%20Deyal%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

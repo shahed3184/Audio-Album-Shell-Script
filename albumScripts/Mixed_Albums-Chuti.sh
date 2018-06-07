@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Hasan - Ek Golpo Boli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Sesh%20Dekha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Ayub Bachchu - Ei Rupali Chad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Chole%20Jao%20Bondhu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Hasan - Chole Jao Bondhu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Eto%20Koshto%20Keno%20Bhalobashay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Hasan - Cholona Ghure Ashi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Baba%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Ayub Bachchu - Chokher Joler (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Ek%20Golpo%20Boli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/James - Maa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Chokher%20Joler%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Ayub Bachchu - Oviman Nia (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Maa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/James - Baba (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Cholona%20Ghure%20Ashi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/James - Sesh Dekha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Oviman%20Nia%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Chuti/Hasan - Eto Koshto Keno Bhalobashay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Sesh%20Dekha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Chole%20Jao%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Eto%20Koshto%20Keno%20Bhalobashay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Baba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Ek%20Golpo%20Boli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Chokher%20Joler%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Cholona%20Ghure%20Ashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Oviman%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Sesh%20Dekha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Chole%20Jao%20Bondhu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Eto%20Koshto%20Keno%20Bhalobashay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Baba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Ek%20Golpo%20Boli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Chokher%20Joler%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/James%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Hasan%20-%20Cholona%20Ghure%20Ashi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Oviman%20Nia%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Chuti/Ayub%20Bachchu%20-%20Ei%20Rupali%20Chad%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,45 +20,133 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Doyal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Kichu%20To%20Bhalo%20Lage%20Na%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Shob Kichu Tomar Jonno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Instrumantal%201%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Hai O Rabba (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Pirit%20Namer%20Gachay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Introduction 1 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20O%20Amar%20Dorodi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Tomar Jonno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Sadher%20Lao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Kichu To Bhalo Lage Na (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Shob%20Kichu%20Tomar%20Jonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Instrumantal 1 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Ghor%20Korlam%20Nare%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Ghor Korlam Nare Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Aaj Tomar Chithi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Introduction%201%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Sadher Lao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Time%20Hoile%20Jaite%20Hoibay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Roop Sagore Jholok Lagaiya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20O%20Nodir%20Pani%20Re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Pirit Namer Gachay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Hai%20O%20Rabba%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Melay%20Jai%20Re%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Melay Jai Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Aaj%20Tomar%20Chithi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Time Hoile Jaite Hoibay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Tomar%20Jonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - O Amar Dorodi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Roop%20Sagore%20Jholok%20Lagaiya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - O Nodir Pani Re (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Instrumantal%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Instrumantal 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Doyal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Jare Monay Monay Atodin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Jare%20Monay%20Monay%20Atodin%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/DJ Rees/World of Sound/DJ Rees - Ki Jadu Korila (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Ki%20Jadu%20Korila%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Kichu%20To%20Bhalo%20Lage%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Instrumantal%201%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Pirit%20Namer%20Gachay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20O%20Amar%20Dorodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Sadher%20Lao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Shob%20Kichu%20Tomar%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Ghor%20Korlam%20Nare%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Introduction%201%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Time%20Hoile%20Jaite%20Hoibay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20O%20Nodir%20Pani%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Hai%20O%20Rabba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Melay%20Jai%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Aaj%20Tomar%20Chithi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Tomar%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Roop%20Sagore%20Jholok%20Lagaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Instrumantal%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Doyal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Jare%20Monay%20Monay%20Atodin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Ki%20Jadu%20Korila%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Kichu%20To%20Bhalo%20Lage%20Na%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Instrumantal%201%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Pirit%20Namer%20Gachay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20O%20Amar%20Dorodi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Sadher%20Lao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Shob%20Kichu%20Tomar%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Ghor%20Korlam%20Nare%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Introduction%201%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Time%20Hoile%20Jaite%20Hoibay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20O%20Nodir%20Pani%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Hai%20O%20Rabba%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Melay%20Jai%20Re%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Aaj%20Tomar%20Chithi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Tomar%20Jonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Roop%20Sagore%20Jholok%20Lagaiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Instrumantal%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Doyal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Jare%20Monay%20Monay%20Atodin%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/DJ%20Rees/World%20of%20Sound/DJ%20Rees%20-%20Ki%20Jadu%20Korila%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/05 - Shumon - Anubhobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/01%20-%20Jon%20(Black)%20-%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/06 - Tahsan - Fire Esho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/07%20-%20Jon%20(Black)%20-%20Ek%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/02 - Jewel - Hridoyer Anchole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/08%20-%20Jewel%20-%20Ishwarer%20Osru%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/04 - Russel - Bhashaiya Geli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/09%20-%20Shumon%20-%20Notun%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/08 - Jewel - Ishwarer Osru (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/02%20-%20Jewel%20-%20Hridoyer%20Anchole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/03 - Tahsan - Onontokaler Potho Jatri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/05%20-%20Shumon%20-%20Anubhobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/09 - Shumon - Notun Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/06%20-%20Tahsan%20-%20Fire%20Esho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/07 - Jon (Black) - Ek (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/04%20-%20Russel%20-%20Bhashaiya%20Geli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/01 - Jon (Black) - Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/10%20-%20Russel%20-%20Ekhon%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Jewel With the Stars/10 - Russel - Ekhon Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/03%20-%20Tahsan%20-%20Onontokaler%20Potho%20Jatri%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/01%20-%20Jon%20(Black)%20-%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/07%20-%20Jon%20(Black)%20-%20Ek%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/08%20-%20Jewel%20-%20Ishwarer%20Osru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/09%20-%20Shumon%20-%20Notun%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/02%20-%20Jewel%20-%20Hridoyer%20Anchole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/05%20-%20Shumon%20-%20Anubhobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/06%20-%20Tahsan%20-%20Fire%20Esho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/04%20-%20Russel%20-%20Bhashaiya%20Geli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/10%20-%20Russel%20-%20Ekhon%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/03%20-%20Tahsan%20-%20Onontokaler%20Potho%20Jatri%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/01%20-%20Jon%20(Black)%20-%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/07%20-%20Jon%20(Black)%20-%20Ek%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/08%20-%20Jewel%20-%20Ishwarer%20Osru%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/09%20-%20Shumon%20-%20Notun%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/02%20-%20Jewel%20-%20Hridoyer%20Anchole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/05%20-%20Shumon%20-%20Anubhobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/06%20-%20Tahsan%20-%20Fire%20Esho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/04%20-%20Russel%20-%20Bhashaiya%20Geli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/10%20-%20Russel%20-%20Ekhon%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Jewel%20With%20the%20Stars/03%20-%20Tahsan%20-%20Onontokaler%20Potho%20Jatri%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

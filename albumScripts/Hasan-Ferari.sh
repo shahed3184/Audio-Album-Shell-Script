@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/06 - Hasan - Ke Tumi Oporichitha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/09%20-%20Hasan%20-%20Neel%20Neel%20Du%20Chokey%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/03 - Hasan - Shumi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/03%20-%20Hasan%20-%20Shumi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/04 - Hasan - Chinlinaare (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/05%20-%20Hasan%20-%20Ami%20Boshe%20Thaki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/02 - Hasan - Bedhonar Aye Pronoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/01%20-%20Hasan%20-%20Pape%20Thape%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/07 - Hasan - Aye Mone Tumi Robe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/04%20-%20Hasan%20-%20Chinlinaare%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/10 - Hasan - Sriti Aaj Shudu (Ferari) (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/02%20-%20Hasan%20-%20Bedhonar%20Aye%20Pronoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/05 - Hasan - Ami Boshe Thaki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/06%20-%20Hasan%20-%20Ke%20Tumi%20Oporichitha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/09 - Hasan - Neel Neel Du Chokey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/08%20-%20Hasan%20-%20Cheye%20Dekhi%20Nilimaie%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/08 - Hasan - Cheye Dekhi Nilimaie (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/10%20-%20Hasan%20-%20Sriti%20Aaj%20Shudu%20(Ferari)%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/H/Hasan/Ferari/01 - Hasan - Pape Thape (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/07%20-%20Hasan%20-%20Aye%20Mone%20Tumi%20Robe%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/09%20-%20Hasan%20-%20Neel%20Neel%20Du%20Chokey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/03%20-%20Hasan%20-%20Shumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/05%20-%20Hasan%20-%20Ami%20Boshe%20Thaki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/01%20-%20Hasan%20-%20Pape%20Thape%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/04%20-%20Hasan%20-%20Chinlinaare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/02%20-%20Hasan%20-%20Bedhonar%20Aye%20Pronoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/06%20-%20Hasan%20-%20Ke%20Tumi%20Oporichitha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/08%20-%20Hasan%20-%20Cheye%20Dekhi%20Nilimaie%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/10%20-%20Hasan%20-%20Sriti%20Aaj%20Shudu%20(Ferari)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/07%20-%20Hasan%20-%20Aye%20Mone%20Tumi%20Robe%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/09%20-%20Hasan%20-%20Neel%20Neel%20Du%20Chokey%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/03%20-%20Hasan%20-%20Shumi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/05%20-%20Hasan%20-%20Ami%20Boshe%20Thaki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/01%20-%20Hasan%20-%20Pape%20Thape%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/04%20-%20Hasan%20-%20Chinlinaare%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/02%20-%20Hasan%20-%20Bedhonar%20Aye%20Pronoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/06%20-%20Hasan%20-%20Ke%20Tumi%20Oporichitha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/08%20-%20Hasan%20-%20Cheye%20Dekhi%20Nilimaie%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/10%20-%20Hasan%20-%20Sriti%20Aaj%20Shudu%20(Ferari)%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/H/Hasan/Ferari/07%20-%20Hasan%20-%20Aye%20Mone%20Tumi%20Robe%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

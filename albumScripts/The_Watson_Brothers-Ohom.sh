@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/07 - The Watson Brothers - Jhor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/09%20-%20The%20Watson%20Brothers%20-%20Shanti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/09 - The Watson Brothers - Shanti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/08%20-%20The%20Watson%20Brothers%20-%20Prachir%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/10 - The Watson Brothers - ...Shore Darey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/06%20-%20The%20Watson%20Brothers%20-%20Songket%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/04 - The Watson Brothers - Amar Notun Ami (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/01%20-%20The%20Watson%20Brothers%20-%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/08 - The Watson Brothers - Prachir (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/05%20-%20The%20Watson%20Brothers%20-%20Ohom%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/06 - The Watson Brothers - Songket (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/04%20-%20The%20Watson%20Brothers%20-%20Amar%20Notun%20Ami%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/02 - The Watson Brothers - Chaya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/07%20-%20The%20Watson%20Brothers%20-%20Jhor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/01 - The Watson Brothers - Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/02%20-%20The%20Watson%20Brothers%20-%20Chaya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/05 - The Watson Brothers - Ohom (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/03%20-%20The%20Watson%20Brothers%20-%20Rong%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/T/The Watson Brothers/Ohom/03 - The Watson Brothers - Rong (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/10%20-%20The%20Watson%20Brothers%20-%20...Shore%20Darey%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/09%20-%20The%20Watson%20Brothers%20-%20Shanti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/08%20-%20The%20Watson%20Brothers%20-%20Prachir%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/06%20-%20The%20Watson%20Brothers%20-%20Songket%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/01%20-%20The%20Watson%20Brothers%20-%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/05%20-%20The%20Watson%20Brothers%20-%20Ohom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/04%20-%20The%20Watson%20Brothers%20-%20Amar%20Notun%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/07%20-%20The%20Watson%20Brothers%20-%20Jhor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/02%20-%20The%20Watson%20Brothers%20-%20Chaya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/03%20-%20The%20Watson%20Brothers%20-%20Rong%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/10%20-%20The%20Watson%20Brothers%20-%20...Shore%20Darey%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/09%20-%20The%20Watson%20Brothers%20-%20Shanti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/08%20-%20The%20Watson%20Brothers%20-%20Prachir%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/06%20-%20The%20Watson%20Brothers%20-%20Songket%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/01%20-%20The%20Watson%20Brothers%20-%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/05%20-%20The%20Watson%20Brothers%20-%20Ohom%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/04%20-%20The%20Watson%20Brothers%20-%20Amar%20Notun%20Ami%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/07%20-%20The%20Watson%20Brothers%20-%20Jhor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/02%20-%20The%20Watson%20Brothers%20-%20Chaya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/03%20-%20The%20Watson%20Brothers%20-%20Rong%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/T/The%20Watson%20Brothers/Ohom/10%20-%20The%20Watson%20Brothers%20-%20...Shore%20Darey%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

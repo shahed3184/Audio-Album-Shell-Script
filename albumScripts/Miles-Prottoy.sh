@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Premer Agun (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Shopney%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Ai To She Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Ei%20Shomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Onabil Bishshashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jholmole%20Bikele%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Frustration (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Frustration%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Tumi Nai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Tumi%20Nai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Jala Jala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jibon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Ei Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jala%20Jala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Shopney (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Ai%20To%20She%20Din%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Jibon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Premer%20Agun%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles - Jholmole Bikele (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Onabil%20Bishshashe%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Shopney%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Ei%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jholmole%20Bikele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Frustration%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Tumi%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jala%20Jala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Ai%20To%20She%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Premer%20Agun%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Onabil%20Bishshashe%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Shopney%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Ei%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jholmole%20Bikele%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Frustration%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Tumi%20Nai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jibon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Jala%20Jala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Ai%20To%20She%20Din%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Premer%20Agun%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Miles/Prottoy/Miles%20-%20Onabil%20Bishshashe%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Moushumi 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Feere%20Esho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Mela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Neel%20Noksha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Chotto Pakhi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Paalki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Jonmechi Ei Jooge (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Godhuli%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Feere Esho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Jibon%20Jaala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Paalki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Mon%20Bujhiya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Neel Noksha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Shodesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Moyuri Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Moyuri%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Godhuli (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Chotto%20Pakhi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Shodesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Moushumi%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Jibon Jaala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Mela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback - Mon Bujhiya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Jonmechi%20Ei%20Jooge%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Feere%20Esho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Neel%20Noksha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Paalki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Godhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Jibon%20Jaala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Mon%20Bujhiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Shodesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Moyuri%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Chotto%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Moushumi%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Mela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Jonmechi%20Ei%20Jooge%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Feere%20Esho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Neel%20Noksha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Paalki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Godhuli%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Jibon%20Jaala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Mon%20Bujhiya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Shodesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Moyuri%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Chotto%20Pakhi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Moushumi%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Mela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Feedback/Mela/Feedback%20-%20Jonmechi%20Ei%20Jooge%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

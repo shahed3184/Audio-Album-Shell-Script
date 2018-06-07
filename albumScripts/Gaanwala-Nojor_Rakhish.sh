@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/08 - Gaanwala - Aktu Adhtu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/05%20-%20Gaanwala%20-%20Bela%20Boye%20Jae%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/07 - Gaanwala - Bhalobashar Gaan (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/09%20-%20Gaanwala%20-%20Chole%20Jete%20Hobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/05 - Gaanwala - Bela Boye Jae (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/01%20-%20Gaanwala%20-%20Ajob%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/10 - Gaanwala - Abar Jombe Mela (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/03%20-%20Gaanwala%20-%20Prithibir%20Konkal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/02 - Gaanwala - Hater Golmaal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/10%20-%20Gaanwala%20-%20Abar%20Jombe%20Mela%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/01 - Gaanwala - Ajob (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/06%20-%20Gaanwala%20-%20Kolponar%20Ghuri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/03 - Gaanwala - Prithibir Konkal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/04%20-%20Gaanwala%20-%20Nojor%20Rakhish%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/04 - Gaanwala - Nojor Rakhish (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/07%20-%20Gaanwala%20-%20Bhalobashar%20Gaan%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/09 - Gaanwala - Chole Jete Hobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/02%20-%20Gaanwala%20-%20Hater%20Golmaal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor Rakhish/06 - Gaanwala - Kolponar Ghuri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/08%20-%20Gaanwala%20-%20Aktu%20Adhtu%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/05%20-%20Gaanwala%20-%20Bela%20Boye%20Jae%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/09%20-%20Gaanwala%20-%20Chole%20Jete%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/01%20-%20Gaanwala%20-%20Ajob%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/03%20-%20Gaanwala%20-%20Prithibir%20Konkal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/10%20-%20Gaanwala%20-%20Abar%20Jombe%20Mela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/06%20-%20Gaanwala%20-%20Kolponar%20Ghuri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/04%20-%20Gaanwala%20-%20Nojor%20Rakhish%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/07%20-%20Gaanwala%20-%20Bhalobashar%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/02%20-%20Gaanwala%20-%20Hater%20Golmaal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/08%20-%20Gaanwala%20-%20Aktu%20Adhtu%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/05%20-%20Gaanwala%20-%20Bela%20Boye%20Jae%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/09%20-%20Gaanwala%20-%20Chole%20Jete%20Hobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/01%20-%20Gaanwala%20-%20Ajob%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/03%20-%20Gaanwala%20-%20Prithibir%20Konkal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/10%20-%20Gaanwala%20-%20Abar%20Jombe%20Mela%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/06%20-%20Gaanwala%20-%20Kolponar%20Ghuri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/04%20-%20Gaanwala%20-%20Nojor%20Rakhish%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/07%20-%20Gaanwala%20-%20Bhalobashar%20Gaan%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/02%20-%20Gaanwala%20-%20Hater%20Golmaal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/G/Gaanwala/Nojor%20Rakhish/08%20-%20Gaanwala%20-%20Aktu%20Adhtu%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

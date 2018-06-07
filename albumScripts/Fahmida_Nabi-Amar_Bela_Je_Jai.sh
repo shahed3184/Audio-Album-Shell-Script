@@ -20,31 +20,91 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/04 - Fahmida Nabi - Amar O Poran O Jaha Chai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/07%20-%20Fahmida%20Nabi%20-%20Promode%20Dhalie%20Dinu%20Mon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/05 - Fahmida Nabi - Ami Keboli Shopno Korechi Bopon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/06%20-%20Fahmida%20Nabi%20-%20Amar%20Mon%20Kamon%20Kore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/01 - Fahmida Nabi - Tumi Kon Kanoner Full (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/11%20-%20Fahmida%20Nabi%20-%20Fule%20Fule%20Doley%20Doley%202%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/02 - Fahmida Nabi - Boro Asha Kore Eshechi Ogo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/12%20-%20Fahmida%20Nabi%20-%20Majhe%20Majhe%20Tobo%20Dekha%20Pai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/08 - Fahmida Nabi - Ami Hridoyer Kotha Bolte Bakul (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/02%20-%20Fahmida%20Nabi%20-%20Boro%20Asha%20Kore%20Eshechi%20Ogo%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/09 - Fahmida Nabi - Tumi Robe Nirobe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/08%20-%20Fahmida%20Nabi%20-%20Ami%20Hridoyer%20Kotha%20Bolte%20Bakul%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/10 - Fahmida Nabi - Amar Bela Je Jai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/09%20-%20Fahmida%20Nabi%20-%20Tumi%20Robe%20Nirobe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/13 - Fahmida Nabi - O Amar Desher Maati (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/10%20-%20Fahmida%20Nabi%20-%20Amar%20Bela%20Je%20Jai%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/12 - Fahmida Nabi - Majhe Majhe Tobo Dekha Pai (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/05%20-%20Fahmida%20Nabi%20-%20Ami%20Keboli%20Shopno%20Korechi%20Bopon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/03 - Fahmida Nabi - Fuley Fuley Doley Doley (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/01%20-%20Fahmida%20Nabi%20-%20Tumi%20Kon%20Kanoner%20Full%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/07 - Fahmida Nabi - Promode Dhalie Dinu Mon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/03%20-%20Fahmida%20Nabi%20-%20Fuley%20Fuley%20Doley%20Doley%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/06 - Fahmida Nabi - Amar Mon Kamon Kore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/13%20-%20Fahmida%20Nabi%20-%20O%20Amar%20Desher%20Maati%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/F/Fahmida Nabi/Amar Bela Je Jai/11 - Fahmida Nabi - Fule Fule Doley Doley 2 (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/04%20-%20Fahmida%20Nabi%20-%20Amar%20O%20Poran%20O%20Jaha%20Chai%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/07%20-%20Fahmida%20Nabi%20-%20Promode%20Dhalie%20Dinu%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/06%20-%20Fahmida%20Nabi%20-%20Amar%20Mon%20Kamon%20Kore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/11%20-%20Fahmida%20Nabi%20-%20Fule%20Fule%20Doley%20Doley%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/12%20-%20Fahmida%20Nabi%20-%20Majhe%20Majhe%20Tobo%20Dekha%20Pai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/02%20-%20Fahmida%20Nabi%20-%20Boro%20Asha%20Kore%20Eshechi%20Ogo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/08%20-%20Fahmida%20Nabi%20-%20Ami%20Hridoyer%20Kotha%20Bolte%20Bakul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/09%20-%20Fahmida%20Nabi%20-%20Tumi%20Robe%20Nirobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/10%20-%20Fahmida%20Nabi%20-%20Amar%20Bela%20Je%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/05%20-%20Fahmida%20Nabi%20-%20Ami%20Keboli%20Shopno%20Korechi%20Bopon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/01%20-%20Fahmida%20Nabi%20-%20Tumi%20Kon%20Kanoner%20Full%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/03%20-%20Fahmida%20Nabi%20-%20Fuley%20Fuley%20Doley%20Doley%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/13%20-%20Fahmida%20Nabi%20-%20O%20Amar%20Desher%20Maati%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/04%20-%20Fahmida%20Nabi%20-%20Amar%20O%20Poran%20O%20Jaha%20Chai%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/07%20-%20Fahmida%20Nabi%20-%20Promode%20Dhalie%20Dinu%20Mon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/06%20-%20Fahmida%20Nabi%20-%20Amar%20Mon%20Kamon%20Kore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/11%20-%20Fahmida%20Nabi%20-%20Fule%20Fule%20Doley%20Doley%202%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/12%20-%20Fahmida%20Nabi%20-%20Majhe%20Majhe%20Tobo%20Dekha%20Pai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/02%20-%20Fahmida%20Nabi%20-%20Boro%20Asha%20Kore%20Eshechi%20Ogo%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/08%20-%20Fahmida%20Nabi%20-%20Ami%20Hridoyer%20Kotha%20Bolte%20Bakul%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/09%20-%20Fahmida%20Nabi%20-%20Tumi%20Robe%20Nirobe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/10%20-%20Fahmida%20Nabi%20-%20Amar%20Bela%20Je%20Jai%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/05%20-%20Fahmida%20Nabi%20-%20Ami%20Keboli%20Shopno%20Korechi%20Bopon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/01%20-%20Fahmida%20Nabi%20-%20Tumi%20Kon%20Kanoner%20Full%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/03%20-%20Fahmida%20Nabi%20-%20Fuley%20Fuley%20Doley%20Doley%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/13%20-%20Fahmida%20Nabi%20-%20O%20Amar%20Desher%20Maati%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/F/Fahmida%20Nabi/Amar%20Bela%20Je%20Jai/04%20-%20Fahmida%20Nabi%20-%20Amar%20O%20Poran%20O%20Jaha%20Chai%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

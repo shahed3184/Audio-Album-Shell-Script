@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Didi Moni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Ami%20Tomadari%20Lok%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Dil (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Zindigi%20Tasting%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Dukhar Poth (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Dukhar%20Poth%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Ami Tomadari Lok (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Loho%20Salam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Allah Ho Akbar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Shakki%20Akash%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Zindigi Tasting (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Dil%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Loho Salam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Aziz%20Bording%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Ja Kichu Bujacho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Allah%20Ho%20Akbar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Shakki Akash (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Ja%20Kichu%20Bujacho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/J/James/Ami Tomadari Lok/James - Aziz Bording (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Didi%20Moni%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Ami%20Tomadari%20Lok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Zindigi%20Tasting%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Dukhar%20Poth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Loho%20Salam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Shakki%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Dil%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Aziz%20Bording%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Allah%20Ho%20Akbar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Ja%20Kichu%20Bujacho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Didi%20Moni%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Ami%20Tomadari%20Lok%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Zindigi%20Tasting%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Dukhar%20Poth%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Loho%20Salam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Shakki%20Akash%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Dil%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Aziz%20Bording%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Allah%20Ho%20Akbar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Ja%20Kichu%20Bujacho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/J/James/Ami%20Tomadari%20Lok/James%20-%20Didi%20Moni%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

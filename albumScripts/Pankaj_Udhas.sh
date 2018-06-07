@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Ami Tumai Nie (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumi%20Khancha%20Hole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Bhalobasha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Muhonai%20Ese%20Nadi%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Tumi Khancha Hole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Ami%20Tumai%20Nie%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Jadi Aar Ektu Samoy Petam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jadi%20Aar%20Ektu%20Samoy%20Petam%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Jekhanei Thako (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jayre%20Chale%20Jay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - E Kemon Katha Rakha  (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumar%20Chukhete%20Dhara%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Tumra Amai Dauna bole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Bhalobasha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Muhonai Ese Nadi (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumra%20Amai%20Dauna%20bole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Tumar Chukhete Dhara (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jekhanei%20Thako%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Chukhe Tar Churabali (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Chukhe%20Tar%20Churabali%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Se Keno Amai Bujhlona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Se%20Keno%20Amai%20Bujhlona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/P/Pankaj Udhas/Pankaj Udhas - Jayre Chale Jay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20E%20Kemon%20Katha%20Rakha%20%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumi%20Khancha%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Muhonai%20Ese%20Nadi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Ami%20Tumai%20Nie%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jadi%20Aar%20Ektu%20Samoy%20Petam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jayre%20Chale%20Jay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumar%20Chukhete%20Dhara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumra%20Amai%20Dauna%20bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jekhanei%20Thako%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Chukhe%20Tar%20Churabali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Se%20Keno%20Amai%20Bujhlona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20E%20Kemon%20Katha%20Rakha%20%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumi%20Khancha%20Hole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Muhonai%20Ese%20Nadi%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Ami%20Tumai%20Nie%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jadi%20Aar%20Ektu%20Samoy%20Petam%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jayre%20Chale%20Jay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumar%20Chukhete%20Dhara%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Bhalobasha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Tumra%20Amai%20Dauna%20bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Jekhanei%20Thako%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Chukhe%20Tar%20Churabali%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20Se%20Keno%20Amai%20Bujhlona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/P/Pankaj%20Udhas/Pankaj%20Udhas%20-%20E%20Kemon%20Katha%20Rakha%20%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,63 +20,97 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Jibon Mane Jontrona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Shob%20Kota%20Janala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Amar Shara Deho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ekti%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Jhorer O Pakhi Hoye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Mago%20Aar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Keu Konodin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Oke%20R%20Korlo%20Na%20Keu%20Biye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Oshru Diye Lekha Naam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jonmo%20Amar%20Dhonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Shei Rail Line Err (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ektara%20Lage%20Na%20Amar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Oke R Korlo Na Keu Biye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ekdin%20Ghum%20Venge%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ekdin Ghum Venge (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20O%20Amar%20Aat%20Kuti%20Full%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Jodi Moroner Pore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Majhi%20Nao%20Charia%20De%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Eki Shonar Aloey (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jibon%20Mane%20Jontrona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Chithi Dio Protidin (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Chotto%20Akti%20Gram%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ei Mon Tomake Dilam (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Sundor%20Shuborno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Majhi Nao Charia De (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Shei%20Rail%20Line%20Err%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ami Rajanigandha Fuler Moto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jodi%20Moroner%20Pore%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ektara Lage Na Amar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Shob%20Kota%20Janala%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Jonmo Amar Dhonno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ekti%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Chotto Akti Gram (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Mago%20Aar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - O Amar Aat Kuti Full (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Oke%20R%20Korlo%20Na%20Keu%20Biye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Gitimoy Ei Din (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jonmo%20Amar%20Dhonno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Chandhyer Chhaya Name (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ektara%20Lage%20Na%20Amar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Asharaye Shish Diye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ekdin%20Ghum%20Venge%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ami Achhi Thakbo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20O%20Amar%20Aat%20Kuti%20Full%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Sundor Shuborno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Majhi%20Nao%20Charia%20De%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Dhukkho Amar Bashor Raater (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jibon%20Mane%20Jontrona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ekti Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Chotto%20Akti%20Gram%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Mago Aar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Sundor%20Shuborno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Ki Kora Bolibo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Shei%20Rail%20Line%20Err%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Shob Kota Janala (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jodi%20Moroner%20Pore%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
 
-wget "http://download.music.com.bd/Music/S/Sabina Yasmin/Sabina Yasmin - Shudhu Gaan Geye Porichoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Shob%20Kota%20Janala%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ekti%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Mago%20Aar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Oke%20R%20Korlo%20Na%20Keu%20Biye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jonmo%20Amar%20Dhonno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ektara%20Lage%20Na%20Amar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Ekdin%20Ghum%20Venge%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20O%20Amar%20Aat%20Kuti%20Full%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Majhi%20Nao%20Charia%20De%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jibon%20Mane%20Jontrona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Chotto%20Akti%20Gram%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Sundor%20Shuborno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Shei%20Rail%20Line%20Err%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/S/Sabina%20Yasmin/Sabina%20Yasmin%20-%20Jodi%20Moroner%20Pore%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,21 +20,61 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Guitar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Sunglass%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Rongila (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Mone%20Pore%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Nishidho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Kaga%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Sunglass (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Rongila%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Kaga (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Chokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Mone Pore (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Dolchut%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Dolchut (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Guitar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut - Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Nishidho%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Sunglass%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Kaga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Rongila%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Dolchut%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Guitar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Nishidho%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Sunglass%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Mone%20Pore%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Kaga%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Rongila%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Dolchut%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Guitar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/D/Dolchut/Aah/Dolchut%20-%20Nishidho%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

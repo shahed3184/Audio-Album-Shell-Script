@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/07 - Kumar Bishwajit - Shob Kotha Boloto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/08%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shukher%20Chaya%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/01 - Kumar Bishwajit - Ke Nam Bolona Tomar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/09%20-%20Kumar%20Bishwajit%20-%20Shukher%20Asha%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/06 - Kumar Bishwajit - Moneri Raag Onuraag (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/11%20-%20Kumar%20Bishwajit%20-%20Nisshahe%20Pran%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/10 - Kumar Bishwajit - Tumi Fhul Naki (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/03%20-%20Kumar%20Bishwajit%20-%20Shukh%20Chara%20Dukh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/12 - Kumar Bishwajit - Keo Bole (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/06%20-%20Kumar%20Bishwajit%20-%20Moneri%20Raag%20Onuraag%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/04 - Kumar Bishwajit - Ami Tori Shathe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/05%20-%20Kumar%20Bishwajit%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/08 - Kumar Bishwajit - Tomar Shukher Chaya (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/02%20-%20Kumar%20Bishwajit%20-%20Jeghane%20Simanto%20Tomar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/05 - Kumar Bishwajit - Ekhon Onek Raat (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/04%20-%20Kumar%20Bishwajit%20-%20Ami%20Tori%20Shathe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/11 - Kumar Bishwajit - Nisshahe Pran (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/12%20-%20Kumar%20Bishwajit%20-%20Keo%20Bole%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/03 - Kumar Bishwajit - Shukh Chara Dukh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/10%20-%20Kumar%20Bishwajit%20-%20Tumi%20Fhul%20Naki%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/09 - Kumar Bishwajit - Shukher Asha (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/07%20-%20Kumar%20Bishwajit%20-%20Shob%20Kotha%20Boloto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/K/Kumar Bishwajit/Jekhane Simanto Tomar/02 - Kumar Bishwajit - Jeghane Simanto Tomar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/01%20-%20Kumar%20Bishwajit%20-%20Ke%20Nam%20Bolona%20Tomar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/08%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shukher%20Chaya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/09%20-%20Kumar%20Bishwajit%20-%20Shukher%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/11%20-%20Kumar%20Bishwajit%20-%20Nisshahe%20Pran%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/03%20-%20Kumar%20Bishwajit%20-%20Shukh%20Chara%20Dukh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/06%20-%20Kumar%20Bishwajit%20-%20Moneri%20Raag%20Onuraag%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/05%20-%20Kumar%20Bishwajit%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/02%20-%20Kumar%20Bishwajit%20-%20Jeghane%20Simanto%20Tomar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/04%20-%20Kumar%20Bishwajit%20-%20Ami%20Tori%20Shathe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/12%20-%20Kumar%20Bishwajit%20-%20Keo%20Bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/10%20-%20Kumar%20Bishwajit%20-%20Tumi%20Fhul%20Naki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/07%20-%20Kumar%20Bishwajit%20-%20Shob%20Kotha%20Boloto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/01%20-%20Kumar%20Bishwajit%20-%20Ke%20Nam%20Bolona%20Tomar%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/08%20-%20Kumar%20Bishwajit%20-%20Tomar%20Shukher%20Chaya%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/09%20-%20Kumar%20Bishwajit%20-%20Shukher%20Asha%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/11%20-%20Kumar%20Bishwajit%20-%20Nisshahe%20Pran%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/03%20-%20Kumar%20Bishwajit%20-%20Shukh%20Chara%20Dukh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/06%20-%20Kumar%20Bishwajit%20-%20Moneri%20Raag%20Onuraag%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/05%20-%20Kumar%20Bishwajit%20-%20Ekhon%20Onek%20Raat%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/02%20-%20Kumar%20Bishwajit%20-%20Jeghane%20Simanto%20Tomar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/04%20-%20Kumar%20Bishwajit%20-%20Ami%20Tori%20Shathe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/12%20-%20Kumar%20Bishwajit%20-%20Keo%20Bole%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/10%20-%20Kumar%20Bishwajit%20-%20Tumi%20Fhul%20Naki%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/07%20-%20Kumar%20Bishwajit%20-%20Shob%20Kotha%20Boloto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/K/Kumar%20Bishwajit/Jekhane%20Simanto%20Tomar/01%20-%20Kumar%20Bishwajit%20-%20Ke%20Nam%20Bolona%20Tomar%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

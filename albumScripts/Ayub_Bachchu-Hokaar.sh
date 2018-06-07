@@ -20,25 +20,73 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Maa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Smriti%20Niye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Smriti Niye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Retired%20Father%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Emon Ti Holee (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Tomar%20Chiti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Jiboneer Maane (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Maa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Sesh Raater Doctor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Jiboneer%20Maane%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Ek Cup Chaa (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Sesh%20Raater%20Doctor%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Tomar Chiti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Ek%20Cup%20Chaa%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Retired Father (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Happy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Happy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Hokaar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Hokaar/Ayub Bachchu - Hokaar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Emon%20Ti%20Holee%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Smriti%20Niye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Retired%20Father%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Tomar%20Chiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Jiboneer%20Maane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Sesh%20Raater%20Doctor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Ek%20Cup%20Chaa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Happy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Hokaar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Emon%20Ti%20Holee%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Smriti%20Niye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Retired%20Father%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Tomar%20Chiti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Maa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Jiboneer%20Maane%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Sesh%20Raater%20Doctor%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Ek%20Cup%20Chaa%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Happy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Hokaar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Hokaar/Ayub%20Bachchu%20-%20Emon%20Ti%20Holee%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

@@ -20,41 +20,121 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Abc - Ashirbad (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Hell%20Divers%20-%20Jokhon%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Icons - Nishpap Oporadh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Reborn%20-%20Shob%20Kichu%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Musiczoo - Tritiyo Bissho (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Nemesis%20-%20Duhshopno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Hell Divers - Jokhon (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Breach%20-%20Boshonto%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Bivashika - Mohakaal (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Stentorian%20-%20Voy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Stentorian - Voy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Bivashika%20-%20Mohakaal%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Scarecrow - Dure Kothao (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Striking%20-%20Nishiddho%20Songlap%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Poison Green - Ekhaney Mrityu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Abc%20-%20Ashirbad%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Arbovirus - Ovishap (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Vinyl%20N%20Sugar%20-%20Obosheshe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Striking - Nishiddho Songlap (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Icons%20-%20Nishpap%20Oporadh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Breach - Boshonto (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Musiczoo%20-%20Tritiyo%20Bissho%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Metalmaze - Osthir Shomoy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Aashor%20-%20Shunno%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Reborn - Shob Kichu (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Scarecrow%20-%20Dure%20Kothao%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Bloodoria - Tar Poreo Bangladesh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Bloodoria%20-%20Tar%20Poreo%20Bangladesh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Nemesis - Duhshopno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Moshpit%20-%20Asroy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Aashor - Shunno (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Arbovirus%20-%20Ovishap%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Vinyl N Sugar - Obosheshe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Metalmaze%20-%20Osthir%20Shomoy%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/M/Mixed Albums/Din Bodol/Moshpit - Asroy (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Poison%20Green%20-%20Ekhaney%20Mrityu%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Hell%20Divers%20-%20Jokhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Reborn%20-%20Shob%20Kichu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Nemesis%20-%20Duhshopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Breach%20-%20Boshonto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Stentorian%20-%20Voy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Bivashika%20-%20Mohakaal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Striking%20-%20Nishiddho%20Songlap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Abc%20-%20Ashirbad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Vinyl%20N%20Sugar%20-%20Obosheshe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Icons%20-%20Nishpap%20Oporadh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Musiczoo%20-%20Tritiyo%20Bissho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Aashor%20-%20Shunno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Scarecrow%20-%20Dure%20Kothao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Bloodoria%20-%20Tar%20Poreo%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Moshpit%20-%20Asroy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Arbovirus%20-%20Ovishap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Metalmaze%20-%20Osthir%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Poison%20Green%20-%20Ekhaney%20Mrityu%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Hell%20Divers%20-%20Jokhon%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Reborn%20-%20Shob%20Kichu%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Nemesis%20-%20Duhshopno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Breach%20-%20Boshonto%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Stentorian%20-%20Voy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Bivashika%20-%20Mohakaal%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Striking%20-%20Nishiddho%20Songlap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Abc%20-%20Ashirbad%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Vinyl%20N%20Sugar%20-%20Obosheshe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Icons%20-%20Nishpap%20Oporadh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Musiczoo%20-%20Tritiyo%20Bissho%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Aashor%20-%20Shunno%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Scarecrow%20-%20Dure%20Kothao%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Bloodoria%20-%20Tar%20Poreo%20Bangladesh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Moshpit%20-%20Asroy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Arbovirus%20-%20Ovishap%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Metalmaze%20-%20Osthir%20Shomoy%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/M/Mixed%20Albums/Din%20Bodol/Poison%20Green%20-%20Ekhaney%20Mrityu%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

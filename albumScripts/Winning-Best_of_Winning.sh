@@ -20,27 +20,79 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Mon Ki Je Chay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Probash%20Theke%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Dur Pahar (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Neel%20Chokh%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Shonar Meye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Jibon%20Name%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Jibon Name (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shomoyer%20Tale%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Neel Chokh (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Dur%20Pahar%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Shomoyer Tale (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Mon%20Ki%20Je%20Chay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Probash Theke (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Hridoy%20Jure%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Sritigulo (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Brishti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Hridoy Jure (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shundor%20Dhoroni%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Brishti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shonar%20Meye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/W/Winning/Best of Winning/Winning - Shundor Dhoroni (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Sritigulo%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Probash%20Theke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Neel%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Jibon%20Name%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shomoyer%20Tale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Dur%20Pahar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Mon%20Ki%20Je%20Chay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Hridoy%20Jure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shundor%20Dhoroni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shonar%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Sritigulo%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Probash%20Theke%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Neel%20Chokh%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Jibon%20Name%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shomoyer%20Tale%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Dur%20Pahar%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Mon%20Ki%20Je%20Chay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Hridoy%20Jure%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shundor%20Dhoroni%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Shonar%20Meye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/W/Winning/Best%20of%20Winning/Winning%20-%20Sritigulo%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..

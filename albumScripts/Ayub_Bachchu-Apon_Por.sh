@@ -20,29 +20,85 @@ do
     cd $element
 done 
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/05 - Ayub Bachchu - Ghum Elona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/11%20-%20Ayub%20Bachchu%20-%20Shantona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/04 - Ayub Bachchu - Shundori (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/12%20-%20Ayub%20Bachchu%20-%20Mon%20Keno%20Jete%20Chay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/07 - Ayub Bachchu - Mouri (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/05%20-%20Ayub%20Bachchu%20-%20Ghum%20Elona%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/08 - Ayub Bachchu - Nishachor (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/10%20-%20Ayub%20Bachchu%20-%20Tomake%20Bhalobashe%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/06 - Ayub Bachchu - O Brishti (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/04%20-%20Ayub%20Bachchu%20-%20Shundori%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/03 - Ayub Bachchu - Kinnari (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/09%20-%20Ayub%20Bachchu%20-%20Jake%20Cheye%20Na%20Peye%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/10 - Ayub Bachchu - Tomake Bhalobashe (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/06%20-%20Ayub%20Bachchu%20-%20O%20Brishti%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/12 - Ayub Bachchu - Mon Keno Jete Chay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/07%20-%20Ayub%20Bachchu%20-%20Mouri%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/11 - Ayub Bachchu - Shantona (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/02%20-%20Ayub%20Bachchu%20-%20Shomoyer%20Isharay%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/02 - Ayub Bachchu - Shomoyer Isharay (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/03%20-%20Ayub%20Bachchu%20-%20Kinnari%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/09 - Ayub Bachchu - Jake Cheye Na Peye (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/01%20-%20Ayub%20Bachchu%20-%20Apon%20Por%20(music.com.bd).mp3"
 
-wget "http://download.music.com.bd/Music/A/Ayub Bachchu/Apon Por/01 - Ayub Bachchu - Apon Por (music.com.bd).mp3"
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/08%20-%20Ayub%20Bachchu%20-%20Nishachor%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/11%20-%20Ayub%20Bachchu%20-%20Shantona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/12%20-%20Ayub%20Bachchu%20-%20Mon%20Keno%20Jete%20Chay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/05%20-%20Ayub%20Bachchu%20-%20Ghum%20Elona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/10%20-%20Ayub%20Bachchu%20-%20Tomake%20Bhalobashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/04%20-%20Ayub%20Bachchu%20-%20Shundori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/09%20-%20Ayub%20Bachchu%20-%20Jake%20Cheye%20Na%20Peye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/06%20-%20Ayub%20Bachchu%20-%20O%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/07%20-%20Ayub%20Bachchu%20-%20Mouri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/02%20-%20Ayub%20Bachchu%20-%20Shomoyer%20Isharay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/03%20-%20Ayub%20Bachchu%20-%20Kinnari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/01%20-%20Ayub%20Bachchu%20-%20Apon%20Por%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/08%20-%20Ayub%20Bachchu%20-%20Nishachor%20(music.com.bd).mp3"
+for element in "${array[@]}"
+do
+    cd ..
+done 
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/11%20-%20Ayub%20Bachchu%20-%20Shantona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/12%20-%20Ayub%20Bachchu%20-%20Mon%20Keno%20Jete%20Chay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/05%20-%20Ayub%20Bachchu%20-%20Ghum%20Elona%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/10%20-%20Ayub%20Bachchu%20-%20Tomake%20Bhalobashe%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/04%20-%20Ayub%20Bachchu%20-%20Shundori%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/09%20-%20Ayub%20Bachchu%20-%20Jake%20Cheye%20Na%20Peye%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/06%20-%20Ayub%20Bachchu%20-%20O%20Brishti%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/07%20-%20Ayub%20Bachchu%20-%20Mouri%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/02%20-%20Ayub%20Bachchu%20-%20Shomoyer%20Isharay%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/03%20-%20Ayub%20Bachchu%20-%20Kinnari%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/01%20-%20Ayub%20Bachchu%20-%20Apon%20Por%20(music.com.bd).mp3"
+
+wget "http://download.music.com.bd/Music/A/Ayub%20Bachchu/Apon%20Por/08%20-%20Ayub%20Bachchu%20-%20Nishachor%20(music.com.bd).mp3"
 for element in "${array[@]}"
 do
     cd ..
