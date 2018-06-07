@@ -25,15 +25,3 @@ for element in "${array[@]}"
 do
     cd ..
 done 
-
-wget "http://download.music.com.bd/Music/E/Echoes/Echoes%20-%20Moho%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 
-
-wget "http://download.music.com.bd/Music/E/Echoes/Echoes%20-%20Moho%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

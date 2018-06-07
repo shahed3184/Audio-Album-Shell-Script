@@ -27,19 +27,3 @@ for element in "${array[@]}"
 do
     cd ..
 done 
-
-wget "http://download.music.com.bd/Music/F/Fulbanus%20Revenge/09%20-%20Ghaassh%20(music.com.bd).mp3"
-
-wget "http://download.music.com.bd/Music/F/Fulbanus%20Revenge/Fulbanus%20Revenge%20-%20Mukhosh%20Khule%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 
-
-wget "http://download.music.com.bd/Music/F/Fulbanus%20Revenge/09%20-%20Ghaassh%20(music.com.bd).mp3"
-
-wget "http://download.music.com.bd/Music/F/Fulbanus%20Revenge/Fulbanus%20Revenge%20-%20Mukhosh%20Khule%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

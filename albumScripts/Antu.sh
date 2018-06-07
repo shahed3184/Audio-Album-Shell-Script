@@ -29,23 +29,3 @@ for element in "${array[@]}"
 do
     cd ..
 done 
-
-wget "http://download.music.com.bd/Music/A/Antu/Antu%20-%20Tumi%20Bolo%20(music.com.bd).mp3"
-
-wget "http://download.music.com.bd/Music/A/Antu/Antu%20-%20Nil%20Akash%20(music.com.bd).mp3"
-
-wget "http://download.music.com.bd/Music/A/Antu/Antu%20-%20Tumi%20Jao%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 
-
-wget "http://download.music.com.bd/Music/A/Antu/Antu%20-%20Tumi%20Bolo%20(music.com.bd).mp3"
-
-wget "http://download.music.com.bd/Music/A/Antu/Antu%20-%20Nil%20Akash%20(music.com.bd).mp3"
-
-wget "http://download.music.com.bd/Music/A/Antu/Antu%20-%20Tumi%20Jao%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 
