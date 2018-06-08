@@ -1,10 +1,6 @@
-import java.io.BufferedReader
-import java.io.File
-import java.io.InputStreamReader
+import java.io.*
 import java.net.HttpURLConnection
 import java.net.URL
-import java.io.IOException
-
 
 
 data class Music(val fileName : String, val downloadScript : String)
@@ -13,6 +9,12 @@ data class Music(val fileName : String, val downloadScript : String)
 const val scriptDirectoryName = "../albumScripts"
 
 fun main(args : Array<String>) {
+
+//    val inputStream: InputStream = File("sitemap.xml").inputStream()
+//    inputStream.bufferedReader().useLines { lines -> lines.forEach {
+//        writeToFIle(getMusicFromLine(it));
+//    }
+//    }
 
     freshCreateScriptDir()
 
