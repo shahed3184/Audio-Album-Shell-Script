@@ -1,0 +1,13 @@
+{
+	"domain":"http://download.music.com.bd",
+	"skipext":	[
+					"pdf",
+					"xml"
+				],
+	"parserobots":false,
+	"debug":true,
+	"output":"sitemap.xml",
+	"exclude":	[
+				"action=edit"
+				]
+}
