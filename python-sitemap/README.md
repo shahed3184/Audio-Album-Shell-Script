@@ -99,5 +99,5 @@ $ python3 main.py --domain https://blog.lesite.us --images --parserobots | xmlli
   ```
 **Crawl Music files of music.com.bd**
   ```
-  --domain http://www.music.com.bd/download --output urlList.txt --verbose
+  --domain http://www.music.com.bd/download --output musicbd.txt --verbose
     ```
