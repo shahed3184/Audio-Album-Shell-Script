@@ -20,7 +20,7 @@ parser.add_argument('--images', action="store_true", default=False, required=Fal
 
 group = parser.add_mutually_exclusive_group()
 group.add_argument('--config', action="store", default=None, help="Configuration file in json format")
-group.add_argument('--domain', action="store", default="", help="Target domain (ex: http://blog.lesite.us)")
+group.add_argument('--domain', action="store", default="http://www.music.com.bd/", help="Target domain (ex: http://xyz.com)")
 
 arg = parser.parse_args()
 # Read the config file if needed
