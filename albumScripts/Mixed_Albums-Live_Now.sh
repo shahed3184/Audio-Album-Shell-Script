@@ -20,6 +20,8 @@ do
     cd $element
 done 
 
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/10%20-%20Reborn%20-%20Batighor%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/16%20-%20Various%20Artists%20-%20Live%20Now%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/07%20-%20X-Factor%20-%20Amar%20Shotto%20(music.com.bd).mp3"
@@ -36,8 +38,6 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/03%20-%2
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/14%20-%20Kollpolok%20-%20Anondo%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/10%20-%20Reborn%20-%20Batighor%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/13%20-%20DarkEnd%20-%20Dhrubo%20Shotto%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/01%20-%20Artcell%20-%20Ei%20Bidaye%20(music.com.bd).mp3"
@@ -51,7 +51,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/06%20-%2
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/02%20-%20Nemesis%20-%20Dhushor%20Bhabna%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/08%20-%20The%20Watson%20Brothers%20-%20Shukhi%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

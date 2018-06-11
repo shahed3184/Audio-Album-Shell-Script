@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/O/Obscure/Opekhkhay%20Theko/Obscure%
 wget -N "http://download.music.com.bd/Music/O/Obscure/Opekhkhay%20Theko/Obscure%20-%20Bangladesh%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/O/Obscure/Opekhkhay%20Theko/Obscure%20-%20Shesh%20Bikeler%20Alo%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

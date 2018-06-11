@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/F/Feedback/Bongabado%201400/09%20-%2
 wget -N "http://download.music.com.bd/Music/F/Feedback/Bongabado%201400/03%20-%20Feedback%20-%20Mone%20Pore%20Tomai%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/F/Feedback/Bongabado%201400/02%20-%20Feedback%20-%20Mama%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

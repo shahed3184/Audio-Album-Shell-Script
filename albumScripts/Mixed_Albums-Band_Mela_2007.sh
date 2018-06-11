@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Band%20Mela%202007/
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Band%20Mela%202007/05%20-%20Bangladesh%20-%20Bristi%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Band%20Mela%202007/01%20-%20The%20Trap%20-%20Bhalobasha%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

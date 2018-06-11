@@ -20,6 +20,8 @@ do
     cd $element
 done 
 
+wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/11%20-%20Kaniz%20Suborna%20-%20Tomay%20Pele%20Sajbo%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/01%20-%20Kaniz%20Suborna%20-%20Mithay%20Sadhonay%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/03%20-%20Kaniz%20Suborna%20-%20Ghoom%20Nae%20(music.com.bd).mp3"
@@ -38,12 +40,6 @@ wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomak
 
 wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/12%20-%20Kaniz%20Suborna%20-%20Sukh%20Chhuye%20Jay%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/11%20-%20Kaniz%20Suborna%20-%20Tomay%20Pele%20Sajbo%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/04%20-%20Kaniz%20Suborna%20-%20Amar%20Ae%20Bhalobasay%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/K/Kaniz%20Suborna/Bhalobashi%20Tomake/07%20-%20Kaniz%20Suborna%20-%20Din%20Kate%20Na%20Raat%20Katena%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

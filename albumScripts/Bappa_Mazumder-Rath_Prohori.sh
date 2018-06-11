@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rath%20Prohori/Ba
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rath%20Prohori/Bappa%20-%20Bus%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rath%20Prohori/Bappa%20-%20Key%20Jey%20Amar%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -57,7 +57,3 @@ wget -N "http://download.music.com.bd/Music/H/Hemanta/Aguner%20Parashmoni%20Chhn
 wget -N "http://download.music.com.bd/Music/H/Hemanta/Aguner%20Parashmoni%20Chhnoao%20Prane/16%20-%20Hemanta%20-%20Jabar%20Bela%20Sesh%20Kathati%20Jao%20Bole%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/H/Hemanta/Aguner%20Parashmoni%20Chhnoao%20Prane/14%20-%20Hemanta%20-%20E%20Paare%20Mukhar%20Holo%20Keka%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

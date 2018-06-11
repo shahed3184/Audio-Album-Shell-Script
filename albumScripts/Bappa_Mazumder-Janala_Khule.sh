@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Janala%20Khule/10
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Janala%20Khule/02%20-%20Bappa%20ft.%20Ana%20-%20Janala%20Khule%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Janala%20Khule/08%20-%20Bappa%20ft.%20Ana%20-%20Shondha%20Tara%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

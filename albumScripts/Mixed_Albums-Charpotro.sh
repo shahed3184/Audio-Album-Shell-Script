@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Charpotro/Duray%20-
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Charpotro/Adhar%20-%20Srishty%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Charpotro/Agontuk%20-%20Station%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

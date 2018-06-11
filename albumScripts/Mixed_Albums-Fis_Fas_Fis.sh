@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/05%
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/04%20-%20Ayub%20Bachchu%20-%20Bisesh%20Dine%20Bisesh%20Tumi%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Fis%20Fas%20Fis/02%20-%20Asif%20-%20Nari%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -51,7 +51,3 @@ wget -N "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shu
 wget -N "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/01%20-%20Hemanta%20-%20Keno%20Chokher%20Jale%20Bhijiye%20Dilem%20Na%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/H/Hemanta/Ki%20Gabo%20Ami%20Ki%20Shunabo/09%20-%20Hemanta%20-%20Ami%20Kaan%20Pete%20Roi%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

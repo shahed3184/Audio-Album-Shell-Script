@@ -20,15 +20,21 @@ do
     cd $element
 done 
 
+wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Neela%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Ar%20Kotokal%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Mogno%20Ei%20Raat%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20She%20Kon%20Dorodia%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Chad%20Tara%20Shurjo%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Harano%20Shur%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Jadu%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Neela%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Pahari%20Meye%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Ar%20Kotokal%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Gunjon%20Shuni%20(music.com.bd).mp3"
 
@@ -36,14 +42,4 @@ wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Dhik
 
 wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Moner%20Janala%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Chad%20Tara%20Shurjo%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Nissho%20Korecho%20Amae%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20Mogno%20Ei%20Raat%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/M/Miles/Chad%20Tara/Miles%20-%20She%20Kon%20Dorodia%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Ch
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Dhulo%20Pora%20Chiti%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Dhulo%20Pora%20Chiti/Bappa%20-%20Bondhu%20Tar%20Shathe%20Dekha%20Hole%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

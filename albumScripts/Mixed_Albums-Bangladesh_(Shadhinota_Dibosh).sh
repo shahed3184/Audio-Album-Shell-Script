@@ -45,7 +45,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Bangladesh%20(Shadh
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Bangladesh%20(Shadhinota%20Dibosh)/04%20-%20Mizan%20-%20Dukhini%20Ma%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Bangladesh%20(Shadhinota%20Dibosh)/13%20-%20Durey%20-%20Bhuli%20Nai%20Mora%20Bhulbo%20Na%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

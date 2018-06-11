@@ -47,7 +47,3 @@ wget -N "http://download.music.com.bd/Music/H/Hasan/Best%20of%20Hasan/09%20-%20H
 wget -N "http://download.music.com.bd/Music/H/Hasan/Best%20of%20Hasan/06%20-%20Hasan%20-%20Hath%20Chani%20Dia%20Dake%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/H/Hasan/Best%20of%20Hasan/10%20-%20Hasan%20-%20Bhule%20Gechi%20Kobe%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -47,7 +47,3 @@ wget -N "http://download.music.com.bd/Music/A/Ark/Tajmohol/07%20-%20Ark%20-%20Ek
 wget -N "http://download.music.com.bd/Music/A/Ark/Tajmohol/06%20-%20Ark%20-%20Noyone%20Noy%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/A/Ark/Tajmohol/05%20-%20Ark%20-%20Biday%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

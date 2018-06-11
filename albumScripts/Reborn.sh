@@ -21,7 +21,3 @@ do
 done 
 
 wget -N "http://download.music.com.bd/Music/R/Reborn/08%20-%20Agraashoon%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

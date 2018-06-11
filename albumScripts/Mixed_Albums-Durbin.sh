@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Durbin/02%20-%20Sab
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Durbin/05%20-%20Sabbir%20-%20Prochhonno%20Bhalobasha%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Durbin/09%20-%20Noyon%20-%20Elo%20Melo%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -47,7 +47,3 @@ wget -N "http://download.music.com.bd/Music/O/Ornob/Doob/06%20-%20Ornob%20-%20Dh
 wget -N "http://download.music.com.bd/Music/O/Ornob/Doob/01%20-%20Ornob%20-%20Onek%20Dur%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/O/Ornob/Doob/12%20-%20Ornob%20-%20Rastai%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

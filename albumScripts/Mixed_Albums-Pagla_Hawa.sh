@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Pagla%20Hawa/Pothik
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Pagla%20Hawa/James%20-%20Eshecho%20Boshecho%20Bhobe%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Pagla%20Hawa/Pothik%20Nodi%20-%20Brikho%20Jemon%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

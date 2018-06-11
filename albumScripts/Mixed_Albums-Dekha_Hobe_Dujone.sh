@@ -20,11 +20,11 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Azam%20Khan%20-%20Nil%20Akashe%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Polash%20-%20Jokhoni%20Lokaloy%20(music.com.bd).mp3"
 
@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujo
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Rocket%20-%20Mon%20Tui%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Mizan%20-%20Onno%20Shomoy%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

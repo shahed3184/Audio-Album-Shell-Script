@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%201/09%20-%
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%201/11%20-%20Vibe%20-%20Dure%20Dure%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%201/06%20-%20Koprophilia%20-%20Ochena%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

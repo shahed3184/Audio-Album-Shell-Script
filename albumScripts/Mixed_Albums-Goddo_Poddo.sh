@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Goddo%20Poddo/09%20
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Goddo%20Poddo/05%20-%20Shanto%20-%20O%20Ruposhi%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Goddo%20Poddo/04%20-%20Mila%20-%20Klanto%20Bishonno%20Raat%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

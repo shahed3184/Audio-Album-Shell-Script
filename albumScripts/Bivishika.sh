@@ -23,7 +23,3 @@ done
 wget -N "http://download.music.com.bd/Music/B/Bivishika/14%20-%20Bhobishot%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bivishika/Bivishika%20-%20Opare%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Surjo%20Snane%20C
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Surjo%20Snane%20Chol/07%20-%20Bappa%20Mazumder%20-%20Kadche%20Aakash%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Surjo%20Snane%20Chol/11%20-%20Bappa%20Mazumder%20-%20Jochona%20Duari%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

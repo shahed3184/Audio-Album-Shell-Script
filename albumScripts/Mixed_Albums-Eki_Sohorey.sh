@@ -37,7 +37,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Jewel%20-%20Tomakey%20Bojhano%20Khub%20Proyojon%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Eki%20Sohorey/Bappa%20-%20Fire%20Jaowar%20Shadinota%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

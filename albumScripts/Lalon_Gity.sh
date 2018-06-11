@@ -67,7 +67,3 @@ wget -N "http://download.music.com.bd/Music/L/Lalon%20Gity/Lalon%20Gity%20-%20ma
 wget -N "http://download.music.com.bd/Music/L/Lalon%20Gity/Lalon%20Gity%20-%20Milon%20hobe%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/L/Lalon%20Gity/Lalon%20Gity%20-%20tin%20pagoler%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

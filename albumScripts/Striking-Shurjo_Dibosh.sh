@@ -22,11 +22,11 @@ done
 
 wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/05%20-%20Striking%20-%20Opar%20Godhuli%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/07%20-%20Striking%20-%20Bhikkhito%20Ayna%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/01%20-%20Striking%20-%20Cactus%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/08%20-%20Striking%20-%20Olik%20Obokkhoy%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/07%20-%20Striking%20-%20Bhikkhito%20Ayna%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/06%20-%20Striking%20-%20Mohakabbo%20(music.com.bd).mp3"
 
@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/03%20-%20
 wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/09%20-%20Striking%20-%20Shikarokti%202000%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Striking/Shurjo%20Dibosh/02%20-%20Striking%20-%20Tobuo%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

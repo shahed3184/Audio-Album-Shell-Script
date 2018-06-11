@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dohon%20Sudhu%20Tom
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dohon%20Sudhu%20Tomar%20Jonno/Biplob%20-%20Atim%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dohon%20Sudhu%20Tomar%20Jonno/Biplob%20-%20Apone%20Batha%20Day%20Gopone%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

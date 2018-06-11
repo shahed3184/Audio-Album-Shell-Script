@@ -35,7 +35,3 @@ wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bap
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Kobitar%20Shironame%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Rater%20Train/Bappa%20-%20Choto%20Choto%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

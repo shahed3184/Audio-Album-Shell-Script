@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Kotodin%20Dekhina%2
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Kotodin%20Dekhina%20Tomay/Tutul%20-%20Gonga%20Jomuna%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Kotodin%20Dekhina%20Tomay/Sumon%20-%20Fondi%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

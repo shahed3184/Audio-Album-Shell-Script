@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Oporaijita/Partho%2
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Oporaijita/Biplob%20-%20Ethika%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Oporaijita/Bachu%20-%20Kichu%20Asha%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Tribute%20to%20S.
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Tribute%20to%20S.D.%20Burman%20and%20%20R.D.%20Burman/10%20-%20Bappa%20Feat.%20Shandipon%20-%20Mon%20Majhi%20Re%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Bappa%20Mazumder/Tribute%20to%20S.D.%20Burman%20and%20%20R.D.%20Burman/08%20-%20Bappa%20Feat.%20Shandipon%20-%20Jhilmil%20Jhilmil%20Jhiler%20Jole%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

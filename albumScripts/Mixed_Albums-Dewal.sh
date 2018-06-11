@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dewal/Hasan%20-%20C
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dewal/Tipu%20-%20Telephone%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dewal/Shafin%20Ahmed%20-%20Avimane%20Thakte%20Bolini%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

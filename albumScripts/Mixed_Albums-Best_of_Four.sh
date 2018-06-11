@@ -49,7 +49,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Pa
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Partho%20-%20Shomay%20Katena%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Best%20of%20Four/Bacchu%20-%20Nilanjina%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

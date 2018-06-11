@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekti%20Nari%20Obujh
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekti%20Nari%20Obujh/01%20-%20James%20-%20Rashtro%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekti%20Nari%20Obujh/02%20-%20Ayub%20Bachchu%20-%20Raj%20Poth%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

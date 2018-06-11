@@ -59,7 +59,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/10%20D%20RockStars/
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/10%20D%20RockStars/07%20-%20Shongita%20-%20Bhul%20Ful%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/10%20D%20RockStars/02%20-%20Niloy%20-%20Sondha%20Jokhon%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

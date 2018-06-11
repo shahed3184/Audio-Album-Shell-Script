@@ -49,7 +49,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%203/Aurthoh
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%203/Black%20-%20The%20Evening%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%203/Stentorian%20-%20Bishonno%20Andher%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

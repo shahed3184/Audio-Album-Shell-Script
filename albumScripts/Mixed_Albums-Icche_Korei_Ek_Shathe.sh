@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Raag%20Kore%20Ki%20Hobe%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Icche%20Korei%20Ek%20Shathe/Bappa%20-%20Chaadkeo%20Irsha%20Kori%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/S/Sahana%20Bazpai/Notun%20Kore%20Pab
 wget -N "http://download.music.com.bd/Music/S/Sahana%20Bazpai/Notun%20Kore%20Pabo%20Bole/02%20-%20Sahana%20Bazpai%20-%20Mor%20Bhabonare%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Sahana%20Bazpai/Notun%20Kore%20Pabo%20Bole/09%20-%20Sahana%20Bazpai%20-%20Aj%20Josnarate%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

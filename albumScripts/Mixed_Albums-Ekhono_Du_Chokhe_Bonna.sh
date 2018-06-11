@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokh
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Hasan%20-%20Proshno%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Ekhono%20Du%20Chokhe%20Bonna/Khalid%20-%20Kono%20Karone%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

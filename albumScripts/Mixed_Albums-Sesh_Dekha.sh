@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Sesh%20Dekha/Fojol%
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Sesh%20Dekha/James%20-%20Hoteo%20Pare%20Ei%20Dekha%20Sesh%20Dekha%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Sesh%20Dekha/Azom%20Khan%20-%20Jiboner%20Sesh%20Kota%20Din%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

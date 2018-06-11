@@ -31,7 +31,3 @@ wget -N "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20V
 wget -N "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Proteti%20Shotabdi%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/H/Hasan/Hello%20Koshto/Hasan%20-%20Cholo%20Bredabone%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

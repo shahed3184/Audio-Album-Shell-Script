@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/07%20-%20Shaf
 wget -N "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/03%20-%20Shafin%20Ahmed%20-%20Uchaton%20Ei%20Monta%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Shafin%20Ahmed/Virus/09%20-%20Shafin%20Ahmed%20-%20Sagor%20Pare%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

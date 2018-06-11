@@ -20,14 +20,16 @@ do
     cd $element
 done 
 
+wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Bangladesh...%20Smrity%20Ebong%20Amra%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Chera%20Akash%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Dukhya%20Bilas%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Dhushor%20Shomoy%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell_-_Dhushor_Shomoy%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Bangladesh...Smrity%20Ebong%20Amra%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/A/Artcell/Artcell%20-%20Dukhya%20Bilas%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/A/Artcell/03%20-%20Chera%20Akash%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

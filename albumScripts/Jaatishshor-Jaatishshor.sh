@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/02%20-%20J
 wget -N "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/05%20-%20Jaatishshor%20-%20Dhol%20Baje%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/J/Jaatishshor/Jaatishshor/09%20-%20Jaatishshor%20-%20Bilap%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

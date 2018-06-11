@@ -20,6 +20,8 @@ do
     cd $element
 done 
 
+wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Purbe%20Ar%20Poshchimete%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Etorpana%20Karjo%20Amar%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Kobe%20Shadhur%20Chorondhuli%20(music.com.bd).mp3"
@@ -36,10 +38,4 @@ wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Su
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Tomar%20Barir%20Aula%20Chale%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Purbe%20Ar%20Poshchimete%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Ondhokar%20Koy%20Chondrotare%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

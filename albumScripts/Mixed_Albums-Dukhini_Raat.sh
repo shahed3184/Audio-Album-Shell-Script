@@ -43,7 +43,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Asif
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Bappa%20-%20Kotota%20Dukha%20Pele%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dukhini%20Raat/Ayub%20Bachchu%20-%20Dukhini%20Rat%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

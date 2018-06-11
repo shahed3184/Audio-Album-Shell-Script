@@ -21,7 +21,3 @@ do
 done 
 
 wget -N "http://download.music.com.bd/Music/L/Legend/Legend%20-%20Tara%20Jala%20Ratri%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

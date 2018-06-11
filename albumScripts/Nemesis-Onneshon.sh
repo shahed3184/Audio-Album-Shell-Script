@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/N/Nemesis/Onneshon/Nemesis%20-%20Sho
 wget -N "http://download.music.com.bd/Music/N/Nemesis/Onneshon/Nemesis%20-%20New%20Day%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/N/Nemesis/Onneshon/Nemesis%20-%20Nei%20Somadhan%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Khelaram%20Khele%20
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Khelaram%20Khele%20Je/01%20-%20James%20-%20Khelaram%20Khele%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Khelaram%20Khele%20Je/08%20-%20Hasan%20-%20Bondor%20Nogor%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

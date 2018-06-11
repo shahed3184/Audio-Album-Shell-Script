@@ -39,7 +39,3 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Nokhshi%20Katha/Tar
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Nokhshi%20Katha/Hasan%20-%20Baishakhi%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Nokhshi%20Katha/James%20-%20Boro%20Ochena%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

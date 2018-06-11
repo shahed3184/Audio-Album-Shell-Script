@@ -41,7 +41,3 @@ wget -N "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi
 wget -N "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Kare%20Dekhabo%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/A/Andrew%20Kishor/Fire%20Fire%20Ashi/Andrew%20Kishor%20-%20Ami%20Chirokal%20(music.com.bd).mp3"
-for element in "${array[@]}"
-do
-    cd ..
-done 

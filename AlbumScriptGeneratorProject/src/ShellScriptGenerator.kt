@@ -1,4 +1,7 @@
-import java.io.*
+import java.io.BufferedReader
+import java.io.File
+import java.io.IOException
+import java.io.InputStreamReader
 import java.net.HttpURLConnection
 import java.net.URL
 
@@ -10,43 +13,63 @@ const val scriptDirectoryName = "../albumScripts"
 
 fun main(args : Array<String>) {
 
-//    val inputStream: InputStream = File("sitemap.xml").inputStream()
-//    inputStream.bufferedReader().useLines { lines -> lines.forEach {
-//        writeToFIle(getMusicFromLine(it));
-//    }
-//    }
 
-    freshCreateScriptDir()
+
+    File(scriptDirectoryName).mkdirs()
+
+
+    File("../site_map/musicbd.txt").forEachLine {
+            writeToFIle(getMusicFromTxtLine(it))
+    }
 
     val url = "http://download.music.com.bd/sitemap.xml"
     getResponseFromUrl(url).lines().forEach {
-        writeToFIle(getMusicFromLine(it));
+        writeToFIle(getMusicFromXmlLine(it));
     }
 
-    addFooterToBashScript()
 }
+
+val footerText = "for element in \"\${array[@]}\"\n" +
+        "do\n" +
+        "    cd ..\n" +
+        "done \n"
 
 private fun addFooterToBashScript(){
     //Add footer to all files
     val dirctory = File(scriptDirectoryName);
     dirctory.listFiles().forEach {
-        it.appendText("for element in \"\${array[@]}\"\n" +
-                "do\n" +
-                "    cd ..\n" +
-                "done \n")
+        it.appendText(footerText)
     }
 }
 
-private fun freshCreateScriptDir(){
-    //Create dir
-    val dirctory = File(scriptDirectoryName)
-    dirctory.listFiles().forEach {
-        it.delete()
+
+
+
+private fun getMusicFromTxtLine(downloadURl: String) : Music {
+    var it  = downloadURl
+    if (it.endsWith(".mp3")){
+        //proceed
+    } else {
+        return Music("", "");
     }
-    dirctory.mkdir()
+
+    var shellScriptName = "";
+    val parts = it.split("/")
+    parts.forEach {
+        //generate shell script name
+        if (!it.equals(".") && !it.contains(".com") && !it.contains("http") && !it.endsWith(".mp3") && !it.equals("Music") && it.length > 1) {
+            shellScriptName += it.replace("%20".toRegex(), "_") + "-"
+        }
+    }
+
+    shellScriptName = shellScriptName.removeSuffix("-") + ".sh"
+
+
+    return Music(shellScriptName, "wget -N \""+downloadURl+"\"")
+
 }
 
-private fun getMusicFromLine(tmpString: String) : Music {
+private fun getMusicFromXmlLine(tmpString: String) : Music {
     var it  = tmpString
     if (it.contains(".mp3.html")){
         it = it.replace("<url><loc>http://download.music.com.bd", ".").replace(".html</loc></url>", "")
@@ -112,12 +135,20 @@ fun writeToFIle(music: Music){
         myFile.appendText(beginningScript)
 
     }
-    myFile.appendText("\n")
+
+    myFile.inputStream().bufferedReader().use {
+        if (it.readText().contains(music.downloadScript)){
+            println("Script already exist "+music.downloadScript)
+        } else  {
+            myFile.appendText("\n")
+
+            println("Adding "+ music.fileName + " : "+music.downloadScript)
+
+            myFile.appendText(music.downloadScript+"\n")
+        }
+    }
 
 
-    println(music.fileName + " : "+music.downloadScript)
-
-    myFile.appendText(music.downloadScript+"\n")
 }
 
 
