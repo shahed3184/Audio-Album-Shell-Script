@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,11 +20,13 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Amar%20Mon%20Matano%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Akasher%20Haathe%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Jantam%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shorbo%20Shadhon%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Amar%20Mon%20Matano%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Bhalo%20Lagey%20Josna%20Raate%20(music.com.bd).mp3"
 
@@ -32,6 +34,4 @@ wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Boshe%20
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Shadhur%20Charan%20Dhuli%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Ami%20Jantam%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Akasher%20Haathe%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/B/Beauty/Beauty%20-%20Holudia%20Pakhi%20(music.com.bd).mp3"

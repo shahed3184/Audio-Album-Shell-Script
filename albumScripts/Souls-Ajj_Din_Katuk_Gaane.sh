@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,8 +20,6 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nirobe%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Prohoshon%20Prem%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Kichu%20Kichu%20Kotha%20(music.com.bd).mp3"
@@ -29,6 +27,8 @@ wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/So
 wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Chayer%20Kape%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Alo%20Adhare%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nirobe%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/S/Souls/Ajj%20Din%20Katuk%20Gaane/Souls%20-%20Nishartho%20(music.com.bd).mp3"
 

@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,26 +20,26 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Bishas%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Bokul%20Tolar%20Hat%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Dohol%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Miss%20Lolita%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Dhakaia%20Kaowon%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Prom%20Hoylona%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Duttori%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Prothom%20Bar%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Prom%20Hoylona%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Gonga%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Aashor%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Chokher%20Aaraal%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Prothom%20Bar%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Bishas%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Dhakaia%20Kaowon%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Dohol%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Bi%20Queen%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Aashor%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/P/Prometheus/Dohol/Prometheus%20-%20Bokul%20Tolar%20Hat%20(music.com.bd).mp3"

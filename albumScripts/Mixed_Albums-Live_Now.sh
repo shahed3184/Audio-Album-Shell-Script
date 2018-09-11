@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -19,8 +19,6 @@ do
     mkdir $element
     cd $element
 done 
-
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/10%20-%20Reborn%20-%20Batighor%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/16%20-%20Various%20Artists%20-%20Live%20Now%20(music.com.bd).mp3"
 
@@ -37,6 +35,8 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/09%20-%2
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/03%20-%20Aurthohin%20-%20Hollow[Attohonon%202]%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/14%20-%20Kollpolok%20-%20Anondo%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/10%20-%20Reborn%20-%20Batighor%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Live%20Now/13%20-%20DarkEnd%20-%20Dhrubo%20Shotto%20(music.com.bd).mp3"
 

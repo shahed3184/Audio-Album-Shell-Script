@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -19,8 +19,6 @@ do
     mkdir $element
     cd $element
 done 
-
-wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Purbe%20Ar%20Poshchimete%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Etorpana%20Karjo%20Amar%20(music.com.bd).mp3"
 
@@ -37,5 +35,7 @@ wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Ma
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Sukher%20Lagi%20Phad%20Patia%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Tomar%20Barir%20Aula%20Chale%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Purbe%20Ar%20Poshchimete%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/B/Beauty/Chorondashi/Beauty%20-%20Ondhokar%20Koy%20Chondrotare%20(music.com.bd).mp3"

@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,19 +20,7 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Anila%20-%20Jhilmil%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Zion%20-%20Youth%20Man%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Judgement%20-%20Mon%20Chaile%20Mon%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Litu%20-%20Syhloti%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Oni%20-%20Mane%20Na%20Mon%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Armeen%20-%20Asha%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Judgement%20-%20Dont%20Cross%20The%20Border%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Oni%20-%20Ei%20Mon%20(music.com.bd).mp3"
 
@@ -44,6 +32,18 @@ wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Kaniz%20Shuborna%
 
 wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Fuad%20-%20Gopone%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Oni%20-%20Mane%20Na%20Mon%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Punam%20-%20Besto%20Shohore%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Judgement%20-%20Mon%20Chaile%20Mon%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Anila%20-%20Jhilmil%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Armeen%20-%20Asha%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Zion%20-%20Youth%20Man%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Armeen%20-%20Bhromor%20Koio%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/F/Fuad/ReEvolution/Judgement%20-%20Dont%20Cross%20The%20Border%20(music.com.bd).mp3"

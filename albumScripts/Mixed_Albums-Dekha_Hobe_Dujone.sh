@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,11 +20,11 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Azam%20Khan%20-%20Nil%20Akashe%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Ponchom%20-%20Jeona%20Oshomoye%20(music.com.bd).mp3"
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Hasan%20-%20Dekha%20Hobe%20Dujone%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Dekha%20Hobe%20Dujone/Polash%20-%20Jokhoni%20Lokaloy%20(music.com.bd).mp3"
 

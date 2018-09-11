@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,8 +20,6 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/1%20-%20Tahsan%20-%20Nei%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/5%20-%20Tahsan%20-%20Bangladesh%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/4%20-%20Tahsan%20-%20Bhulte%20Parbena%20(music.com.bd).mp3"
@@ -33,6 +31,8 @@ wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/11%20-%20Tahsan%20-%20S
 wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/10%20-%20Tahsan%20-%20Mutho%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/6%20-%20Tahsan%20-%20Pathorer%20Golpokar%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/1%20-%20Tahsan%20-%20Nei%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/T/Tahsan/Nei/3%20-%20Tahsan%20-%20Porimiti%20(music.com.bd).mp3"
 

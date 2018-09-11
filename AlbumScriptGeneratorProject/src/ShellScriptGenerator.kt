@@ -18,9 +18,9 @@ fun main(args : Array<String>) {
     File(scriptDirectoryName).mkdirs()
 
 
-    File("../site_map/musicbd.txt").forEachLine {
-            writeToFIle(getMusicFromTxtLine(it))
-    }
+//    File("../site_map/musicbd.txt").forEachLine {
+//            writeToFIle(getMusicFromTxtLine(it))
+//    }
 
     val url = "http://download.music.com.bd/sitemap.xml"
     getResponseFromUrl(url).lines().forEach {
@@ -116,7 +116,8 @@ fun writeToFIle(music: Music){
                 "\n" +
                 "\n" +
                 "scriptDirectory=\"\${0##*/}\"\n" +
-                "fileDirectory=\${scriptDirectory:: - 3}\n" +
+                "#fileDirectory=\${scriptDirectory:: - 3}\n" +
+                "fileDirectory\${scriptDirectory::\${#scriptDirectory}-3}" +
                 "\n" +
                 "cd ..\n" +
                 "\n" +

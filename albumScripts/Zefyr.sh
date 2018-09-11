@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -19,7 +19,5 @@ do
     mkdir $element
     cd $element
 done 
-
-wget -N "http://download.music.com.bd/Music/Z/Zefyr/Zefyr%20-%20Gotimoy%20Shohore%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/Z/Zefyr/Zefyr%20-%20Desh%20(music.com.bd).mp3"

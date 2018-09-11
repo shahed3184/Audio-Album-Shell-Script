@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,11 +20,9 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/04%20-%20James%20-%20Akta%20Kichu%20Koro%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/10%20-%20James%20-%20Chakuri%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/03%20-%20Ayub%20Bachchu%20-%20Bidhi%20Akta%20Sadh%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/04%20-%20James%20-%20Akta%20Kichu%20Koro%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/02%20-%20James%20-%20Mawla%20Tumi%20Kache%20(music.com.bd).mp3"
 
@@ -39,3 +37,5 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/08%20-%20James
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/07%20-%20Ayub%20Bachchu%20-%20O%20Rater%20Tara%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/09%20-%20Ayub%20Bachchu%20-%20Mithe%20Kore%20Jodi%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Mati/10%20-%20James%20-%20Chakuri%20(music.com.bd).mp3"

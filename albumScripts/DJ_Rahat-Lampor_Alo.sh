@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -22,17 +22,17 @@ done
 
 wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/02%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Opar%20Hoia%20(music.com.bd).mp3"
 
-wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/09%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Amai%20Kadale%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/04%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Maya%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/06%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Lampor%20Alo%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/01%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Intro%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/03%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Tora%20Ke%20Jashre%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/04%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Maya%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/10%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Kaka%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/09%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Amai%20Kadale%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/D/DJ%20Rahat/Lampor%20Alo/08%20-%20DJ%20Rahat%20Feat.%20Tun%20Tun%20Baul%20-%20Tin%20Pagol%20(music.com.bd).mp3"
 

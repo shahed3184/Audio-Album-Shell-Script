@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,10 +20,6 @@ do
     cd $element
 done 
 
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Breach%20-%20Shada%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Aurthohin%20-%20Judho%20(music.com.bd).mp3"
-
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Nemesis%20-%20Obochetona%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Reborn%20-%20Kritodash%20(music.com.bd).mp3"
@@ -36,9 +32,13 @@ wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Dethrow
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Kral%20-%20Shesh%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Breach%20-%20Shada%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Crypticfate%20-%20Prem%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Stentorian%20-%20Oddrissho%20Juddho%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Aurthohin%20-%20Judho%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/M/Mixed%20Albums/Agontuk%202/Arbovirus%20-%20Artonaad%20(music.com.bd).mp3"
 

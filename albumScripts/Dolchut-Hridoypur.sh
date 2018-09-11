@@ -3,8 +3,8 @@
 
 
 scriptDirectory="${0##*/}"
-fileDirectory=${scriptDirectory:: - 3}
-
+#fileDirectory=${scriptDirectory:: - 3}
+fileDirectory${scriptDirectory::${#scriptDirectory}-3}
 cd ..
 
 mkdir files
@@ -20,26 +20,26 @@ do
     cd $element
 done 
 
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Gari%20Chole%20Na%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Antorjatik%20Bhikuk%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Bazzi%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Sobuj%20Jokhon%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Brishti%20(music.com.bd).mp3"
 
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Nouka%20Bhromon%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Gach%20(music.com.bd).mp3"
+
 wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Chader%20Jonno%20Gaan%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Sobuj%20Jokhon%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Tomakei%20Bole%20Debo%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Joler%20Dam%20(music.com.bd).mp3"
+
+wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Bazzi%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Chalo%20Bubuijan%20(music.com.bd).mp3"
 
 wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Amar%20Sontan%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Nouka%20Bhromon%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Joler%20Dam%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Gari%20Chole%20Na%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Tomakei%20Bole%20Debo%20(music.com.bd).mp3"
-
-wget -N "http://download.music.com.bd/Music/D/Dolchut/Hridoypur/Dolchut%20-%20Gach%20(music.com.bd).mp3"
