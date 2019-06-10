@@ -116,8 +116,11 @@ fun writeToFIle(music: Music){
                 "\n" +
                 "\n" +
                 "scriptDirectory=\"\${0##*/}\"\n" +
+                "# Remove .sh from file name\n" +
                 "#fileDirectory=\${scriptDirectory:: - 3}\n" +
-                "fileDirectory\${scriptDirectory::\${#scriptDirectory}-3}" +
+                "#fileDirectory\${scriptDirectory::\${#scriptDirectory}-3}" +
+                "\n" +
+                "fileDirectory=\${scriptDirectory%???}" +
                 "\n" +
                 "cd ..\n" +
                 "\n" +

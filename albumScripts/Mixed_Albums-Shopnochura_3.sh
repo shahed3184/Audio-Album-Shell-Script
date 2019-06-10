@@ -3,8 +3,10 @@
 
 
 scriptDirectory="${0##*/}"
+# Remove .sh from file name
 #fileDirectory=${scriptDirectory:: - 3}
-fileDirectory${scriptDirectory::${#scriptDirectory}-3}
+#fileDirectory${scriptDirectory::${#scriptDirectory}-3}
+fileDirectory=${scriptDirectory%???}
 cd ..
 
 mkdir files
